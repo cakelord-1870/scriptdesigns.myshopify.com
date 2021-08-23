@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://scriptdesigns.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://scriptdesigns.myshopify.com/collections/order-shipping-upgrades.atom"/>
+  <title>ScriptDesigns</title>
+  <updated>2018-11-20T11:04:16-05:00</updated>
+  <author>
+    <name>ScriptDesigns</name>
+  </author>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/2344226619472</id>
+    <published>2018-11-20T11:04:16-05:00</published>
+    <updated>2018-11-20T11:04:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/copy-of-purolator-upgrade-quote-needed"/>
+    <title>*Purolator Upgrade - Quote Needed</title>
+    <s:type></s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Puro_663d1be0-aedd-4fdb-a28f-575882671ce8.jpg?v=1542730486"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>You want to get your order faster and are willing to pay the extra money?  Select this product and we will contact you to provide you with a quote on the upgrade cost for the fastest Purolator service available for your location.  The amount will be <span style="display: inline !important; float: none; background-color: transparent; color: #000000; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 21px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">the difference in cost between what you paid or the value of free shipping and the upgrade. </span> We will send an email to the address registered on your account and await your response via email at scriptdesignscanada@gmail.com  Please do not leave your response in a voicemail.  Once we get your ok, we will send you an invoice and your order will be shipped as soon as the invoice is paid.</p>
+<p><strong><em>Disclaimer: Note that the website doesn't allow us to remove the $0.00 price but this service is not free.  Should you choose to proceed with the upgrade, you will be invoiced for the difference in cost as explained above.</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/2344226619472</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>PuroUpgradeWithQuote</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/2344225013840</id>
+    <published>2018-11-20T11:04:16-05:00</published>
+    <updated>2018-11-20T11:04:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/purolator-upgrade-no-quote-needed"/>
+    <title>*Purolator Upgrade - No quote needed</title>
+    <s:type></s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Puro.jpg?v=1542730405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>You want to get your order faster and are willing to pay the extra money?  Select this product and we will ship your order with the fastest Purolator option available for your location.  We will send an invoice to the email address registered on your account for the difference in cost between what you paid, or the value of free shipping, and the upgrade cost.  Your order will be shipped as soon as the invoice is paid.</p>
+<p><strong><em>Disclaimer: Note that the website doesn't allow us to remove the $0.00 price but this service is not free.  You will be invoiced for the difference in cost as explained above.</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/2344225013840</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>PuroUpgradeNoQuote</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/8988566022</id>
+    <published>2017-05-25T09:36:09-04:00</published>
+    <updated>2017-05-25T09:36:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/rush-order-fee"/>
+    <title>* RUSH ORDER FEE (Before 9:00 a.m. for guaranteed same day processing)</title>
+    <s:type>Rush</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/rush_order_2.jpg?v=1480041956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Rush<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Paying this rush fee will have us process your order urgently.  It has nothing to do with the Canada Post shipping timelines.  We must receive the rush order before 9:00 a.m. (Eastern Standard Time - Ottawa time) to guarantee shipping on the same day.  After this time, we will do our very best to process your order the same day but cannot always guarantee it.  This fee cannot be applied if you have prints or decals in your order.</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fast</s:tag>
+    <s:tag>fee</s:tag>
+    <s:tag>order</s:tag>
+    <s:tag>processing</s:tag>
+    <s:tag>Rush</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/8988566022</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>RUSHORDER</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+</feed>

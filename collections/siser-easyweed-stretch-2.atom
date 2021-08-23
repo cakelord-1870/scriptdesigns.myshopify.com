@@ -1,0 +1,2636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://scriptdesigns.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://scriptdesigns.myshopify.com/collections/siser-easyweed-stretch-2.atom"/>
+  <title>ScriptDesigns</title>
+  <updated>2020-07-09T15:52:06-04:00</updated>
+  <author>
+    <name>ScriptDesigns</name>
+  </author>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/4721635557456</id>
+    <published>2020-07-09T15:52:06-04:00</published>
+    <updated>2020-07-09T15:52:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/st61-pale-blue-siser-easyweed-stretch-htv"/>
+    <title>ST61 Pale Blue - Siser EasyWeed Stretch HTV</title>
+    <s:type>Siser EasyWeed Stretch</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/PaleBlue.jpg?v=1594323314"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser EasyWeed Stretch<br>
+        <strong>Price: </strong>
+            3.00 - 51.00
+            <a href="https://scriptdesigns.myshopify.com/products/st61-pale-blue-siser-easyweed-stretch-htv">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Putting the “Performance” in Performance Wear.</h2>
+<p>Performance wear has met its match! Siser EasyWeed™ Stretch delivers all the benefits of our EasyWeed™ heat transfer material and combines it with super stretchability to create one remarkable heat transfer material! The thinnest of any Siser material, EasyWeed™ Stretch has an ultra-matte finish and a soft hand. EasyWeed™ Stretch is laminated onto a pressure-sensitive carrier that allows for cutting and weeding detailed designs.</p>
+<p>EasyWeed™ Stretch is <strong>CPSIA Certified</strong>, so it's safe on garments for all ages! </p>
+<p><a title="Video - EasyWeed Stretch Application" href="https://www.youtube.com/watch?v=Yu-o92zyvbU">https://www.youtube.com/watch?v=Yu-o92zyvbU</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20% off</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>Calypso</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Corail</s:tag>
+    <s:tag>Coral</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>Easy</s:tag>
+    <s:tag>Easyweed</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>heat transfer</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>Scriptdesigns</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>stretch</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4721635557456</id>
+      <title>15&quot; x 6&quot;</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4721635557456</id>
+      <title>15&quot; x 12&quot;</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4721635557456</id>
+      <title>15&quot; x 24&apos;&apos;</title>
+      <s:price currency="CAD">9.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4721635557456</id>
+      <title>15&quot; x 1 yard</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4721635557456</id>
+      <title>15&quot; x 5 yards</title>
+      <s:price currency="CAD">51.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/4721638539344</id>
+    <published>2020-07-09T15:44:54-04:00</published>
+    <updated>2020-07-09T15:44:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/st31-cobalt-blue-siser-easyweed-stretch-htv"/>
+    <title>ST31 Cobalt Blue - Siser EasyWeed Stretch HTV</title>
+    <s:type>Siser EasyWeed Stretch</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/CobaltBlue.jpg?v=1594323913"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser EasyWeed Stretch<br>
+        <strong>Price: </strong>
+            3.00 - 51.00
+            <a href="https://scriptdesigns.myshopify.com/products/st31-cobalt-blue-siser-easyweed-stretch-htv">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Putting the “Performance” in Performance Wear.</h2>
+<p>Performance wear has met its match! Siser EasyWeed™ Stretch delivers all the benefits of our EasyWeed™ heat transfer material and combines it with super stretchability to create one remarkable heat transfer material! The thinnest of any Siser material, EasyWeed™ Stretch has an ultra-matte finish and a soft hand. EasyWeed™ Stretch is laminated onto a pressure-sensitive carrier that allows for cutting and weeding detailed designs.</p>
+<p>EasyWeed™ Stretch is <strong>CPSIA Certified</strong>, so it's safe on garments for all ages! </p>
+<p><a title="Video - EasyWeed Stretch Application" href="https://www.youtube.com/watch?v=Yu-o92zyvbU">https://www.youtube.com/watch?v=Yu-o92zyvbU</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20% off</s:tag>
+    <s:tag>adhesive</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>berry</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>cold peel</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>Easy</s:tag>
+    <s:tag>Easyweed</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>interior vinyl</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>purple berry</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>Scriptdesigns</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>stretch</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4721638539344</id>
+      <title>15&quot; x 6&quot;</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4721638539344</id>
+      <title>15&quot; x 12&quot;</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4721638539344</id>
+      <title>15&quot; x 24&apos;&apos;</title>
+      <s:price currency="CAD">9.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4721638539344</id>
+      <title>15&quot; x 1 yard</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4721638539344</id>
+      <title>15&quot; x 5 yards</title>
+      <s:price currency="CAD">51.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/4721635360848</id>
+    <published>2020-07-09T15:34:14-04:00</published>
+    <updated>2020-07-09T15:34:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/st60-totally-teal-siser-easyweed-stretch-htv"/>
+    <title>ST60 Totally Teal - Siser EasyWeed Stretch HTV</title>
+    <s:type>Siser EasyWeed Stretch</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/TotallyTeal.jpg?v=1594323277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser EasyWeed Stretch<br>
+        <strong>Price: </strong>
+            3.00 - 51.00
+            <a href="https://scriptdesigns.myshopify.com/products/st60-totally-teal-siser-easyweed-stretch-htv">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Putting the “Performance” in Performance Wear.</h2>
+<p>Performance wear has met its match! Siser EasyWeed™ Stretch delivers all the benefits of our EasyWeed™ heat transfer material and combines it with super stretchability to create one remarkable heat transfer material! The thinnest of any Siser material, EasyWeed™ Stretch has an ultra-matte finish and a soft hand. EasyWeed™ Stretch is laminated onto a pressure-sensitive carrier that allows for cutting and weeding detailed designs.</p>
+<p>EasyWeed™ Stretch is <strong>CPSIA Certified</strong>, so it's safe on garments for all ages! </p>
+<p><a title="Video - EasyWeed Stretch Application" href="https://www.youtube.com/watch?v=Yu-o92zyvbU">https://www.youtube.com/watch?v=Yu-o92zyvbU</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20% off</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>Calypso</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Corail</s:tag>
+    <s:tag>Coral</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>Easy</s:tag>
+    <s:tag>Easyweed</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>heat transfer</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>Scriptdesigns</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>stretch</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4721635360848</id>
+      <title>15&quot; x 6&quot;</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4721635360848</id>
+      <title>15&quot; x 12&quot;</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4721635360848</id>
+      <title>15&quot; x 24&apos;&apos;</title>
+      <s:price currency="CAD">9.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4721635360848</id>
+      <title>15&quot; x 1 yard</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4721635360848</id>
+      <title>15&quot; x 5 yards</title>
+      <s:price currency="CAD">51.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/4721634443344</id>
+    <published>2020-07-09T15:31:31-04:00</published>
+    <updated>2020-07-09T15:31:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/st24-pine-green-siser-easyweed-stretch-htv"/>
+    <title>ST24 Pine Green - Siser EasyWeed Stretch HTV</title>
+    <s:type>Siser EasyWeed Stretch</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/PineGreen.jpg?v=1594323114"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser EasyWeed Stretch<br>
+        <strong>Price: </strong>
+            3.00 - 51.00
+            <a href="https://scriptdesigns.myshopify.com/products/st24-pine-green-siser-easyweed-stretch-htv">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Putting the “Performance” in Performance Wear.</h2>
+<p>Performance wear has met its match! Siser EasyWeed™ Stretch delivers all the benefits of our EasyWeed™ heat transfer material and combines it with super stretchability to create one remarkable heat transfer material! The thinnest of any Siser material, EasyWeed™ Stretch has an ultra-matte finish and a soft hand. EasyWeed™ Stretch is laminated onto a pressure-sensitive carrier that allows for cutting and weeding detailed designs.</p>
+<p>EasyWeed™ Stretch is <strong>CPSIA Certified</strong>, so it's safe on garments for all ages! </p>
+<p><a title="Video - EasyWeed Stretch Application" href="https://www.youtube.com/watch?v=Yu-o92zyvbU">https://www.youtube.com/watch?v=Yu-o92zyvbU</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20% off</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>Calypso</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Corail</s:tag>
+    <s:tag>Coral</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>Easy</s:tag>
+    <s:tag>Easyweed</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>heat transfer</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>Scriptdesigns</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>stretch</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4721634443344</id>
+      <title>15&quot; x 6&quot;</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4721634443344</id>
+      <title>15&quot; x 12&quot;</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4721634443344</id>
+      <title>15&quot; x 24&apos;&apos;</title>
+      <s:price currency="CAD">9.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4721634443344</id>
+      <title>15&quot; x 1 yard</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4721634443344</id>
+      <title>15&quot; x 5 yards</title>
+      <s:price currency="CAD">51.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/4721634148432</id>
+    <published>2020-07-09T15:30:03-04:00</published>
+    <updated>2020-07-09T15:30:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/st793-bubblegum-siser-easyweed-stretch-htv"/>
+    <title>ST79 Bubblegum - Siser EasyWeed Stretch HTV</title>
+    <s:type>Siser EasyWeed Stretch</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/ST-79BubbleGum.jpg?v=1594323040"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser EasyWeed Stretch<br>
+        <strong>Price: </strong>
+            3.00 - 51.00
+            <a href="https://scriptdesigns.myshopify.com/products/st793-bubblegum-siser-easyweed-stretch-htv">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Putting the “Performance” in Performance Wear.</h2>
+<p>Performance wear has met its match! Siser EasyWeed™ Stretch delivers all the benefits of our EasyWeed™ heat transfer material and combines it with super stretchability to create one remarkable heat transfer material! The thinnest of any Siser material, EasyWeed™ Stretch has an ultra-matte finish and a soft hand. EasyWeed™ Stretch is laminated onto a pressure-sensitive carrier that allows for cutting and weeding detailed designs.</p>
+<p>EasyWeed™ Stretch is <strong>CPSIA Certified</strong>, so it's safe on garments for all ages! </p>
+<p><a title="Video - EasyWeed Stretch Application" href="https://www.youtube.com/watch?v=Yu-o92zyvbU">https://www.youtube.com/watch?v=Yu-o92zyvbU</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20% off</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>Calypso</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Corail</s:tag>
+    <s:tag>Coral</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>Easy</s:tag>
+    <s:tag>Easyweed</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>heat transfer</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>Scriptdesigns</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>stretch</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4721634148432</id>
+      <title>15&quot; x 6&quot;</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>SISER-ST-63-15X6</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4721634148432</id>
+      <title>15&quot; x 12&quot;</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>SISER-ST-63-15X12</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4721634148432</id>
+      <title>15&quot; x 24&apos;&apos;</title>
+      <s:price currency="CAD">9.25</s:price>
+      <s:sku>SISER-ST-63-15X24</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4721634148432</id>
+      <title>15&quot; x 1 yard</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku>SISER-ST-63-15X1yrd</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4721634148432</id>
+      <title>15&quot; x 5 yards</title>
+      <s:price currency="CAD">51.00</s:price>
+      <s:sku>SISER-ST-63-15X5yrd</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/4462589116496</id>
+    <published>2020-02-07T14:35:31-05:00</published>
+    <updated>2020-02-07T14:35:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/st-15-royal-purple-siser-easyweed-stretch-htv"/>
+    <title>ST15 Royal Purple - Siser EasyWeed Stretch HTV</title>
+    <s:type>Siser EasyWeed Stretch</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Royal-Purple.jpg?v=1594323646"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser EasyWeed Stretch<br>
+        <strong>Price: </strong>
+            3.00 - 51.00
+            <a href="https://scriptdesigns.myshopify.com/products/st-15-royal-purple-siser-easyweed-stretch-htv">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Putting the “Performance” in Performance Wear.</h2>
+<p>Performance wear has met its match! Siser EasyWeed™ Stretch delivers all the benefits of our EasyWeed™ heat transfer material and combines it with super stretchability to create one remarkable heat transfer material! The thinnest of any Siser material, EasyWeed™ Stretch has an ultra-matte finish and a soft hand. EasyWeed™ Stretch is laminated onto a pressure-sensitive carrier that allows for cutting and weeding detailed designs.</p>
+<p>EasyWeed™ Stretch is <strong>CPSIA Certified</strong>, so it's safe on garments for all ages! </p>
+<p><a title="Video - EasyWeed Stretch Application" href="https://www.youtube.com/watch?v=Yu-o92zyvbU">https://www.youtube.com/watch?v=Yu-o92zyvbU</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20% off</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>Calypso</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Corail</s:tag>
+    <s:tag>Coral</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>Easy</s:tag>
+    <s:tag>Easyweed</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>heat transfer</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>Scriptdesigns</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>stretch</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4462589116496</id>
+      <title>15&quot; x 6&quot;</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>SISER-ST-15-15X6</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4462589116496</id>
+      <title>15&quot; x 12&quot;</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>SISER-ST-15-15X12</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4462589116496</id>
+      <title>15&quot; x 24&apos;&apos;</title>
+      <s:price currency="CAD">9.25</s:price>
+      <s:sku>SISER-ST-15-15X24</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4462589116496</id>
+      <title>15&quot; x 1 yard</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku>SISER-ST-15-15X1yrd</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4462589116496</id>
+      <title>15&quot; x 5 yards</title>
+      <s:price currency="CAD">51.00</s:price>
+      <s:sku>SISER-ST-15-15X5yrd</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/4462588657744</id>
+    <published>2020-02-07T14:33:16-05:00</published>
+    <updated>2020-02-07T14:33:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/st-36-wisteria-siser-easyweed-stretch-htv"/>
+    <title>ST36 Wisteria - Siser EasyWeed Stretch HTV</title>
+    <s:type>Siser EasyWeed Stretch</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Wisteria.jpg?v=1581104034"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser EasyWeed Stretch<br>
+        <strong>Price: </strong>
+            3.00 - 51.00
+            <a href="https://scriptdesigns.myshopify.com/products/st-36-wisteria-siser-easyweed-stretch-htv">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Putting the “Performance” in Performance Wear.</h2>
+<p>Performance wear has met its match! Siser EasyWeed™ Stretch delivers all the benefits of our EasyWeed™ heat transfer material and combines it with super stretchability to create one remarkable heat transfer material! The thinnest of any Siser material, EasyWeed™ Stretch has an ultra-matte finish and a soft hand. EasyWeed™ Stretch is laminated onto a pressure-sensitive carrier that allows for cutting and weeding detailed designs.</p>
+<p>EasyWeed™ Stretch is <strong>CPSIA Certified</strong>, so it's safe on garments for all ages! </p>
+<p><a title="Video - EasyWeed Stretch Application" href="https://www.youtube.com/watch?v=Yu-o92zyvbU">https://www.youtube.com/watch?v=Yu-o92zyvbU</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20% off</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>Calypso</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Corail</s:tag>
+    <s:tag>Coral</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>Easy</s:tag>
+    <s:tag>Easyweed</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>heat transfer</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>Scriptdesigns</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>stretch</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4462588657744</id>
+      <title>15&quot; x 6&quot;</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>SISER-ST-36-15X6</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4462588657744</id>
+      <title>15&quot; x 12&quot;</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>SISER-ST-36-15X12</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4462588657744</id>
+      <title>15&quot; x 24&apos;&apos;</title>
+      <s:price currency="CAD">9.25</s:price>
+      <s:sku>SISER-ST-36-15X24</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4462588657744</id>
+      <title>15&quot; x 1 yard</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku>SISER-ST-36-15X1yrd</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4462588657744</id>
+      <title>15&quot; x 5 yards</title>
+      <s:price currency="CAD">51.00</s:price>
+      <s:sku>SISER-ST-36-15X5yrd</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/4462588067920</id>
+    <published>2020-02-07T14:30:13-05:00</published>
+    <updated>2020-02-07T14:30:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/st-11-coffee-siser-easyweed-stretch-htv"/>
+    <title>ST11 Coffee - Siser EasyWeed Stretch HTV</title>
+    <s:type>Siser EasyWeed Stretch</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Coffee.jpg?v=1581103841"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser EasyWeed Stretch<br>
+        <strong>Price: </strong>
+            3.00 - 51.00
+            <a href="https://scriptdesigns.myshopify.com/products/st-11-coffee-siser-easyweed-stretch-htv">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Putting the “Performance” in Performance Wear.</h2>
+<p>Performance wear has met its match! Siser EasyWeed™ Stretch delivers all the benefits of our EasyWeed™ heat transfer material and combines it with super stretchability to create one remarkable heat transfer material! The thinnest of any Siser material, EasyWeed™ Stretch has an ultra-matte finish and a soft hand. EasyWeed™ Stretch is laminated onto a pressure-sensitive carrier that allows for cutting and weeding detailed designs.</p>
+<p>EasyWeed™ Stretch is <strong>CPSIA Certified</strong>, so it's safe on garments for all ages! </p>
+<p><a title="Video - EasyWeed Stretch Application" href="https://www.youtube.com/watch?v=Yu-o92zyvbU">https://www.youtube.com/watch?v=Yu-o92zyvbU</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20% off</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>Calypso</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Corail</s:tag>
+    <s:tag>Coral</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>Easy</s:tag>
+    <s:tag>Easyweed</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>heat transfer</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>Scriptdesigns</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>stretch</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4462588067920</id>
+      <title>15&quot; x 6&quot;</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>SISER-ST-11-15X6</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4462588067920</id>
+      <title>15&quot; x 12&quot;</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>SISER-ST-11-15X12</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4462588067920</id>
+      <title>15&quot; x 24&apos;&apos;</title>
+      <s:price currency="CAD">9.25</s:price>
+      <s:sku>SISER-ST-11-15X24</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4462588067920</id>
+      <title>15&quot; x 1 yard</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku>SISER-ST-11-15X1yrd</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4462588067920</id>
+      <title>15&quot; x 5 yards</title>
+      <s:price currency="CAD">51.00</s:price>
+      <s:sku>SISER-ST-11-15X5yrd</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/4462586822736</id>
+    <published>2020-02-07T14:26:36-05:00</published>
+    <updated>2020-02-07T14:26:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/st63-bright-orchid-siser-easyweed-stretch-htv"/>
+    <title>ST63 Bright Orchid - Siser EasyWeed Stretch HTV</title>
+    <s:type>Siser EasyWeed Stretch</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Bright-Orchid.jpg?v=1581103678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser EasyWeed Stretch<br>
+        <strong>Price: </strong>
+            3.00 - 51.00
+            <a href="https://scriptdesigns.myshopify.com/products/st63-bright-orchid-siser-easyweed-stretch-htv">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Putting the “Performance” in Performance Wear.</h2>
+<p>Performance wear has met its match! Siser EasyWeed™ Stretch delivers all the benefits of our EasyWeed™ heat transfer material and combines it with super stretchability to create one remarkable heat transfer material! The thinnest of any Siser material, EasyWeed™ Stretch has an ultra-matte finish and a soft hand. EasyWeed™ Stretch is laminated onto a pressure-sensitive carrier that allows for cutting and weeding detailed designs.</p>
+<p>EasyWeed™ Stretch is <strong>CPSIA Certified</strong>, so it's safe on garments for all ages! </p>
+<p><a title="Video - EasyWeed Stretch Application" href="https://www.youtube.com/watch?v=Yu-o92zyvbU">https://www.youtube.com/watch?v=Yu-o92zyvbU</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20% off</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>Calypso</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Corail</s:tag>
+    <s:tag>Coral</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>Easy</s:tag>
+    <s:tag>Easyweed</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>heat transfer</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>Scriptdesigns</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>stretch</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4462586822736</id>
+      <title>15&quot; x 6&quot;</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>SISER-ST-63-15X6</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4462586822736</id>
+      <title>15&quot; x 12&quot;</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>SISER-ST-63-15X12</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4462586822736</id>
+      <title>15&quot; x 24&apos;&apos;</title>
+      <s:price currency="CAD">9.25</s:price>
+      <s:sku>SISER-ST-63-15X24</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4462586822736</id>
+      <title>15&quot; x 1 yard</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku>SISER-ST-63-15X1yrd</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4462586822736</id>
+      <title>15&quot; x 5 yards</title>
+      <s:price currency="CAD">51.00</s:price>
+      <s:sku>SISER-ST-63-15X5yrd</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/4462586134608</id>
+    <published>2020-02-07T14:24:43-05:00</published>
+    <updated>2020-02-07T14:24:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/st-14-burgundy-siser-easyweed-stretch-htv"/>
+    <title>ST14 Burgundy - Siser EasyWeed Stretch HTV</title>
+    <s:type>Siser EasyWeed Stretch</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Burgundy.jpg?v=1581103526"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser EasyWeed Stretch<br>
+        <strong>Price: </strong>
+            3.00 - 51.00
+            <a href="https://scriptdesigns.myshopify.com/products/st-14-burgundy-siser-easyweed-stretch-htv">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Putting the “Performance” in Performance Wear.</h2>
+<p>Performance wear has met its match! Siser EasyWeed™ Stretch delivers all the benefits of our EasyWeed™ heat transfer material and combines it with super stretchability to create one remarkable heat transfer material! The thinnest of any Siser material, EasyWeed™ Stretch has an ultra-matte finish and a soft hand. EasyWeed™ Stretch is laminated onto a pressure-sensitive carrier that allows for cutting and weeding detailed designs.</p>
+<p>EasyWeed™ Stretch is <strong>CPSIA Certified</strong>, so it's safe on garments for all ages! </p>
+<p><a title="Video - EasyWeed Stretch Application" href="https://www.youtube.com/watch?v=Yu-o92zyvbU">https://www.youtube.com/watch?v=Yu-o92zyvbU</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20% off</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>Calypso</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Corail</s:tag>
+    <s:tag>Coral</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>Easy</s:tag>
+    <s:tag>Easyweed</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>heat transfer</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>Scriptdesigns</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>stretch</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4462586134608</id>
+      <title>15&quot; x 6&quot;</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>SISER-ST-14-15X6</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4462586134608</id>
+      <title>15&quot; x 12&quot;</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>SISER-ST-14-15X12</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4462586134608</id>
+      <title>15&quot; x 24&apos;&apos;</title>
+      <s:price currency="CAD">9.25</s:price>
+      <s:sku>SISER-ST-14-15X24</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4462586134608</id>
+      <title>15&quot; x 1 yard</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku>SISER-ST-14-15X1yrd</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4462586134608</id>
+      <title>15&quot; x 5 yards</title>
+      <s:price currency="CAD">51.00</s:price>
+      <s:sku>SISER-ST-14-15X5yrd</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/4435027656784</id>
+    <published>2020-01-14T13:50:36-05:00</published>
+    <updated>2020-01-14T13:50:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/st-32-celestial-blue-siser-easyweed-stretch-htv"/>
+    <title>ST32 Celestial Blue - Siser EasyWeed Stretch HTV</title>
+    <s:type>Siser EasyWeed Stretch</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/32-Celestial-Blue.jpg?v=1578433015"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser EasyWeed Stretch<br>
+        <strong>Price: </strong>
+            3.00 - 51.00
+            <a href="https://scriptdesigns.myshopify.com/products/st-32-celestial-blue-siser-easyweed-stretch-htv">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Putting the “Performance” in Performance Wear.</h2>
+<p>Performance wear has met its match! Siser EasyWeed™ Stretch delivers all the benefits of our EasyWeed™ heat transfer material and combines it with super stretchability to create one remarkable heat transfer material! The thinnest of any Siser material, EasyWeed™ Stretch has an ultra-matte finish and a soft hand. EasyWeed™ Stretch is laminated onto a pressure-sensitive carrier that allows for cutting and weeding detailed designs.</p>
+<p>EasyWeed™ Stretch is <strong>CPSIA Certified</strong>, so it's safe on garments for all ages! </p>
+<p><a title="Video - EasyWeed Stretch Application" href="https://www.youtube.com/watch?v=Yu-o92zyvbU">https://www.youtube.com/watch?v=Yu-o92zyvbU</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20% off</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>Easy</s:tag>
+    <s:tag>Easyweed</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>heat transfer</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>Lemon</s:tag>
+    <s:tag>Lemon yellow</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>Scriptdesigns</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>stretch</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4435027656784</id>
+      <title>15&quot; x 6&quot;</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>SISER-ST-32-15X6</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4435027656784</id>
+      <title>15&quot; x 12&quot;</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>SISER-ST-32-15X12</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4435027656784</id>
+      <title>15&quot; x 24&apos;&apos;</title>
+      <s:price currency="CAD">9.25</s:price>
+      <s:sku>SISER-ST-32-15X24</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4435027656784</id>
+      <title>15&quot; x 1 yard</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku>SISER-ST-32-15X1yrd</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4435027656784</id>
+      <title>15&quot; x 5 yards</title>
+      <s:price currency="CAD">51.00</s:price>
+      <s:sku>SISER-ST-32-15X5yrd</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/4435026706512</id>
+    <published>2020-01-14T13:50:36-05:00</published>
+    <updated>2020-01-14T13:50:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/st-21-lemon-siser-easyweed-stretch-htv"/>
+    <title>ST21 Lemon - Siser EasyWeed Stretch HTV</title>
+    <s:type>Siser EasyWeed Stretch</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/21-Lemon.jpg?v=1578432912"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser EasyWeed Stretch<br>
+        <strong>Price: </strong>
+            3.00 - 51.00
+            <a href="https://scriptdesigns.myshopify.com/products/st-21-lemon-siser-easyweed-stretch-htv">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Putting the “Performance” in Performance Wear.</h2>
+<p>Performance wear has met its match! Siser EasyWeed™ Stretch delivers all the benefits of our EasyWeed™ heat transfer material and combines it with super stretchability to create one remarkable heat transfer material! The thinnest of any Siser material, EasyWeed™ Stretch has an ultra-matte finish and a soft hand. EasyWeed™ Stretch is laminated onto a pressure-sensitive carrier that allows for cutting and weeding detailed designs.</p>
+<p>EasyWeed™ Stretch is <strong>CPSIA Certified</strong>, so it's safe on garments for all ages! </p>
+<p><a title="Video - EasyWeed Stretch Application" href="https://www.youtube.com/watch?v=Yu-o92zyvbU">https://www.youtube.com/watch?v=Yu-o92zyvbU</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20% off</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>Easy</s:tag>
+    <s:tag>Easyweed</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>heat transfer</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>Lemon</s:tag>
+    <s:tag>Lemon yellow</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>Scriptdesigns</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>stretch</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4435026706512</id>
+      <title>15&quot; x 6&quot;</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>SISER-ST-21-15X6</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4435026706512</id>
+      <title>15&quot; x 12&quot;</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>SISER-ST-21-15X12</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4435026706512</id>
+      <title>15&quot; x 24&apos;&apos;</title>
+      <s:price currency="CAD">9.25</s:price>
+      <s:sku>SISER-ST-21-15X24</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4435026706512</id>
+      <title>15&quot; x 1 yard</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku>SISER-ST-21-15X1yrd</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4435026706512</id>
+      <title>15&quot; x 5 yards</title>
+      <s:price currency="CAD">51.00</s:price>
+      <s:sku>SISER-ST-21-15X5yrd</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/4435026346064</id>
+    <published>2020-01-14T13:50:36-05:00</published>
+    <updated>2020-01-14T13:50:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/st-80-charcoal-siser-easyweed-stretch-htv"/>
+    <title>ST80 Charcoal - Siser EasyWeed Stretch HTV</title>
+    <s:type>Siser EasyWeed Stretch</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/80-Charcoal.jpg?v=1578432805"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser EasyWeed Stretch<br>
+        <strong>Price: </strong>
+            3.00 - 51.00
+            <a href="https://scriptdesigns.myshopify.com/products/st-80-charcoal-siser-easyweed-stretch-htv">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Putting the “Performance” in Performance Wear.</h2>
+<p>Performance wear has met its match! Siser EasyWeed™ Stretch delivers all the benefits of our EasyWeed™ heat transfer material and combines it with super stretchability to create one remarkable heat transfer material! The thinnest of any Siser material, EasyWeed™ Stretch has an ultra-matte finish and a soft hand. EasyWeed™ Stretch is laminated onto a pressure-sensitive carrier that allows for cutting and weeding detailed designs.</p>
+<p>EasyWeed™ Stretch is <strong>CPSIA Certified</strong>, so it's safe on garments for all ages! </p>
+<p><a title="Video - EasyWeed Stretch Application" href="https://www.youtube.com/watch?v=Yu-o92zyvbU">https://www.youtube.com/watch?v=Yu-o92zyvbU</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20% off</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Charcoal</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Dark</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>Easy</s:tag>
+    <s:tag>Easyweed</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>Gray</s:tag>
+    <s:tag>Grey</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>heat transfer</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>Scriptdesigns</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>stretch</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4435026346064</id>
+      <title>15&quot; x 6&quot;</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>SISER-ST-80-15X6</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4435026346064</id>
+      <title>15&quot; x 12&quot;</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>SISER-ST-80-15X12</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4435026346064</id>
+      <title>15&quot; x 24&apos;&apos;</title>
+      <s:price currency="CAD">9.25</s:price>
+      <s:sku>SISER-ST-80-15X24</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4435026346064</id>
+      <title>15&quot; x 1 yard</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku>SISER-ST-80-15X1yrd</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4435026346064</id>
+      <title>15&quot; x 5 yards</title>
+      <s:price currency="CAD">51.00</s:price>
+      <s:sku>SISER-ST-80-15X5yrd</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/4435025625168</id>
+    <published>2020-01-14T13:50:36-05:00</published>
+    <updated>2020-01-14T13:50:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/st-83-frosty-mint-siser-easyweed-stretch-htv"/>
+    <title>ST83 Frosty Mint - Siser EasyWeed Stretch HTV</title>
+    <s:type>Siser EasyWeed Stretch</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/83-Frosted-mint.jpg?v=1578432688"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser EasyWeed Stretch<br>
+        <strong>Price: </strong>
+            3.00 - 51.00
+            <a href="https://scriptdesigns.myshopify.com/products/st-83-frosty-mint-siser-easyweed-stretch-htv">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Putting the “Performance” in Performance Wear.</h2>
+<p>Performance wear has met its match! Siser EasyWeed™ Stretch delivers all the benefits of our EasyWeed™ heat transfer material and combines it with super stretchability to create one remarkable heat transfer material! The thinnest of any Siser material, EasyWeed™ Stretch has an ultra-matte finish and a soft hand. EasyWeed™ Stretch is laminated onto a pressure-sensitive carrier that allows for cutting and weeding detailed designs.</p>
+<p>EasyWeed™ Stretch is <strong>CPSIA Certified</strong>, so it's safe on garments for all ages! </p>
+<p><a title="Video - EasyWeed Stretch Application" href="https://www.youtube.com/watch?v=Yu-o92zyvbU">https://www.youtube.com/watch?v=Yu-o92zyvbU</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20% off</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>Easy</s:tag>
+    <s:tag>Easyweed</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>Frosty</s:tag>
+    <s:tag>Gray</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>heat transfer</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>mint</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>Scriptdesigns</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>stretch</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4435025625168</id>
+      <title>15&quot; x 6&quot;</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>SISER-ST-83-15X6</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4435025625168</id>
+      <title>15&quot; x 12&quot;</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>SISER-ST-83-15X12</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4435025625168</id>
+      <title>15&quot; x 24&apos;&apos;</title>
+      <s:price currency="CAD">9.25</s:price>
+      <s:sku>SISER-ST-83-15X24</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4435025625168</id>
+      <title>15&quot; x 1 yard</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku>SISER-ST-83-15X1yrd</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4435025625168</id>
+      <title>15&quot; x 5 yards</title>
+      <s:price currency="CAD">51.00</s:price>
+      <s:sku>SISER-ST-83-15X5yrd</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/4435024871504</id>
+    <published>2020-01-14T13:50:36-05:00</published>
+    <updated>2020-01-14T13:50:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/st-22-grey-siser-easyweed-stretch-htv"/>
+    <title>ST22 Grey - Siser EasyWeed Stretch HTV</title>
+    <s:type>Siser EasyWeed Stretch</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/22-Grey.jpg?v=1578432452"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser EasyWeed Stretch<br>
+        <strong>Price: </strong>
+            3.00 - 51.00
+            <a href="https://scriptdesigns.myshopify.com/products/st-22-grey-siser-easyweed-stretch-htv">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Putting the “Performance” in Performance Wear.</h2>
+<p>Performance wear has met its match! Siser EasyWeed™ Stretch delivers all the benefits of our EasyWeed™ heat transfer material and combines it with super stretchability to create one remarkable heat transfer material! The thinnest of any Siser material, EasyWeed™ Stretch has an ultra-matte finish and a soft hand. EasyWeed™ Stretch is laminated onto a pressure-sensitive carrier that allows for cutting and weeding detailed designs.</p>
+<p>EasyWeed™ Stretch is <strong>CPSIA Certified</strong>, so it's safe on garments for all ages! </p>
+<p><a title="Video - EasyWeed Stretch Application" href="https://www.youtube.com/watch?v=Yu-o92zyvbU">https://www.youtube.com/watch?v=Yu-o92zyvbU</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20% off</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>Easy</s:tag>
+    <s:tag>Easyweed</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>Gray</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>heat transfer</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>Scriptdesigns</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>stretch</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4435024871504</id>
+      <title>15&quot; x 6&quot;</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>SISER-ST-22-15X6</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4435024871504</id>
+      <title>15&quot; x 12&quot;</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>SISER-ST-22-15X12</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4435024871504</id>
+      <title>15&quot; x 24&apos;&apos;</title>
+      <s:price currency="CAD">9.25</s:price>
+      <s:sku>SISER-ST-22-15X24</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4435024871504</id>
+      <title>15&quot; x 1 yard</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku>SISER-ST-22-15X1yrd</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4435024871504</id>
+      <title>15&quot; x 5 yards</title>
+      <s:price currency="CAD">51.00</s:price>
+      <s:sku>SISER-ST-22-15X5yrd</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/4435023691856</id>
+    <published>2020-01-07T16:21:57-05:00</published>
+    <updated>2020-01-07T16:21:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/st-85-calypso-coral-siser-easyweed-stretch-htv"/>
+    <title>ST85 Calypso Coral - Siser EasyWeed Stretch HTV</title>
+    <s:type>Siser EasyWeed Stretch</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/85---Coral-Calypso.jpg?v=1578432328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser EasyWeed Stretch<br>
+        <strong>Price: </strong>
+            3.00 - 51.00
+            <a href="https://scriptdesigns.myshopify.com/products/st-85-calypso-coral-siser-easyweed-stretch-htv">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Putting the “Performance” in Performance Wear.</h2>
+<p>Performance wear has met its match! Siser EasyWeed™ Stretch delivers all the benefits of our EasyWeed™ heat transfer material and combines it with super stretchability to create one remarkable heat transfer material! The thinnest of any Siser material, EasyWeed™ Stretch has an ultra-matte finish and a soft hand. EasyWeed™ Stretch is laminated onto a pressure-sensitive carrier that allows for cutting and weeding detailed designs.</p>
+<p>EasyWeed™ Stretch is <strong>CPSIA Certified</strong>, so it's safe on garments for all ages! </p>
+<p><a title="Video - EasyWeed Stretch Application" href="https://www.youtube.com/watch?v=Yu-o92zyvbU">https://www.youtube.com/watch?v=Yu-o92zyvbU</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20% off</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>Calypso</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Corail</s:tag>
+    <s:tag>Coral</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>Easy</s:tag>
+    <s:tag>Easyweed</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>heat transfer</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>Scriptdesigns</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>stretch</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4435023691856</id>
+      <title>15&quot; x 6&quot;</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>SISER-ST-85-15X6</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4435023691856</id>
+      <title>15&quot; x 12&quot;</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>SISER-ST-85-15X12</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4435023691856</id>
+      <title>15&quot; x 24&apos;&apos;</title>
+      <s:price currency="CAD">9.25</s:price>
+      <s:sku>SISER-ST-85-15X24</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4435023691856</id>
+      <title>15&quot; x 1 yard</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku>SISER-ST-85-15X1yrd</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4435023691856</id>
+      <title>15&quot; x 5 yards</title>
+      <s:price currency="CAD">51.00</s:price>
+      <s:sku>SISER-ST-85-15X5yrd</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/4435019956304</id>
+    <published>2020-01-07T16:13:36-05:00</published>
+    <updated>2020-01-07T16:13:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/st-70-dark-gold-siser-easyweed-stretch-htv"/>
+    <title>ST70 Dark Gold - Siser EasyWeed Stretch HTV</title>
+    <s:type>Siser EasyWeed Stretch</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/70-Dark-Gold.jpg?v=1578432031"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser EasyWeed Stretch<br>
+        <strong>Price: </strong>
+            3.00 - 51.00
+            <a href="https://scriptdesigns.myshopify.com/products/st-70-dark-gold-siser-easyweed-stretch-htv">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Putting the “Performance” in Performance Wear.</h2>
+<p>Performance wear has met its match! Siser EasyWeed™ Stretch delivers all the benefits of our EasyWeed™ heat transfer material and combines it with super stretchability to create one remarkable heat transfer material! The thinnest of any Siser material, EasyWeed™ Stretch has an ultra-matte finish and a soft hand. EasyWeed™ Stretch is laminated onto a pressure-sensitive carrier that allows for cutting and weeding detailed designs.</p>
+<p>EasyWeed™ Stretch is <strong>CPSIA Certified</strong>, so it's safe on garments for all ages! </p>
+<p><a title="Video - EasyWeed Stretch Application" href="https://www.youtube.com/watch?v=Yu-o92zyvbU">https://www.youtube.com/watch?v=Yu-o92zyvbU</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20% off</s:tag>
+    <s:tag>adhesive</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>berry</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>cold peel</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>Easy</s:tag>
+    <s:tag>Easyweed</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>interior vinyl</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>purple berry</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>Scriptdesigns</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>stretch</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4435019956304</id>
+      <title>15&quot; x 6&quot;</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>SISER-ST-70-15X6</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4435019956304</id>
+      <title>15&quot; x 12&quot;</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>SISER-ST-70-15X12</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4435019956304</id>
+      <title>15&quot; x 24&apos;&apos;</title>
+      <s:price currency="CAD">9.25</s:price>
+      <s:sku>SISER-ST-70-15X24</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4435019956304</id>
+      <title>15&quot; x 1 yard</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku>SISER-ST-70-15X1yrd</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4435019956304</id>
+      <title>15&quot; x 5 yards</title>
+      <s:price currency="CAD">51.00</s:price>
+      <s:sku>SISER-ST-70-15X5yrd</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/9007424198</id>
+    <published>2017-01-13T20:09:00-05:00</published>
+    <updated>2017-01-13T20:09:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/siser-easyweed-stretch-htv"/>
+    <title>ST55 Bright Red - Siser EasyWeed Stretch HTV</title>
+    <s:type>Siser EasyWeed Stretch</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/easyweed_stretch_bright_red.jpg?v=1480293003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser EasyWeed Stretch<br>
+        <strong>Price: </strong>
+            3.00 - 51.00
+            <a href="https://scriptdesigns.myshopify.com/products/siser-easyweed-stretch-htv">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Putting the “Performance” in Performance Wear.</h2>
+<p>Performance wear has met its match! Siser EasyWeed™ Stretch delivers all the benefits of our EasyWeed™ heat transfer material and combines it with super stretchability to create one remarkable heat transfer material! The thinnest of any Siser material, EasyWeed™ Stretch has an ultra-matte finish and a soft hand. EasyWeed™ Stretch is laminated onto a pressure-sensitive carrier that allows for cutting and weeding detailed designs.</p>
+<p>EasyWeed™ Stretch is <strong>CPSIA Certified</strong>, so it's safe on garments for all ages! </p>
+<p><a title="Video - EasyWeed Stretch Application" href="https://www.youtube.com/watch?v=Yu-o92zyvbU">https://www.youtube.com/watch?v=Yu-o92zyvbU</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20% off</s:tag>
+    <s:tag>adhesive</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>bright</s:tag>
+    <s:tag>bright red</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>cold peel</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>Easy</s:tag>
+    <s:tag>Easyweed</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>interior vinyl</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>red</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>Scriptdesigns</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>stretch</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/9007424198</id>
+      <title>15&quot; x 6&quot;</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>SISER-ST-055-15X6</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/9007424198</id>
+      <title>15&quot; x 12&quot;</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>SISER-ST-55-15X12</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/9007424198</id>
+      <title>15&quot; x 24&apos;&apos;</title>
+      <s:price currency="CAD">9.25</s:price>
+      <s:sku>SISER-ST-55-15X24</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/9007424198</id>
+      <title>15&quot; x 1 yard</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku>SISER-ST-55-15X1yrd</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/9007424198</id>
+      <title>15&quot; x 5 yards</title>
+      <s:price currency="CAD">51.00</s:price>
+      <s:sku>SISER-ST-55-15X5yrd</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/10059143238</id>
+    <published>2016-11-23T20:40:00-05:00</published>
+    <updated>2016-11-23T20:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/st01-white-siser-easyweed-stretch-htv"/>
+    <title>ST01 White - Siser EasyWeed Stretch HTV</title>
+    <s:type>Siser Easyweed HTV - Stretch</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/stretch_white.jpg?v=1579040944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser Easyweed HTV - Stretch<br>
+        <strong>Price: </strong>
+            3.00 - 420.00
+            <a href="https://scriptdesigns.myshopify.com/products/st01-white-siser-easyweed-stretch-htv">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Putting the “Performance” in Performance Wear.</h2>
+<p>Performance wear has met its match! Siser EasyWeed™ Stretch delivers all the benefits of our EasyWeed™ heat transfer material and combines it with super stretchability to create one remarkable heat transfer material! The thinnest of any Siser material, EasyWeed™ Stretch has an ultra-matte finish and a soft hand. EasyWeed™ Stretch is laminated onto a pressure-sensitive carrier that allows for cutting and weeding detailed designs.</p>
+<p>EasyWeed™ Stretch is <strong>CPSIA Certified</strong>, so it's safe on garments for all ages! </p>
+<p><a title="Video - EasyWeed Stretch Application" href="https://www.youtube.com/watch?v=Yu-o92zyvbU">https://www.youtube.com/watch?v=Yu-o92zyvbU</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20% off</s:tag>
+    <s:tag>adhesive</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>cold peel</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>Easy</s:tag>
+    <s:tag>Easyweed</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>interior vinyl</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>Scriptdesigns</s:tag>
+    <s:tag>sign making</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>stretch</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/10059143238</id>
+      <title>15&quot; x 6&quot;</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>SISER-ST-01-15X6</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/10059143238</id>
+      <title>15&quot; x 12&quot;</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>SISER-ST-01-15X12</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/10059143238</id>
+      <title>15&quot; x 24&apos;&apos;</title>
+      <s:price currency="CAD">9.25</s:price>
+      <s:sku>SISER-ST-01-15X24</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/10059143238</id>
+      <title>15&quot; x 1 yard</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku>SISER-ST-01-15X1yrd</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/10059143238</id>
+      <title>15&quot; x 5 yards</title>
+      <s:price currency="CAD">51.00</s:price>
+      <s:sku>SISER-ST-01-15X5yrd</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/10059143238</id>
+      <title>15&quot; x 10 yards</title>
+      <s:price currency="CAD">97.00</s:price>
+      <s:sku>SISER-ST-01-15X10yrd</s:sku>
+      <s:grams>725</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/10059143238</id>
+      <title>15&quot; x 50 yards</title>
+      <s:price currency="CAD">420.00</s:price>
+      <s:sku>SISER-ST-01-15X50yrd</s:sku>
+      <s:grams>4600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/6602319174</id>
+    <published>2016-11-23T20:40:00-05:00</published>
+    <updated>2016-11-23T20:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/st02-black-siser-easyweed-stretch-htv"/>
+    <title>ST02 Black - Siser EasyWeed Stretch HTV</title>
+    <s:type>Siser Easyweed HTV - Stretch</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/easyweed_extra_black.jpg?v=1579040922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser Easyweed HTV - Stretch<br>
+        <strong>Price: </strong>
+            3.00 - 51.00
+            <a href="https://scriptdesigns.myshopify.com/products/st02-black-siser-easyweed-stretch-htv">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Putting the “Performance” in Performance Wear.</h2>
+<p>Performance wear has met its match! Siser EasyWeed™ Stretch delivers all the benefits of our EasyWeed™ heat transfer material and combines it with super stretchability to create one remarkable heat transfer material! The thinnest of any Siser material, EasyWeed™ Stretch has an ultra-matte finish and a soft hand. EasyWeed™ Stretch is laminated onto a pressure-sensitive carrier that allows for cutting and weeding detailed designs.</p>
+<p>EasyWeed™ Stretch is <strong>CPSIA Certified</strong>, so it's safe on garments for all ages! </p>
+<p><a title="Video - EasyWeed Stretch Application" href="https://www.youtube.com/watch?v=Yu-o92zyvbU">https://www.youtube.com/watch?v=Yu-o92zyvbU</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20% off</s:tag>
+    <s:tag>adhesive</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>cold peel</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>Easy</s:tag>
+    <s:tag>Easyweed</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>interior vinyl</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>Scriptdesigns</s:tag>
+    <s:tag>sign making</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>stretch</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6602319174</id>
+      <title>15&quot; x 6&quot;</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>SISER-ST-02-15X6</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6602319174</id>
+      <title>15&quot; x 12&quot;</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>SISER-ST-02-15X12</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6602319174</id>
+      <title>15&quot; x 24&apos;&apos;</title>
+      <s:price currency="CAD">9.25</s:price>
+      <s:sku>SISER-ST-02-15X24</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6602319174</id>
+      <title>15&quot; x 1 yard</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku>SISER-ST-03-15X1yrd</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6602319174</id>
+      <title>15&quot; x 5 yards</title>
+      <s:price currency="CAD">51.00</s:price>
+      <s:sku>SISER-ST-02-15X5yrd</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/11871081414</id>
+    <published>2016-04-08T17:59:00-04:00</published>
+    <updated>2016-04-08T17:59:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/st44-rose-gold-siser-easyweed-stretch-htv"/>
+    <title>ST44 Rose Gold - Siser EasyWeed Stretch HTV</title>
+    <s:type>Siser EasyWeed Stretch</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/44---Rose-Gold.jpg?v=1579040585"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser EasyWeed Stretch<br>
+        <strong>Price: </strong>
+            3.00 - 51.00
+            <a href="https://scriptdesigns.myshopify.com/products/st44-rose-gold-siser-easyweed-stretch-htv">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Putting the “Performance” in Performance Wear.</h2>
+<p>Performance wear has met its match! Siser EasyWeed™ Stretch delivers all the benefits of our EasyWeed™ heat transfer material and combines it with super stretchability to create one remarkable heat transfer material! The thinnest of any Siser material, EasyWeed™ Stretch has an ultra-matte finish and a soft hand. EasyWeed™ Stretch is laminated onto a pressure-sensitive carrier that allows for cutting and weeding detailed designs.</p>
+<p>EasyWeed™ Stretch is <strong>CPSIA Certified</strong>, so it's safe on garments for all ages! </p>
+<p><a title="Video - EasyWeed Stretch Application" href="https://www.youtube.com/watch?v=Yu-o92zyvbU">https://www.youtube.com/watch?v=Yu-o92zyvbU</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20% off</s:tag>
+    <s:tag>adhesive</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>cold peel</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>Easy</s:tag>
+    <s:tag>Easyweed</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>gold</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>interior vinyl</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>rose</s:tag>
+    <s:tag>rose gold</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>Scriptdesigns</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>stretch</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/11871081414</id>
+      <title>15&quot; x 6&quot;</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>SISER-ST-44-15X6</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/11871081414</id>
+      <title>15&quot; x 12&quot;</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>SISER-ST-44-15X12</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/11871081414</id>
+      <title>15&quot; x 24&apos;&apos;</title>
+      <s:price currency="CAD">9.25</s:price>
+      <s:sku>SISER-ST-44-15X24</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/11871081414</id>
+      <title>15&quot; x 1 yard</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku>SISER-ST-44-15X1yrd</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/11871081414</id>
+      <title>15&quot; x 5 yards</title>
+      <s:price currency="CAD">51.00</s:price>
+      <s:sku>SISER-ST-44-15X5yrd</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/9883886086</id>
+    <published>2016-04-08T17:59:00-04:00</published>
+    <updated>2016-04-08T17:59:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/st86-passion-pink-siser-easyweed-stretch-htv"/>
+    <title>ST86 Passion Pink - Siser EasyWeed Stretch HTV</title>
+    <s:type>Siser EasyWeed Stretch</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/ST-86-Passion-Pink_74688c0b-8ced-428e-8730-08e80647407b.gif?v=1579041033"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser EasyWeed Stretch<br>
+        <strong>Price: </strong>
+            3.00 - 51.00
+            <a href="https://scriptdesigns.myshopify.com/products/st86-passion-pink-siser-easyweed-stretch-htv">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Putting the “Performance” in Performance Wear.</h2>
+<p>Performance wear has met its match! Siser EasyWeed™ Stretch delivers all the benefits of our EasyWeed™ heat transfer material and combines it with super stretchability to create one remarkable heat transfer material! The thinnest of any Siser material, EasyWeed™ Stretch has an ultra-matte finish and a soft hand. EasyWeed™ Stretch is laminated onto a pressure-sensitive carrier that allows for cutting and weeding detailed designs.</p>
+<p>EasyWeed™ Stretch is <strong>CPSIA Certified</strong>, so it's safe on garments for all ages! </p>
+<p><a title="Video - EasyWeed Stretch Application" href="https://www.youtube.com/watch?v=Yu-o92zyvbU">https://www.youtube.com/watch?v=Yu-o92zyvbU</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20% off</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>cold peel</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>Easy</s:tag>
+    <s:tag>Easyweed</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>interior vinyl</s:tag>
+    <s:tag>ligth</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>pale</s:tag>
+    <s:tag>Passion pink</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>Scriptdesigns</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>stretch</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/9883886086</id>
+      <title>15&quot; x 6&quot;</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>SISER-ST-86-15X6</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/9883886086</id>
+      <title>15&quot; x 12&quot;</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>SISER-ST-86-15X12</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/9883886086</id>
+      <title>15&quot; x 24&apos;&apos;</title>
+      <s:price currency="CAD">9.25</s:price>
+      <s:sku>SISER-ST-86-15X24</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/9883886086</id>
+      <title>15&quot; x 1 yard</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku>SISER-ST-86-15X1yrd</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/9883886086</id>
+      <title>15&quot; x 5 yards</title>
+      <s:price currency="CAD">51.00</s:price>
+      <s:sku>SISER-ST-86-15X5yrd</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/9883871366</id>
+    <published>2016-04-08T17:59:00-04:00</published>
+    <updated>2016-04-08T17:59:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/st92-chestnut-siser-easyweed-stretch-htv"/>
+    <title>ST92 Chestnut - Siser EasyWeed Stretch HTV</title>
+    <s:type>Siser EasyWeed Stretch</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/ST-92-Chestnut.gif?v=1505801962"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser EasyWeed Stretch<br>
+        <strong>Price: </strong>
+            3.00 - 51.00
+            <a href="https://scriptdesigns.myshopify.com/products/st92-chestnut-siser-easyweed-stretch-htv">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Putting the “Performance” in Performance Wear.</h2>
+<p>Performance wear has met its match! Siser EasyWeed™ Stretch delivers all the benefits of our EasyWeed™ heat transfer material and combines it with super stretchability to create one remarkable heat transfer material! The thinnest of any Siser material, EasyWeed™ Stretch has an ultra-matte finish and a soft hand. EasyWeed™ Stretch is laminated onto a pressure-sensitive carrier that allows for cutting and weeding detailed designs.</p>
+<p>EasyWeed™ Stretch is <strong>CPSIA Certified</strong>, so it's safe on garments for all ages! </p>
+<p><a title="Video - EasyWeed Stretch Application" href="https://www.youtube.com/watch?v=Yu-o92zyvbU">https://www.youtube.com/watch?v=Yu-o92zyvbU</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20% off</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Chestnut</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>cold peel</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>Easy</s:tag>
+    <s:tag>Easyweed</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>interior vinyl</s:tag>
+    <s:tag>ligth</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>pale</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>Scriptdesigns</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>stretch</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/9883871366</id>
+      <title>15&quot; x 6&quot;</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>SISER-ST-92-15X6</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/9883871366</id>
+      <title>15&quot; x 12&quot;</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>SISER-ST-92-15X12</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/9883871366</id>
+      <title>15&quot; x 24&apos;&apos;</title>
+      <s:price currency="CAD">9.25</s:price>
+      <s:sku>SISER-ST-92-15X24</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/9883871366</id>
+      <title>15&quot; x 1 yard</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku>SISER-ST-92-15X1yrd</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/9883871366</id>
+      <title>15&quot; x 5 yards</title>
+      <s:price currency="CAD">51.00</s:price>
+      <s:sku>SISER-ST-92-15X5yrd</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/9883858182</id>
+    <published>2016-04-08T17:59:00-04:00</published>
+    <updated>2016-04-08T17:59:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/st91-ballerina-pink-siser-easyweed-stretch-htv"/>
+    <title>ST91 Ballerina Pink - Siser EasyWeed Stretch HTV</title>
+    <s:type>Siser EasyWeed Stretch</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/ST-91-Ballerina-Pink_da2927a4-0841-4958-8c92-8c5efef4cd4c.gif?v=1505341770"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser EasyWeed Stretch<br>
+        <strong>Price: </strong>
+            3.00 - 51.00
+            <a href="https://scriptdesigns.myshopify.com/products/st91-ballerina-pink-siser-easyweed-stretch-htv">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Putting the “Performance” in Performance Wear.</h2>
+<p>Performance wear has met its match! Siser EasyWeed™ Stretch delivers all the benefits of our EasyWeed™ heat transfer material and combines it with super stretchability to create one remarkable heat transfer material! The thinnest of any Siser material, EasyWeed™ Stretch has an ultra-matte finish and a soft hand. EasyWeed™ Stretch is laminated onto a pressure-sensitive carrier that allows for cutting and weeding detailed designs.</p>
+<p>EasyWeed™ Stretch is <strong>CPSIA Certified</strong>, so it's safe on garments for all ages! </p>
+<p><a title="Video - EasyWeed Stretch Application" href="https://www.youtube.com/watch?v=Yu-o92zyvbU">https://www.youtube.com/watch?v=Yu-o92zyvbU</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20% off</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>Ballerina</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>cold peel</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>Easy</s:tag>
+    <s:tag>Easyweed</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>interior vinyl</s:tag>
+    <s:tag>ligth</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>pale</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>Scriptdesigns</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>stretch</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/9883858182</id>
+      <title>15&quot; x 6&quot;</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>SISER-ST-91-15X6</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/9883858182</id>
+      <title>15&quot; x 12&quot;</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>SISER-ST-91-15X12</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/9883858182</id>
+      <title>15&quot; x 24&apos;&apos;</title>
+      <s:price currency="CAD">9.25</s:price>
+      <s:sku>SISER-ST-91-15X24</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/9883858182</id>
+      <title>15&quot; x 1 yard</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku>SISER-ST-91-15X1yrd</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/9883858182</id>
+      <title>15&quot; x 5 yards</title>
+      <s:price currency="CAD">51.00</s:price>
+      <s:sku>SISER-ST-91-15X5yrd</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/9883845190</id>
+    <published>2016-04-08T17:59:00-04:00</published>
+    <updated>2016-04-08T17:59:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/st89-sweet-mint-siser-easyweed-stretch-htv"/>
+    <title>ST89 Sweet Mint - Siser EasyWeed Stretch HTV</title>
+    <s:type>Siser EasyWeed Stretch</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/ST-89-Sweet-Mint_20c33b64-5318-4669-8196-b08210959ad1.gif?v=1579041100"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser EasyWeed Stretch<br>
+        <strong>Price: </strong>
+            3.00 - 51.00
+            <a href="https://scriptdesigns.myshopify.com/products/st89-sweet-mint-siser-easyweed-stretch-htv">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Putting the “Performance” in Performance Wear.</h2>
+<p>Performance wear has met its match! Siser EasyWeed™ Stretch delivers all the benefits of our EasyWeed™ heat transfer material and combines it with super stretchability to create one remarkable heat transfer material! The thinnest of any Siser material, EasyWeed™ Stretch has an ultra-matte finish and a soft hand. EasyWeed™ Stretch is laminated onto a pressure-sensitive carrier that allows for cutting and weeding detailed designs.</p>
+<p>EasyWeed™ Stretch is <strong>CPSIA Certified</strong>, so it's safe on garments for all ages! </p>
+<p><a title="Video - EasyWeed Stretch Application" href="https://www.youtube.com/watch?v=Yu-o92zyvbU">https://www.youtube.com/watch?v=Yu-o92zyvbU</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20% off</s:tag>
+    <s:tag>adhesive</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>cold peel</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>Easy</s:tag>
+    <s:tag>Easyweed</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>interior vinyl</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>mint</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>Scriptdesigns</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>stretch</s:tag>
+    <s:tag>sweet</s:tag>
+    <s:tag>Sweet mint</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/9883845190</id>
+      <title>15&quot; x 6&quot;</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>SISER-ST-89-15X6</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/9883845190</id>
+      <title>15&quot; x 12&quot;</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>SISER-ST-89-15X12</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/9883845190</id>
+      <title>15&quot; x 24&apos;&apos;</title>
+      <s:price currency="CAD">9.25</s:price>
+      <s:sku>SISER-ST-89-15X24</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/9883845190</id>
+      <title>15&quot; x 1 yard</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku>SISER-ST-89-15X1yrd</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/9883845190</id>
+      <title>15&quot; x 5 yards</title>
+      <s:price currency="CAD">51.00</s:price>
+      <s:sku>SISER-ST-89-15X5yrd</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

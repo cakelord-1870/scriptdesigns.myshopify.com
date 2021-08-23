@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://scriptdesigns.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://scriptdesigns.myshopify.com/collections/halloween-htv-decals.atom"/>
+  <title>ScriptDesigns</title>
+  <updated>2019-08-28T17:45:10-04:00</updated>
+  <author>
+    <name>ScriptDesigns</name>
+  </author>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/3732836286544</id>
+    <published>2019-08-28T17:45:10-04:00</published>
+    <updated>2019-08-28T17:45:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/spyder-htv-decal"/>
+    <title>Spyder HTV Decal</title>
+    <s:type>HTV Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Spyder.gif?v=1567028722"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>HTV Ready Made Decals<br>
+        <strong>Price: </strong>
+            2.75 - 12.50
+            <a href="https://scriptdesigns.myshopify.com/products/spyder-htv-decal">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform a plain onesie, bib, t-shirt or pillow cover into something unique with our ready to apply HTV decals. </p>
+<p>Do you need ideas to decorate a nursery? You could use a decal as the starting point.  These decals are also available in matte adhesive vinyl for wall applications.</p>
+<p>Custom sizes available upon request.</p>
+<p>Our decals are printed professionally in-house on matte finish Siser ColourPrint PU, a vinyl that is CPSIA Certified for use on children's clothing.</p>
+<p><strong><span>APPLICATION INSTRUCTIONS</span></strong></p>
+<div>May be applied to:</div>
+<ul>
+<li>100% cotton</li>
+<li>100% polyester </li>
+<li>poly/cotton blends </li>
+<li>Lycra°/spandex </li>
+<li>LeatherAdhesive Ready Made Decals</li>
+</ul>
+<div>Preheat the item you are applying the decal to for 2-3 Seconds </div>
+<div>Press for 15-20 seconds at 295° F/146° C  with a medium pressure and peel hot.</div>
+<div></div>
+<div><span><strong></strong></span></div>
+<div><span><strong>CARE INSTRUCTIONS</strong></span></div>
+<ul>
+<li>Do not dry clean</li>
+<li>Machine wash WARM / mild detergent </li>
+<li>Dry on normal setting </li>
+<li>No chlorine bleach</li>
+<li>Wait 24 hours before first wash</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bib</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>cover</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>iron on</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>pillow</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>siser</s:tag>
+    <s:tag>Spyder</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3732836286544</id>
+      <title>10&quot; W. x 8&quot; H.</title>
+      <s:price currency="CAD">12.50</s:price>
+      <s:sku>HTVDecals-Spyder10</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3732836286544</id>
+      <title>8&quot; W. x 6.4&quot; H.</title>
+      <s:price currency="CAD">7.35</s:price>
+      <s:sku>HTVDecals-Spyder8</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3732836286544</id>
+      <title>6&quot; W. x 4.8&quot; H.</title>
+      <s:price currency="CAD">5.75</s:price>
+      <s:sku>HTVDecals-Spyder6</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3732836286544</id>
+      <title>4&quot; W. x 3.2&quot; H.</title>
+      <s:price currency="CAD">2.75</s:price>
+      <s:sku>HTVDecals-Spyder4</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/3732834156624</id>
+    <published>2019-08-28T17:40:51-04:00</published>
+    <updated>2019-08-28T17:40:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/cute-ghost-htv-decal"/>
+    <title>Cute Ghost HTV Decal</title>
+    <s:type>HTV Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/ghost.gif?v=1567028504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>HTV Ready Made Decals<br>
+        <strong>Price: </strong>
+            2.00 - 13.50
+            <a href="https://scriptdesigns.myshopify.com/products/cute-ghost-htv-decal">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform a plain onesie, bib, t-shirt or pillow cover into something unique with our ready to apply HTV decals. </p>
+<p>Do you need ideas to decorate a nursery? You could use a decal as the starting point.  These decals are also available in matte adhesive vinyl for wall applications.</p>
+<p>Custom sizes available upon request.</p>
+<p>Our decals are printed professionally in-house on matte finish Siser ColourPrint PU, a vinyl that is CPSIA Certified for use on children's clothing.</p>
+<p><strong><span>APPLICATION INSTRUCTIONS</span></strong></p>
+<div>May be applied to:</div>
+<ul>
+<li>100% cotton</li>
+<li>100% polyester </li>
+<li>poly/cotton blends </li>
+<li>Lycra°/spandex </li>
+<li>LeatherAdhesive Ready Made Decals</li>
+</ul>
+<div>Preheat the item you are applying the decal to for 2-3 Seconds </div>
+<div>Press for 15-20 seconds at 295° F/146° C  with a medium pressure and peel hot.</div>
+<div></div>
+<div><span><strong></strong></span></div>
+<div><span><strong>CARE INSTRUCTIONS</strong></span></div>
+<ul>
+<li>Do not dry clean</li>
+<li>Machine wash WARM / mild detergent </li>
+<li>Dry on normal setting </li>
+<li>No chlorine bleach</li>
+<li>Wait 24 hours before first wash</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bib</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>cover</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>iron on</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>Mummy</s:tag>
+    <s:tag>pillow</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>siser</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3732834156624</id>
+      <title>10&quot; W. x 11.25&quot; H.</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku>HTVDecals-CuteGhost10</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3732834156624</id>
+      <title>8&quot; W. x 9&quot; H.</title>
+      <s:price currency="CAD">9.90</s:price>
+      <s:sku>HTVDecals-CuteGhost8</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3732834156624</id>
+      <title>6&quot; W. x 6.75&quot; H.</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku>HTVDecals-CuteGhost6</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3732834156624</id>
+      <title>4&quot; W. x 4.5&quot; H.</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>HTVDecals-CuteGhost4</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3732834156624</id>
+      <title>3&quot; W. x 3.4&quot; H.</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>HTVDecals-CuteGhost3</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/3732833108048</id>
+    <published>2019-08-28T17:36:59-04:00</published>
+    <updated>2019-08-28T17:36:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/pumpkin-htv-decal"/>
+    <title>Pumpkin HTV Decal</title>
+    <s:type>HTV Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Pumpkin.gif?v=1567028238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>HTV Ready Made Decals<br>
+        <strong>Price: </strong>
+            2.00 - 13.50
+            <a href="https://scriptdesigns.myshopify.com/products/pumpkin-htv-decal">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform a plain onesie, bib, t-shirt or pillow cover into something unique with our ready to apply HTV decals. </p>
+<p>Do you need ideas to decorate a nursery? You could use a decal as the starting point.  These decals are also available in matte adhesive vinyl for wall applications.</p>
+<p>Custom sizes available upon request.</p>
+<p>Our decals are printed professionally in-house on matte finish Siser ColourPrint PU, a vinyl that is CPSIA Certified for use on children's clothing.</p>
+<p><strong><span>APPLICATION INSTRUCTIONS</span></strong></p>
+<div>May be applied to:</div>
+<ul>
+<li>100% cotton</li>
+<li>100% polyester </li>
+<li>poly/cotton blends </li>
+<li>Lycra°/spandex </li>
+<li>LeatherAdhesive Ready Made Decals</li>
+</ul>
+<div>Preheat the item you are applying the decal to for 2-3 Seconds </div>
+<div>Press for 15-20 seconds at 295° F/146° C  with a medium pressure and peel hot.</div>
+<div></div>
+<div><span><strong></strong></span></div>
+<div><span><strong>CARE INSTRUCTIONS</strong></span></div>
+<ul>
+<li>Do not dry clean</li>
+<li>Machine wash WARM / mild detergent </li>
+<li>Dry on normal setting </li>
+<li>No chlorine bleach</li>
+<li>Wait 24 hours before first wash</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bib</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>cover</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>iron on</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>Mummy</s:tag>
+    <s:tag>pillow</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>siser</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3732833108048</id>
+      <title>10&quot; W. x 10.9&quot; H.</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku>HTVDecals-Pumpkin10</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3732833108048</id>
+      <title>8&quot; W. x 8.8&quot; H.</title>
+      <s:price currency="CAD">9.90</s:price>
+      <s:sku>HTVDecals-Pumpkin8</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3732833108048</id>
+      <title>6&quot; W. x 6.6&quot; H.</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku>HTVDecals-ChainedGhost6</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3732833108048</id>
+      <title>4&quot; W. x 4.4&quot; H.</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>HTVDecals-Pumpkin4</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3732833108048</id>
+      <title>3&quot; W. x 3.3&quot; H.</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>HTVDecals-ChainedGhost3</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/3732828094544</id>
+    <published>2019-08-28T17:25:52-04:00</published>
+    <updated>2019-08-28T17:25:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/chained-ghost-htv-decal"/>
+    <title>Chained Ghost HTV Decal</title>
+    <s:type>HTV Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Chained-Ghost.gif?v=1567027863"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>HTV Ready Made Decals<br>
+        <strong>Price: </strong>
+            2.00 - 13.50
+            <a href="https://scriptdesigns.myshopify.com/products/chained-ghost-htv-decal">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform a plain onesie, bib, t-shirt or pillow cover into something unique with our ready to apply HTV decals. </p>
+<p>Do you need ideas to decorate a nursery? You could use a decal as the starting point.  These decals are also available in matte adhesive vinyl for wall applications.</p>
+<p>Custom sizes available upon request.</p>
+<p>Our decals are printed professionally in-house on matte finish Siser ColourPrint PU, a vinyl that is CPSIA Certified for use on children's clothing.</p>
+<p><strong><span>APPLICATION INSTRUCTIONS</span></strong></p>
+<div>May be applied to:</div>
+<ul>
+<li>100% cotton</li>
+<li>100% polyester </li>
+<li>poly/cotton blends </li>
+<li>Lycra°/spandex </li>
+<li>LeatherAdhesive Ready Made Decals</li>
+</ul>
+<div>Preheat the item you are applying the decal to for 2-3 Seconds </div>
+<div>Press for 15-20 seconds at 295° F/146° C  with a medium pressure and peel hot.</div>
+<div></div>
+<div><span><strong></strong></span></div>
+<div><span><strong>CARE INSTRUCTIONS</strong></span></div>
+<ul>
+<li>Do not dry clean</li>
+<li>Machine wash WARM / mild detergent </li>
+<li>Dry on normal setting </li>
+<li>No chlorine bleach</li>
+<li>Wait 24 hours before first wash</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bib</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>cover</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>iron on</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>Mummy</s:tag>
+    <s:tag>pillow</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>siser</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3732828094544</id>
+      <title>10&quot; W. x 10.6&quot; H.</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku>HTVDecals-ChainedGhost10</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3732828094544</id>
+      <title>8&quot; W. x 8.5&quot; H.</title>
+      <s:price currency="CAD">9.90</s:price>
+      <s:sku>HTVDecals-Chained Ghost8</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3732828094544</id>
+      <title>6&quot; W. x 6.4&quot; H.</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku>HTVDecals-ChainedGhost6</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3732828094544</id>
+      <title>4&quot; W. x 4.25&quot; H.</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>HTVDecals-ChainedGhost4</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3732828094544</id>
+      <title>3&quot; W. x 3.2&quot; H.</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>HTVDecals-ChainedGhost3</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/3732822065232</id>
+    <published>2019-08-28T17:09:30-04:00</published>
+    <updated>2019-08-28T17:09:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/halloween-htv-decal"/>
+    <title>Mummy HTV Decal</title>
+    <s:type>HTV Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Mummy.gif?v=1567026618"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>HTV Ready Made Decals<br>
+        <strong>Price: </strong>
+            2.75 - 13.50
+            <a href="https://scriptdesigns.myshopify.com/products/halloween-htv-decal">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform a plain onesie, bib, t-shirt or pillow cover into something unique with our ready to apply HTV decals. </p>
+<p>Do you need ideas to decorate a nursery? You could use a decal as the starting point.  These decals are also available in matte adhesive vinyl for wall applications.</p>
+<p>Custom sizes available upon request.</p>
+<p>Our decals are printed professionally in-house on matte finish Siser ColourPrint PU, a vinyl that is CPSIA Certified for use on children's clothing.</p>
+<p><strong><span>APPLICATION INSTRUCTIONS</span></strong></p>
+<div>May be applied to:</div>
+<ul>
+<li>100% cotton</li>
+<li>100% polyester </li>
+<li>poly/cotton blends </li>
+<li>Lycra°/spandex </li>
+<li>LeatherAdhesive Ready Made Decals</li>
+</ul>
+<div>Preheat the item you are applying the decal to for 2-3 Seconds </div>
+<div>Press for 15-20 seconds at 295° F/146° C  with a medium pressure and peel hot.</div>
+<div></div>
+<div><span><strong></strong></span></div>
+<div><span><strong>CARE INSTRUCTIONS</strong></span></div>
+<ul>
+<li>Do not dry clean</li>
+<li>Machine wash WARM / mild detergent </li>
+<li>Dry on normal setting </li>
+<li>No chlorine bleach</li>
+<li>Wait 24 hours before first wash</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bib</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>cover</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>iron on</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>Mummy</s:tag>
+    <s:tag>pillow</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>siser</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3732822065232</id>
+      <title>8&quot; W. x 12&quot; H.</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku>HTVDecals-Mummy12</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3732822065232</id>
+      <title>6.6&quot; W. x 10&quot; H.</title>
+      <s:price currency="CAD">9.90</s:price>
+      <s:sku>HTVDecals-Mummy10</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3732822065232</id>
+      <title>5.3&quot; W. x 8&quot; H.</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>HTVDecals-Mummy8</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3732822065232</id>
+      <title>4&quot; W. x 6&quot; H.</title>
+      <s:price currency="CAD">4.80</s:price>
+      <s:sku>HTVDecals-Mummy6</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3732822065232</id>
+      <title>2.7&quot; W. x 4&quot; H.</title>
+      <s:price currency="CAD">2.75</s:price>
+      <s:sku>HTVDecals-Mummy4</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+</feed>

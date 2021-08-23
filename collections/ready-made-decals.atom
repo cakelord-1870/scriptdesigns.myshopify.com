@@ -1,0 +1,2555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://scriptdesigns.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://scriptdesigns.myshopify.com/collections/ready-made-decals.atom"/>
+  <title>ScriptDesigns</title>
+  <updated>2021-07-28T15:11:48-04:00</updated>
+  <author>
+    <name>ScriptDesigns</name>
+  </author>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/6588366356560</id>
+    <published>2021-07-28T15:11:48-04:00</published>
+    <updated>2021-07-28T15:11:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/custom-htv-decal-stetson"/>
+    <title>Custom HTV Decal - Stetson</title>
+    <s:type></s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Cowessess_First_Nation.jpg?v=1627499508"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6588366356560</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/6588365832272</id>
+    <published>2021-07-28T15:09:51-04:00</published>
+    <updated>2021-07-28T15:09:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/decal-stetson"/>
+    <title>Custom HTV Decal - Stetson</title>
+    <s:type></s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Chief-Kahkewistahaw-Comm-School.jpg?v=1627499392"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6588365832272</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/6586505855056</id>
+    <published>2021-07-21T12:21:56-04:00</published>
+    <updated>2021-07-21T12:21:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/custom-htv-decal-ariane-2"/>
+    <title>Custom HTV Decal - Ariane</title>
+    <s:type></s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/image2_900101fe-c087-4ea3-9747-8085f7db6ea8.jpg?v=1626884430"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6586505855056</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/6586505789520</id>
+    <published>2021-07-21T12:21:45-04:00</published>
+    <updated>2021-07-21T12:21:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/custom-htv-decal-ariane-1"/>
+    <title>Custom HTV Decal - Ariane</title>
+    <s:type></s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/image1_e7a29650-3e8e-4aa5-b777-46fc729ff35e.jpg?v=1626884391"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6586505789520</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/6586505691216</id>
+    <published>2021-07-21T12:21:29-04:00</published>
+    <updated>2021-07-21T12:21:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/custom-htv-decal-ariane"/>
+    <title>Custom HTV Decal - Ariane</title>
+    <s:type></s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/rooster_c13adf52-3886-4f3c-86fe-0bd8e0bf074e.jpg?v=1626884350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6586505691216</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/4506274791504</id>
+    <published>2020-03-31T15:09:22-04:00</published>
+    <updated>2020-03-31T15:09:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/ca-va-bien-aller-htv-decal"/>
+    <title>Ca Va Bien Aller / It&apos;s Going to Be OK - HTV Decal</title>
+    <s:type></s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/cavabienaller.jpg?v=1585682140"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.40 - 5.55
+            <a href="https://scriptdesigns.myshopify.com/products/ca-va-bien-aller-htv-decal">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Suggested Sizes:</strong></p>
+<p>Adult TShirt - 11" X 6.3"</p>
+<p>Youth TShirt (Med/Large) - 10.5" X 6"</p>
+<p>Youth TShirt (Small) - 8.5" X 4.9"</p>
+<p>Toddler / Onesie - 5.5" X 3.2"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>COVID-19</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>fruit of the loom</s:tag>
+    <s:tag>gift</s:tag>
+    <s:tag>gildan</s:tag>
+    <s:tag>hoodie</s:tag>
+    <s:tag>hoodies</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>ITS GOING TO BE OK</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4506274791504</id>
+      <title>11&quot;x6.3&quot; / Ca Vas Bien Aller</title>
+      <s:price currency="CAD">5.55</s:price>
+      <s:sku>ITSGOINGTOBEOKHTV-1</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4506274791504</id>
+      <title>10.5&quot;x6&quot; / Ca Vas Bien Aller</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>CAVABIENALLERHTV-3</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4506274791504</id>
+      <title>8.5&quot;x4.9&quot; / Ca Vas Bien Aller</title>
+      <s:price currency="CAD">3.35</s:price>
+      <s:sku>CAVABIENALLERHTV-5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4506274791504</id>
+      <title>5.5x3.2&quot; / Ca Vas Bien Aller</title>
+      <s:price currency="CAD">1.40</s:price>
+      <s:sku>CAVABIENALLERHTV-7</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4506274791504</id>
+      <title>11&quot;x6.3&quot; / It&apos;s going to be ok</title>
+      <s:price currency="CAD">5.55</s:price>
+      <s:sku>ITSGOINGTOBEOKHTV-1</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4506274791504</id>
+      <title>10.5&quot;x6&quot; / It&apos;s going to be ok</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>CAVABIENALLERHTV-3</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4506274791504</id>
+      <title>8.5&quot;x4.9&quot; / It&apos;s going to be ok</title>
+      <s:price currency="CAD">3.35</s:price>
+      <s:sku>CAVABIENALLERHTV-5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4506274791504</id>
+      <title>5.5x3.2&quot; / It&apos;s going to be ok</title>
+      <s:price currency="CAD">1.40</s:price>
+      <s:sku>CAVABIENALLERHTV-7</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4506274791504</id>
+      <title>11&quot;x6.3&quot; / Rainbow Only/Arc-en-ciel</title>
+      <s:price currency="CAD">5.55</s:price>
+      <s:sku>ITSGOINGTOBEOKHTV-1</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4506274791504</id>
+      <title>10.5&quot;x6&quot; / Rainbow Only/Arc-en-ciel</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>CAVABIENALLERHTV-3</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4506274791504</id>
+      <title>8.5&quot;x4.9&quot; / Rainbow Only/Arc-en-ciel</title>
+      <s:price currency="CAD">3.35</s:price>
+      <s:sku>CAVABIENALLERHTV-5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4506274791504</id>
+      <title>5.5x3.2&quot; / Rainbow Only/Arc-en-ciel</title>
+      <s:price currency="CAD">1.40</s:price>
+      <s:sku>CAVABIENALLERHTV-7</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/4462376648784</id>
+    <published>2020-02-07T11:46:43-05:00</published>
+    <updated>2020-02-07T11:46:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/koala-save-my-land-decal-htv-decal-iron-on"/>
+    <title>Koala Save my Land - Decal (HTV Decal - Iron On)</title>
+    <s:type>HTV Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Koala-with-grey-contour.jpg?v=1581094331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>HTV Ready Made Decals<br>
+        <strong>Price: </strong>
+            7.00 - 12.00
+            <a href="https://scriptdesigns.myshopify.com/products/koala-save-my-land-decal-htv-decal-iron-on">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform a plain t-shirt or hoodie with these extremely popular designs.</p>
+<p>Our decals are printed professionally in-house on matte finish Siser ColourPrint PU, a vinyl that is CPSIA Certified for use on children's clothing.  They arrive ready to press.</p>
+<p><strong><span>APPLICATION INSTRUCTIONS</span></strong></p>
+<div>May be applied to:</div>
+<ul>
+<li>100% cotton</li>
+<li>100% polyester </li>
+<li>poly/cotton blends </li>
+<li>Lycra°/spandex </li>
+<li>LeatherAdhesive Ready Made Decals</li>
+</ul>
+<div>Preheat the item you are applying the decal to for 2-3 Seconds </div>
+<div>Press for 15-20 seconds at 295° F/146° C  with a medium pressure and peel hot.</div>
+<div></div>
+<div><span><strong></strong></span></div>
+<div><span><strong>CARE INSTRUCTIONS</strong></span></div>
+<ul>
+<li>Do not dry clean</li>
+<li>Machine wash WARM / mild detergent </li>
+<li>Dry on normal setting </li>
+<li>No chlorine bleach</li>
+<li>Wait 24 hours before first wash</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Australia</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>cover</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>iron on</s:tag>
+    <s:tag>Koala</s:tag>
+    <s:tag>Land</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>pillow</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>siser</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4462376648784</id>
+      <title>13&quot; x 13.8&quot; / Black</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>HTVDecals-KoalaBlack13</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4462376648784</id>
+      <title>8&quot; x 8.5&quot; / Black</title>
+      <s:price currency="CAD">8.50</s:price>
+      <s:sku>HTVDecals-KoalaBlack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4462376648784</id>
+      <title>13&quot; x 13.8&quot; / Teal</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>HTVDecals-KoalaTeal13</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4462376648784</id>
+      <title>10&quot; x 10.6&quot; / Teal</title>
+      <s:price currency="CAD">10.50</s:price>
+      <s:sku>HTVDecals-KoalaTeal10</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4462376648784</id>
+      <title>8&quot; x 8.5&quot; / Teal</title>
+      <s:price currency="CAD">8.50</s:price>
+      <s:sku>HTVDecals-KoalaTeal8</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4462376648784</id>
+      <title>10&quot; x 10.6&quot; / Black</title>
+      <s:price currency="CAD">10.50</s:price>
+      <s:sku>HTVDecals-KoalaBlack10</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4462376648784</id>
+      <title>6&quot; x 6.4&quot; / Black</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>HTVDecals-KoalaBlack6</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4462376648784</id>
+      <title>6&quot; x 6.4&quot; / Teal</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>HTVDecals-KoalaTeal6</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/4436407058512</id>
+    <published>2020-01-09T13:17:46-05:00</published>
+    <updated>2020-01-09T13:17:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/aime-papillon-decalque-iron-on"/>
+    <title>Aime Papillon - Décalque (HTV Decal - Iron On)</title>
+    <s:type>HTV Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Aime-Butterfly.jpg?v=1578593890"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>HTV Ready Made Decals<br>
+        <strong>Price: </strong>
+            7.50 - 12.00
+            <a href="https://scriptdesigns.myshopify.com/products/aime-papillon-decalque-iron-on">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform a plain t-shirt or hoodie with these extremely popular designs.</p>
+<p>Our decals are printed professionally in-house on matte finish Siser ColourPrint PU, a vinyl that is CPSIA Certified for use on children's clothing.  They arrive ready to press.</p>
+<p><strong><span>APPLICATION INSTRUCTIONS</span></strong></p>
+<div>May be applied to:</div>
+<ul>
+<li>100% cotton</li>
+<li>100% polyester </li>
+<li>poly/cotton blends </li>
+<li>Lycra°/spandex </li>
+<li>LeatherAdhesive Ready Made Decals</li>
+</ul>
+<div>Preheat the item you are applying the decal to for 2-3 Seconds </div>
+<div>Press for 15-20 seconds at 295° F/146° C  with a medium pressure and peel hot.</div>
+<div></div>
+<div><span><strong></strong></span></div>
+<div><span><strong>CARE INSTRUCTIONS</strong></span></div>
+<ul>
+<li>Do not dry clean</li>
+<li>Machine wash WARM / mild detergent </li>
+<li>Dry on normal setting </li>
+<li>No chlorine bleach</li>
+<li>Wait 24 hours before first wash</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Butterfly</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>cover</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>iron on</s:tag>
+    <s:tag>love</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>pillow</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>siser</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4436407058512</id>
+      <title>14&quot; x 12 1/4&quot;</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>HTVDecals-AimePapillon</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4436407058512</id>
+      <title>12&quot; x 10 1/2&quot;</title>
+      <s:price currency="CAD">10.50</s:price>
+      <s:sku>HTVDecals-AimePapillon</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4436407058512</id>
+      <title>10&quot; x 8 3/4&quot;</title>
+      <s:price currency="CAD">8.50</s:price>
+      <s:sku>HTVDecals-AimePapillon</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4436407058512</id>
+      <title>8&quot; x 7&quot;</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>HTVDecals-AimePapillon</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/4436382908496</id>
+    <published>2020-01-09T12:52:54-05:00</published>
+    <updated>2020-01-09T12:52:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/love-butterfly-decal-iron-on"/>
+    <title>Love Butterfly HTV Decal (Iron On)</title>
+    <s:type>HTV Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Love-Butterfly.jpg?v=1578593356"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>HTV Ready Made Decals<br>
+        <strong>Price: </strong>
+            7.50 - 12.00
+            <a href="https://scriptdesigns.myshopify.com/products/love-butterfly-decal-iron-on">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform a plain t-shirt or hoodie with these extremely popular designs.</p>
+<p>Our decals are printed professionally in-house on matte finish Siser ColourPrint PU, a vinyl that is CPSIA Certified for use on children's clothing.  They arrive ready to press.</p>
+<p><strong><span>APPLICATION INSTRUCTIONS</span></strong></p>
+<div>May be applied to:</div>
+<ul>
+<li>100% cotton</li>
+<li>100% polyester </li>
+<li>poly/cotton blends </li>
+<li>Lycra°/spandex </li>
+<li>LeatherAdhesive Ready Made Decals</li>
+</ul>
+<div>Preheat the item you are applying the decal to for 2-3 Seconds </div>
+<div>Press for 15-20 seconds at 295° F/146° C  with a medium pressure and peel hot.</div>
+<div></div>
+<div><span><strong></strong></span></div>
+<div><span><strong>CARE INSTRUCTIONS</strong></span></div>
+<ul>
+<li>Do not dry clean</li>
+<li>Machine wash WARM / mild detergent </li>
+<li>Dry on normal setting </li>
+<li>No chlorine bleach</li>
+<li>Wait 24 hours before first wash</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Butterfly</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>cover</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>iron on</s:tag>
+    <s:tag>love</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>pillow</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>siser</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4436382908496</id>
+      <title>14&quot; x 12 1/4&quot;</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>HTVDecals-LoveButterfly</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4436382908496</id>
+      <title>12&quot; x 10 1/2&quot;</title>
+      <s:price currency="CAD">10.50</s:price>
+      <s:sku>HTVDecals-LoveButterfly</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4436382908496</id>
+      <title>10&quot; x 8 3/4&quot;</title>
+      <s:price currency="CAD">8.50</s:price>
+      <s:sku>HTVDecals-LoveButterfly</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4436382908496</id>
+      <title>8&quot; x 7&quot;</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>HTVDecals-LoveButterfly</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/4436373438544</id>
+    <published>2020-01-09T12:43:50-05:00</published>
+    <updated>2020-01-09T12:43:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/all-you-need-is-love-htv-decal-iron-on"/>
+    <title>All You Need Is LOVE HTV Decal (Iron On)</title>
+    <s:type>HTV Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/All-you-need-is-love.jpg?v=1578591908"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>HTV Ready Made Decals<br>
+        <strong>Price: </strong>
+            5.50 - 10.00
+            <a href="https://scriptdesigns.myshopify.com/products/all-you-need-is-love-htv-decal-iron-on">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform a plain t-shirt or hoodie with these extremely popular designs.</p>
+<p>Our decals are printed professionally in-house on matte finish Siser ColourPrint PU, a vinyl that is CPSIA Certified for use on children's clothing.  They arrive ready to press.</p>
+<p><strong><span>APPLICATION INSTRUCTIONS</span></strong></p>
+<div>May be applied to:</div>
+<ul>
+<li>100% cotton</li>
+<li>100% polyester </li>
+<li>poly/cotton blends </li>
+<li>Lycra°/spandex </li>
+<li>LeatherAdhesive Ready Made Decals</li>
+</ul>
+<div>Preheat the item you are applying the decal to for 2-3 Seconds </div>
+<div>Press for 15-20 seconds at 295° F/146° C  with a medium pressure and peel hot.</div>
+<div></div>
+<div><span><strong></strong></span></div>
+<div><span><strong>CARE INSTRUCTIONS</strong></span></div>
+<ul>
+<li>Do not dry clean</li>
+<li>Machine wash WARM / mild detergent </li>
+<li>Dry on normal setting </li>
+<li>No chlorine bleach</li>
+<li>Wait 24 hours before first wash</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clothing</s:tag>
+    <s:tag>cover</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>dog</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>iron on</s:tag>
+    <s:tag>Love</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>pillow</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>siser</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4436373438544</id>
+      <title>10&quot; x 12&quot;</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>HTVDecals-Allyouneedislove</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4436373438544</id>
+      <title>8&quot; x 9 1/4&quot;</title>
+      <s:price currency="CAD">8.50</s:price>
+      <s:sku>HTVDecals-Allyouneedislove</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4436373438544</id>
+      <title>6&quot; x 7&quot;</title>
+      <s:price currency="CAD">6.50</s:price>
+      <s:sku>HTVDecals-Allyouneedislove</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4436373438544</id>
+      <title>5&quot; x 6&quot;</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku>HTVDecals-Allyouneedislove</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/4333906264144</id>
+    <published>2019-10-31T15:51:17-04:00</published>
+    <updated>2019-10-31T15:51:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/crazy-grandma-for-onesie-or-small-child-htv-decal-iron-on"/>
+    <title>Crazy Grandma for Onesie or small child -  HTV Decal (Iron On)</title>
+    <s:type>HTV Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Crazy-Grandma-SD-for-onesie.jpg?v=1572551604"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>HTV Ready Made Decals<br>
+        <strong>Price: </strong>
+            4.00 - 4.50
+            <a href="https://scriptdesigns.myshopify.com/products/crazy-grandma-for-onesie-or-small-child-htv-decal-iron-on">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform a plain onesie or child shirt with this extremely popular designs.</p>
+<p><strong><em>Note:  The grey line show the cut line; this decal is made of one piece.</em></strong></p>
+<p>Our decals are printed professionally in-house on matte finish Siser ColourPrint PU, a vinyl that is CPSIA Certified for use on children's clothing.  They arrive ready to press.</p>
+<p><strong><span>APPLICATION INSTRUCTIONS</span></strong></p>
+<div>May be applied to:</div>
+<ul>
+<li>100% cotton</li>
+<li>100% polyester </li>
+<li>poly/cotton blends </li>
+<li>Lycra°/spandex </li>
+<li>LeatherAdhesive Ready Made Decals</li>
+</ul>
+<div>Preheat the item you are applying the decal to for 2-3 Seconds </div>
+<div>Press for 15-20 seconds at 295° F/146° C  with a medium pressure and peel hot.</div>
+<div></div>
+<div><span><strong></strong></span></div>
+<div><span><strong>CARE INSTRUCTIONS</strong></span></div>
+<ul>
+<li>Do not dry clean</li>
+<li>Machine wash WARM / mild detergent </li>
+<li>Dry on normal setting </li>
+<li>No chlorine bleach</li>
+<li>Wait 24 hours before first wash</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clothing</s:tag>
+    <s:tag>cover</s:tag>
+    <s:tag>crazy</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>iron on</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>mom</s:tag>
+    <s:tag>onesie</s:tag>
+    <s:tag>pillow</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>siser</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333906264144</id>
+      <title>6&quot; x 5.4&quot;</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>HTVDecal-Crazymomonesie6</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333906264144</id>
+      <title>4.5&quot; x 4&quot;</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>HTVDecal-Crazymomonesie4.5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/4333866942544</id>
+    <published>2019-10-31T15:36:16-04:00</published>
+    <updated>2019-10-31T15:36:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/crazy-mom-for-onesie-or-small-child-htv-decal-iron-on"/>
+    <title>Crazy Mom for Onesie or small child -  HTV Decal (Iron On)</title>
+    <s:type>HTV Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Crazy-Mom-SD-for-onesie.jpg?v=1572550598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>HTV Ready Made Decals<br>
+        <strong>Price: </strong>
+            4.00 - 4.50
+            <a href="https://scriptdesigns.myshopify.com/products/crazy-mom-for-onesie-or-small-child-htv-decal-iron-on">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform a plain onesie or child shirt with this extremely popular designs.</p>
+<p><strong><em>Note:  The grey line show the cut line; this decal is made of one piece.</em></strong></p>
+<p>Our decals are printed professionally in-house on matte finish Siser ColourPrint PU, a vinyl that is CPSIA Certified for use on children's clothing.  They arrive ready to press.</p>
+<p><strong><span>APPLICATION INSTRUCTIONS</span></strong></p>
+<div>May be applied to:</div>
+<ul>
+<li>100% cotton</li>
+<li>100% polyester </li>
+<li>poly/cotton blends </li>
+<li>Lycra°/spandex </li>
+<li>LeatherAdhesive Ready Made Decals</li>
+</ul>
+<div>Preheat the item you are applying the decal to for 2-3 Seconds </div>
+<div>Press for 15-20 seconds at 295° F/146° C  with a medium pressure and peel hot.</div>
+<div></div>
+<div><span><strong></strong></span></div>
+<div><span><strong>CARE INSTRUCTIONS</strong></span></div>
+<ul>
+<li>Do not dry clean</li>
+<li>Machine wash WARM / mild detergent </li>
+<li>Dry on normal setting </li>
+<li>No chlorine bleach</li>
+<li>Wait 24 hours before first wash</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clothing</s:tag>
+    <s:tag>cover</s:tag>
+    <s:tag>crazy</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>iron on</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>mom</s:tag>
+    <s:tag>onesie</s:tag>
+    <s:tag>pillow</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>siser</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333866942544</id>
+      <title>6&quot; x 5.4&quot;</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>HTVDecal-Crazymomonesie6</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333866942544</id>
+      <title>4.5&quot; x 4&quot;</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>HTVDecal-Crazymomonesie4.5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/4333834174544</id>
+    <published>2019-10-31T15:15:06-04:00</published>
+    <updated>2019-10-31T15:15:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/crazy-mom-htv-decal-iron-on"/>
+    <title>Crazy Mom -  HTV Decal (Iron On)</title>
+    <s:type>HTV Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Crazy-Mom-SD.jpg?v=1572549325"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>HTV Ready Made Decals<br>
+        <strong>Price: </strong>
+            8.50 - 12.00
+            <a href="https://scriptdesigns.myshopify.com/products/crazy-mom-htv-decal-iron-on">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform a plain t-shirt or hoodie with these extremely popular designs.</p>
+<p>Our decals are printed professionally in-house on matte finish Siser ColourPrint PU, a vinyl that is CPSIA Certified for use on children's clothing.  They arrive ready to press.</p>
+<p><strong><span>APPLICATION INSTRUCTIONS</span></strong></p>
+<div>May be applied to:</div>
+<ul>
+<li>100% cotton</li>
+<li>100% polyester </li>
+<li>poly/cotton blends </li>
+<li>Lycra°/spandex </li>
+<li>LeatherAdhesive Ready Made Decals</li>
+</ul>
+<div>Preheat the item you are applying the decal to for 2-3 Seconds </div>
+<div>Press for 15-20 seconds at 295° F/146° C  with a medium pressure and peel hot.</div>
+<div></div>
+<div><span><strong></strong></span></div>
+<div><span><strong>CARE INSTRUCTIONS</strong></span></div>
+<ul>
+<li>Do not dry clean</li>
+<li>Machine wash WARM / mild detergent </li>
+<li>Dry on normal setting </li>
+<li>No chlorine bleach</li>
+<li>Wait 24 hours before first wash</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clothing</s:tag>
+    <s:tag>cover</s:tag>
+    <s:tag>crazy</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>Grandma</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>iron on</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>mom</s:tag>
+    <s:tag>pillow</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>siser</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333834174544</id>
+      <title>12&quot; x 12 3/4&quot;</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>HTVDecals-Auntasaurus12-1to5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333834174544</id>
+      <title>10&quot; x 9</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>HTVDecals-CrazyGrandma10in</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333834174544</id>
+      <title>8&quot; X 7</title>
+      <s:price currency="CAD">8.50</s:price>
+      <s:sku>HTVDecals-Crazygrandma</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/4333800194128</id>
+    <published>2019-10-31T14:47:47-04:00</published>
+    <updated>2019-10-31T14:47:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/crazy-grandma-htv-decal-iron-on"/>
+    <title>Crazy Grandma -  HTV Decal (Iron On)</title>
+    <s:type>HTV Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Crazy-Grandma-SD_46d75ce9-5caf-499a-8328-30837938f718.jpg?v=1572548444"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>HTV Ready Made Decals<br>
+        <strong>Price: </strong>
+            8.50 - 12.00
+            <a href="https://scriptdesigns.myshopify.com/products/crazy-grandma-htv-decal-iron-on">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform a plain t-shirt or hoodie with these extremely popular designs.</p>
+<p>Our decals are printed professionally in-house on matte finish Siser ColourPrint PU, a vinyl that is CPSIA Certified for use on children's clothing.  They arrive ready to press.</p>
+<p><strong><span>APPLICATION INSTRUCTIONS</span></strong></p>
+<div>May be applied to:</div>
+<ul>
+<li>100% cotton</li>
+<li>100% polyester </li>
+<li>poly/cotton blends </li>
+<li>Lycra°/spandex </li>
+<li>LeatherAdhesive Ready Made Decals</li>
+</ul>
+<div>Preheat the item you are applying the decal to for 2-3 Seconds </div>
+<div>Press for 15-20 seconds at 295° F/146° C  with a medium pressure and peel hot.</div>
+<div></div>
+<div><span><strong></strong></span></div>
+<div><span><strong>CARE INSTRUCTIONS</strong></span></div>
+<ul>
+<li>Do not dry clean</li>
+<li>Machine wash WARM / mild detergent </li>
+<li>Dry on normal setting </li>
+<li>No chlorine bleach</li>
+<li>Wait 24 hours before first wash</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clothing</s:tag>
+    <s:tag>cover</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>Grandma</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>iron on</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>pillow</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>siser</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333800194128</id>
+      <title>12&quot; x 12 3/4&quot;</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>HTVDecals-Auntasaurus12-1to5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333800194128</id>
+      <title>10&quot; x 9</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>HTVDecals-CrazyGrandma10in</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333800194128</id>
+      <title>8&quot; X 7</title>
+      <s:price currency="CAD">8.50</s:price>
+      <s:sku>HTVDecals-Crazygrandma</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/4333522255952</id>
+    <published>2019-10-31T12:16:29-04:00</published>
+    <updated>2019-10-31T12:16:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/gnomes-htv-decal"/>
+    <title>Winter Gnomes - HTV Decals</title>
+    <s:type>HTV Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Cover-page-Christmas-Gnomes.jpg?v=1572543258"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>HTV Ready Made Decals<br>
+        <strong>Price: </strong>
+            2.75 - 12.00
+            <a href="https://scriptdesigns.myshopify.com/products/gnomes-htv-decal">(20 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform a plain onesie, bib, t-shirt or pillow cover into something unique with our ready to apply HTV decals. </p>
+<p>Do you need ideas to decorate a nursery? You could use a decal as the starting point.  These decals are also available in matte adhesive vinyl for wall applications.</p>
+<p><strong>SIZES</strong></p>
+<p><strong>1)  <span style="text-decoration: underline;">I am the cutest</span></strong></p>
+<ul>
+<li>Extra-Small: 4 x 3.5 inches</li>
+<li>Small: 5.5 x 4.9 inches</li>
+<li>Medium: 7 x 6.25</li>
+<li>Large: 8.5 x 7.6 inches</li>
+<li>Extra-Large: 11 x 9.8 inches</li>
+</ul>
+<p><span style="text-decoration: underline;"><strong>2</strong></span><strong>) </strong><strong> </strong><span style="text-decoration: underline;"><strong>Other gnomes (approximate sizes, the lilac is taller but narrower)</strong></span></p>
+<ul>
+<li>Extra-Small: 4 x 2.4 inches</li>
+<li>Small: 5.5 x 3.3 inches</li>
+<li>Medium: 7 x 4.2 inches</li>
+<li>Large: 8.5 x 5 inches</li>
+<li>Extra-Large: 11 x 6.6 inches</li>
+</ul>
+<p>Sizes may vary slightly than what is listed.  Custom sizes available upon request.</p>
+<p>Our decals are printed professionally in-house on matte finish Siser ColourPrint PU, a vinyl that is CPSIA Certified for use on children's clothing.</p>
+<p><strong><span>APPLICATION INSTRUCTIONS</span></strong></p>
+<div>May be applied to:</div>
+<ul>
+<li>100% cotton</li>
+<li>100% polyester </li>
+<li>poly/cotton blends </li>
+<li>Lycra°/spandex </li>
+<li>LeatherAdhesive Ready Made Decals</li>
+</ul>
+<div>Preheat the item you are applying the decal to for 2-3 Seconds </div>
+<div>Press for 15-20 seconds at 295° F/146° C  with a medium pressure and peel hot.</div>
+<div></div>
+<div><span><strong></strong></span></div>
+<div><span><strong>CARE INSTRUCTIONS</strong></span></div>
+<ul>
+<li>Do not dry clean</li>
+<li>Machine wash WARM / mild detergent </li>
+<li>Dry on normal setting </li>
+<li>No chlorine bleach</li>
+<li>Wait 24 hours before first wash</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bib</s:tag>
+    <s:tag>christmas</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>cover</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>gnome</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>iron on</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>pillow</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>siser</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333522255952</id>
+      <title>I am the cutest - Mint and Green Gnome / Extra-large</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>HTVDecals-Gnomecutest-xlrg</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333522255952</id>
+      <title>Red Gnome - Santa / Extra-large</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>HTVDecals-Gnomered-xlrg</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333522255952</id>
+      <title>Blue Grey Gnome / Extra-large</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>HTVDecals-Gnomeblue-xlrg</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333522255952</id>
+      <title>Lilac Gnome / Extra-large</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>HTVDecals-Gnomelilac-xlrg</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333522255952</id>
+      <title>I am the cutest - Mint and Green Gnome / Large</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>HTVDecals-Gnomecutest-lrg</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333522255952</id>
+      <title>I am the cutest - Mint and Green Gnome / Medium</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>HTVDecals-Gnomecutest-Med</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333522255952</id>
+      <title>I am the cutest - Mint and Green Gnome / Small</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>HTVDecals-Gnomecutest-Small</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333522255952</id>
+      <title>I am the cutest - Mint and Green Gnome / Extra-small</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>HTVDecals-Gnomecutest-Xsmall</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333522255952</id>
+      <title>Red Gnome - Santa / Large</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>HTVDecals-Gnomered-lrg</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333522255952</id>
+      <title>Red Gnome - Santa / Medium</title>
+      <s:price currency="CAD">6.25</s:price>
+      <s:sku>HTVDecals-Gnomered-Med</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333522255952</id>
+      <title>Red Gnome - Santa / Extra-small</title>
+      <s:price currency="CAD">2.75</s:price>
+      <s:sku>HTVDecals-Gnomered-Xsmall</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333522255952</id>
+      <title>Blue Grey Gnome / Large</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>HTVDecals-Gnomeblue-lrg</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333522255952</id>
+      <title>Blue Grey Gnome / Medium</title>
+      <s:price currency="CAD">6.25</s:price>
+      <s:sku>HTVDecals-Gnomeblue-Med</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333522255952</id>
+      <title>Blue Grey Gnome / Small</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>HTVDecals-Gnomeblue-Small</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333522255952</id>
+      <title>Blue Grey Gnome / Extra-small</title>
+      <s:price currency="CAD">2.75</s:price>
+      <s:sku>HTVDecals-Gnomeblue-Xsmall</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333522255952</id>
+      <title>Lilac Gnome / Large</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>HTVDecals-Gnomelilac-lrg</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333522255952</id>
+      <title>Lilac Gnome / Medium</title>
+      <s:price currency="CAD">6.25</s:price>
+      <s:sku>HTVDecals-Gnomelilac-Med</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333522255952</id>
+      <title>Lilac Gnome / Extra-small</title>
+      <s:price currency="CAD">2.75</s:price>
+      <s:sku>HTVDecals-Gnomelilac-Xsmall</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333522255952</id>
+      <title>Red Gnome - Santa / Small</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>HTVDecals-Gnomered-Small</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333522255952</id>
+      <title>Lilac Gnome / Small</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>HTVDecals-Gnomelilac-Small</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/3732836286544</id>
+    <published>2019-08-28T17:45:10-04:00</published>
+    <updated>2019-08-28T17:45:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/spyder-htv-decal"/>
+    <title>Spyder HTV Decal</title>
+    <s:type>HTV Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Spyder.gif?v=1567028722"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>HTV Ready Made Decals<br>
+        <strong>Price: </strong>
+            2.75 - 12.50
+            <a href="https://scriptdesigns.myshopify.com/products/spyder-htv-decal">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform a plain onesie, bib, t-shirt or pillow cover into something unique with our ready to apply HTV decals. </p>
+<p>Do you need ideas to decorate a nursery? You could use a decal as the starting point.  These decals are also available in matte adhesive vinyl for wall applications.</p>
+<p>Custom sizes available upon request.</p>
+<p>Our decals are printed professionally in-house on matte finish Siser ColourPrint PU, a vinyl that is CPSIA Certified for use on children's clothing.</p>
+<p><strong><span>APPLICATION INSTRUCTIONS</span></strong></p>
+<div>May be applied to:</div>
+<ul>
+<li>100% cotton</li>
+<li>100% polyester </li>
+<li>poly/cotton blends </li>
+<li>Lycra°/spandex </li>
+<li>LeatherAdhesive Ready Made Decals</li>
+</ul>
+<div>Preheat the item you are applying the decal to for 2-3 Seconds </div>
+<div>Press for 15-20 seconds at 295° F/146° C  with a medium pressure and peel hot.</div>
+<div></div>
+<div><span><strong></strong></span></div>
+<div><span><strong>CARE INSTRUCTIONS</strong></span></div>
+<ul>
+<li>Do not dry clean</li>
+<li>Machine wash WARM / mild detergent </li>
+<li>Dry on normal setting </li>
+<li>No chlorine bleach</li>
+<li>Wait 24 hours before first wash</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bib</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>cover</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>iron on</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>pillow</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>siser</s:tag>
+    <s:tag>Spyder</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3732836286544</id>
+      <title>10&quot; W. x 8&quot; H.</title>
+      <s:price currency="CAD">12.50</s:price>
+      <s:sku>HTVDecals-Spyder10</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3732836286544</id>
+      <title>8&quot; W. x 6.4&quot; H.</title>
+      <s:price currency="CAD">7.35</s:price>
+      <s:sku>HTVDecals-Spyder8</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3732836286544</id>
+      <title>6&quot; W. x 4.8&quot; H.</title>
+      <s:price currency="CAD">5.75</s:price>
+      <s:sku>HTVDecals-Spyder6</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3732836286544</id>
+      <title>4&quot; W. x 3.2&quot; H.</title>
+      <s:price currency="CAD">2.75</s:price>
+      <s:sku>HTVDecals-Spyder4</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/3732834156624</id>
+    <published>2019-08-28T17:40:51-04:00</published>
+    <updated>2019-08-28T17:40:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/cute-ghost-htv-decal"/>
+    <title>Cute Ghost HTV Decal</title>
+    <s:type>HTV Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/ghost.gif?v=1567028504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>HTV Ready Made Decals<br>
+        <strong>Price: </strong>
+            2.00 - 13.50
+            <a href="https://scriptdesigns.myshopify.com/products/cute-ghost-htv-decal">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform a plain onesie, bib, t-shirt or pillow cover into something unique with our ready to apply HTV decals. </p>
+<p>Do you need ideas to decorate a nursery? You could use a decal as the starting point.  These decals are also available in matte adhesive vinyl for wall applications.</p>
+<p>Custom sizes available upon request.</p>
+<p>Our decals are printed professionally in-house on matte finish Siser ColourPrint PU, a vinyl that is CPSIA Certified for use on children's clothing.</p>
+<p><strong><span>APPLICATION INSTRUCTIONS</span></strong></p>
+<div>May be applied to:</div>
+<ul>
+<li>100% cotton</li>
+<li>100% polyester </li>
+<li>poly/cotton blends </li>
+<li>Lycra°/spandex </li>
+<li>LeatherAdhesive Ready Made Decals</li>
+</ul>
+<div>Preheat the item you are applying the decal to for 2-3 Seconds </div>
+<div>Press for 15-20 seconds at 295° F/146° C  with a medium pressure and peel hot.</div>
+<div></div>
+<div><span><strong></strong></span></div>
+<div><span><strong>CARE INSTRUCTIONS</strong></span></div>
+<ul>
+<li>Do not dry clean</li>
+<li>Machine wash WARM / mild detergent </li>
+<li>Dry on normal setting </li>
+<li>No chlorine bleach</li>
+<li>Wait 24 hours before first wash</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bib</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>cover</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>iron on</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>Mummy</s:tag>
+    <s:tag>pillow</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>siser</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3732834156624</id>
+      <title>10&quot; W. x 11.25&quot; H.</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku>HTVDecals-CuteGhost10</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3732834156624</id>
+      <title>8&quot; W. x 9&quot; H.</title>
+      <s:price currency="CAD">9.90</s:price>
+      <s:sku>HTVDecals-CuteGhost8</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3732834156624</id>
+      <title>6&quot; W. x 6.75&quot; H.</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku>HTVDecals-CuteGhost6</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3732834156624</id>
+      <title>4&quot; W. x 4.5&quot; H.</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>HTVDecals-CuteGhost4</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3732834156624</id>
+      <title>3&quot; W. x 3.4&quot; H.</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>HTVDecals-CuteGhost3</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/3732833108048</id>
+    <published>2019-08-28T17:36:59-04:00</published>
+    <updated>2019-08-28T17:36:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/pumpkin-htv-decal"/>
+    <title>Pumpkin HTV Decal</title>
+    <s:type>HTV Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Pumpkin.gif?v=1567028238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>HTV Ready Made Decals<br>
+        <strong>Price: </strong>
+            2.00 - 13.50
+            <a href="https://scriptdesigns.myshopify.com/products/pumpkin-htv-decal">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform a plain onesie, bib, t-shirt or pillow cover into something unique with our ready to apply HTV decals. </p>
+<p>Do you need ideas to decorate a nursery? You could use a decal as the starting point.  These decals are also available in matte adhesive vinyl for wall applications.</p>
+<p>Custom sizes available upon request.</p>
+<p>Our decals are printed professionally in-house on matte finish Siser ColourPrint PU, a vinyl that is CPSIA Certified for use on children's clothing.</p>
+<p><strong><span>APPLICATION INSTRUCTIONS</span></strong></p>
+<div>May be applied to:</div>
+<ul>
+<li>100% cotton</li>
+<li>100% polyester </li>
+<li>poly/cotton blends </li>
+<li>Lycra°/spandex </li>
+<li>LeatherAdhesive Ready Made Decals</li>
+</ul>
+<div>Preheat the item you are applying the decal to for 2-3 Seconds </div>
+<div>Press for 15-20 seconds at 295° F/146° C  with a medium pressure and peel hot.</div>
+<div></div>
+<div><span><strong></strong></span></div>
+<div><span><strong>CARE INSTRUCTIONS</strong></span></div>
+<ul>
+<li>Do not dry clean</li>
+<li>Machine wash WARM / mild detergent </li>
+<li>Dry on normal setting </li>
+<li>No chlorine bleach</li>
+<li>Wait 24 hours before first wash</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bib</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>cover</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>iron on</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>Mummy</s:tag>
+    <s:tag>pillow</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>siser</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3732833108048</id>
+      <title>10&quot; W. x 10.9&quot; H.</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku>HTVDecals-Pumpkin10</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3732833108048</id>
+      <title>8&quot; W. x 8.8&quot; H.</title>
+      <s:price currency="CAD">9.90</s:price>
+      <s:sku>HTVDecals-Pumpkin8</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3732833108048</id>
+      <title>6&quot; W. x 6.6&quot; H.</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku>HTVDecals-ChainedGhost6</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3732833108048</id>
+      <title>4&quot; W. x 4.4&quot; H.</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>HTVDecals-Pumpkin4</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3732833108048</id>
+      <title>3&quot; W. x 3.3&quot; H.</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>HTVDecals-ChainedGhost3</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/3732828094544</id>
+    <published>2019-08-28T17:25:52-04:00</published>
+    <updated>2019-08-28T17:25:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/chained-ghost-htv-decal"/>
+    <title>Chained Ghost HTV Decal</title>
+    <s:type>HTV Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Chained-Ghost.gif?v=1567027863"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>HTV Ready Made Decals<br>
+        <strong>Price: </strong>
+            2.00 - 13.50
+            <a href="https://scriptdesigns.myshopify.com/products/chained-ghost-htv-decal">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform a plain onesie, bib, t-shirt or pillow cover into something unique with our ready to apply HTV decals. </p>
+<p>Do you need ideas to decorate a nursery? You could use a decal as the starting point.  These decals are also available in matte adhesive vinyl for wall applications.</p>
+<p>Custom sizes available upon request.</p>
+<p>Our decals are printed professionally in-house on matte finish Siser ColourPrint PU, a vinyl that is CPSIA Certified for use on children's clothing.</p>
+<p><strong><span>APPLICATION INSTRUCTIONS</span></strong></p>
+<div>May be applied to:</div>
+<ul>
+<li>100% cotton</li>
+<li>100% polyester </li>
+<li>poly/cotton blends </li>
+<li>Lycra°/spandex </li>
+<li>LeatherAdhesive Ready Made Decals</li>
+</ul>
+<div>Preheat the item you are applying the decal to for 2-3 Seconds </div>
+<div>Press for 15-20 seconds at 295° F/146° C  with a medium pressure and peel hot.</div>
+<div></div>
+<div><span><strong></strong></span></div>
+<div><span><strong>CARE INSTRUCTIONS</strong></span></div>
+<ul>
+<li>Do not dry clean</li>
+<li>Machine wash WARM / mild detergent </li>
+<li>Dry on normal setting </li>
+<li>No chlorine bleach</li>
+<li>Wait 24 hours before first wash</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bib</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>cover</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>iron on</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>Mummy</s:tag>
+    <s:tag>pillow</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>siser</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3732828094544</id>
+      <title>10&quot; W. x 10.6&quot; H.</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku>HTVDecals-ChainedGhost10</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3732828094544</id>
+      <title>8&quot; W. x 8.5&quot; H.</title>
+      <s:price currency="CAD">9.90</s:price>
+      <s:sku>HTVDecals-Chained Ghost8</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3732828094544</id>
+      <title>6&quot; W. x 6.4&quot; H.</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku>HTVDecals-ChainedGhost6</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3732828094544</id>
+      <title>4&quot; W. x 4.25&quot; H.</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>HTVDecals-ChainedGhost4</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3732828094544</id>
+      <title>3&quot; W. x 3.2&quot; H.</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>HTVDecals-ChainedGhost3</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/3732822065232</id>
+    <published>2019-08-28T17:09:30-04:00</published>
+    <updated>2019-08-28T17:09:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/halloween-htv-decal"/>
+    <title>Mummy HTV Decal</title>
+    <s:type>HTV Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Mummy.gif?v=1567026618"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>HTV Ready Made Decals<br>
+        <strong>Price: </strong>
+            2.75 - 13.50
+            <a href="https://scriptdesigns.myshopify.com/products/halloween-htv-decal">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform a plain onesie, bib, t-shirt or pillow cover into something unique with our ready to apply HTV decals. </p>
+<p>Do you need ideas to decorate a nursery? You could use a decal as the starting point.  These decals are also available in matte adhesive vinyl for wall applications.</p>
+<p>Custom sizes available upon request.</p>
+<p>Our decals are printed professionally in-house on matte finish Siser ColourPrint PU, a vinyl that is CPSIA Certified for use on children's clothing.</p>
+<p><strong><span>APPLICATION INSTRUCTIONS</span></strong></p>
+<div>May be applied to:</div>
+<ul>
+<li>100% cotton</li>
+<li>100% polyester </li>
+<li>poly/cotton blends </li>
+<li>Lycra°/spandex </li>
+<li>LeatherAdhesive Ready Made Decals</li>
+</ul>
+<div>Preheat the item you are applying the decal to for 2-3 Seconds </div>
+<div>Press for 15-20 seconds at 295° F/146° C  with a medium pressure and peel hot.</div>
+<div></div>
+<div><span><strong></strong></span></div>
+<div><span><strong>CARE INSTRUCTIONS</strong></span></div>
+<ul>
+<li>Do not dry clean</li>
+<li>Machine wash WARM / mild detergent </li>
+<li>Dry on normal setting </li>
+<li>No chlorine bleach</li>
+<li>Wait 24 hours before first wash</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bib</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>cover</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>iron on</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>Mummy</s:tag>
+    <s:tag>pillow</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>siser</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3732822065232</id>
+      <title>8&quot; W. x 12&quot; H.</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku>HTVDecals-Mummy12</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3732822065232</id>
+      <title>6.6&quot; W. x 10&quot; H.</title>
+      <s:price currency="CAD">9.90</s:price>
+      <s:sku>HTVDecals-Mummy10</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3732822065232</id>
+      <title>5.3&quot; W. x 8&quot; H.</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>HTVDecals-Mummy8</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3732822065232</id>
+      <title>4&quot; W. x 6&quot; H.</title>
+      <s:price currency="CAD">4.80</s:price>
+      <s:sku>HTVDecals-Mummy6</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3732822065232</id>
+      <title>2.7&quot; W. x 4&quot; H.</title>
+      <s:price currency="CAD">2.75</s:price>
+      <s:sku>HTVDecals-Mummy4</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/3618261270608</id>
+    <published>2019-06-11T19:03:05-04:00</published>
+    <updated>2019-06-11T19:03:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/happy-canada-day-htv-decal-iron-on"/>
+    <title>Proud to be Canadian - HTV Decal (Iron On)</title>
+    <s:type>HTV Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Proud-to-be-Canadian.gif?v=1560294206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>HTV Ready Made Decals<br>
+        <strong>Price: </strong>
+            4.75 - 14.00
+            <a href="https://scriptdesigns.myshopify.com/products/happy-canada-day-htv-decal-iron-on">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform a plain t-shirt or hoodie with these extremely popular designs.</p>
+<p>Our decals are printed professionally in-house on matte finish Siser ColourPrint PU, a vinyl that is CPSIA Certified for use on children's clothing.  They arrive ready to press.</p>
+<p><strong><span>APPLICATION INSTRUCTIONS</span></strong></p>
+<div>May be applied to:</div>
+<ul>
+<li>100% cotton</li>
+<li>100% polyester </li>
+<li>poly/cotton blends </li>
+<li>Lycra°/spandex </li>
+<li>LeatherAdhesive Ready Made Decals</li>
+</ul>
+<div>Preheat the item you are applying the decal to for 2-3 Seconds </div>
+<div>Press for 15-20 seconds at 295° F/146° C  with a medium pressure and peel hot.</div>
+<div></div>
+<div><span><strong></strong></span></div>
+<div><span><strong>CARE INSTRUCTIONS</strong></span></div>
+<ul>
+<li>Do not dry clean</li>
+<li>Machine wash WARM / mild detergent </li>
+<li>Dry on normal setting </li>
+<li>No chlorine bleach</li>
+<li>Wait 24 hours before first wash</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canada Day</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>cover</s:tag>
+    <s:tag>day</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>Happy</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>iron on</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>pillow</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>Proud</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>siser</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3618261270608</id>
+      <title>12&quot; x 13.25&quot;</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>HTVDecals-ProudCan12&quot;</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3618261270608</id>
+      <title>10&quot; x 11&quot;</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>HTVDecals-ProudCan10&quot;</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3618261270608</id>
+      <title>8&quot; x 8.8&quot;</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>HTVDecals-ProudCan8&quot;</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3618261270608</id>
+      <title>6&quot; x 6.6&quot;</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku>HTVDecals-ProudCan6&quot;</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/3618241249360</id>
+    <published>2019-06-11T18:06:55-04:00</published>
+    <updated>2019-06-11T18:06:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/happy-canada-day-round-stamp-htv-decal-iron-on"/>
+    <title>Happy Canada Day Round Stamp - HTV Decal (Iron On)</title>
+    <s:type>HTV Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Canada-Day-Round-Stamp.gif?v=1560290839"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>HTV Ready Made Decals<br>
+        <strong>Price: </strong>
+            4.50 - 12.00
+            <a href="https://scriptdesigns.myshopify.com/products/happy-canada-day-round-stamp-htv-decal-iron-on">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform a plain t-shirt or hoodie with these extremely popular designs.</p>
+<p>Our decals are printed professionally in-house on matte finish Siser ColourPrint PU, a vinyl that is CPSIA Certified for use on children's clothing.  They arrive ready to press.</p>
+<p><strong><span>APPLICATION INSTRUCTIONS</span></strong></p>
+<div>May be applied to:</div>
+<ul>
+<li>100% cotton</li>
+<li>100% polyester </li>
+<li>poly/cotton blends </li>
+<li>Lycra°/spandex </li>
+<li>LeatherAdhesive Ready Made Decals</li>
+</ul>
+<div>Preheat the item you are applying the decal to for 2-3 Seconds </div>
+<div>Press for 15-20 seconds at 295° F/146° C  with a medium pressure and peel hot.</div>
+<div></div>
+<div><span><strong></strong></span></div>
+<div><span><strong>CARE INSTRUCTIONS</strong></span></div>
+<ul>
+<li>Do not dry clean</li>
+<li>Machine wash WARM / mild detergent </li>
+<li>Dry on normal setting </li>
+<li>No chlorine bleach</li>
+<li>Wait 24 hours before first wash</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canada Day</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>cover</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>Happy</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>iron on</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>pillow</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>siser</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3618241249360</id>
+      <title>12&quot; x 12&quot;</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>HTVDecals-CanadaDayRound12&quot;</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3618241249360</id>
+      <title>10&quot; x 10&quot;</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>HTVDecals-CanadaDayRound10&quot;</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3618241249360</id>
+      <title>8&quot; x 8&quot;</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>HTVDecals-CanadaDayRound8&quot;</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3618241249360</id>
+      <title>6&quot; x 6&quot;</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>HTVDecals-CanadaDayRound6&quot;</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/3570641731664</id>
+    <published>2019-05-07T17:17:57-04:00</published>
+    <updated>2019-05-07T17:17:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/copy-of-girl-who-loved-unicorns-black-lettering-htv-decal-iron-on"/>
+    <title>Girl who Loved Unicorns - Black Lettering - HTV Decal (Iron On)</title>
+    <s:type>HTV Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Unicorn-black-letters-for-web.jpg?v=1557263898"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>HTV Ready Made Decals<br>
+        <strong>Price: </strong>
+            7.00 - 12.00
+            <a href="https://scriptdesigns.myshopify.com/products/copy-of-girl-who-loved-unicorns-black-lettering-htv-decal-iron-on">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform a plain t-shirt or hoodie with these extremely popular designs.</p>
+<p>Our decals are printed professionally in-house on matte finish Siser ColourPrint PU, a vinyl that is CPSIA Certified for use on children's clothing.  They arrive ready to press.</p>
+<p><strong><span>APPLICATION INSTRUCTIONS</span></strong></p>
+<div>May be applied to:</div>
+<ul>
+<li>100% cotton</li>
+<li>100% polyester </li>
+<li>poly/cotton blends </li>
+<li>Lycra°/spandex </li>
+<li>LeatherAdhesive Ready Made Decals</li>
+</ul>
+<div>Preheat the item you are applying the decal to for 2-3 Seconds </div>
+<div>Press for 15-20 seconds at 295° F/146° C  with a medium pressure and peel hot.</div>
+<div></div>
+<div><span><strong></strong></span></div>
+<div><span><strong>CARE INSTRUCTIONS</strong></span></div>
+<ul>
+<li>Do not dry clean</li>
+<li>Machine wash WARM / mild detergent </li>
+<li>Dry on normal setting </li>
+<li>No chlorine bleach</li>
+<li>Wait 24 hours before first wash</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>cover</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>dino</s:tag>
+    <s:tag>Girl</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>iron on</s:tag>
+    <s:tag>Jurassic</s:tag>
+    <s:tag>letters</s:tag>
+    <s:tag>love</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>pillow</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>siser</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:tag>Unicorn</s:tag>
+    <s:tag>Unicorns</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3570641731664</id>
+      <title>12&quot; x 12&quot; / 1-5</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>HTVDecals-GirlUnicornsBlack12-1to5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3570641731664</id>
+      <title>12&quot; x 12&quot; / 6 or more</title>
+      <s:price currency="CAD">11.00</s:price>
+      <s:sku>HTVDecals-GirlUnicornsBlack12-6+</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3570641731664</id>
+      <title>10&quot; x 10&quot; / 1-5</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>HTVDecals-GirlUnicornsBlack10-1to5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3570641731664</id>
+      <title>10&quot; x 10&quot; / 6 or more</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>HTVDecals-GirlUnicornsBlack10-6+</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3570641731664</id>
+      <title>8&quot; x 8&quot; / 1-5</title>
+      <s:price currency="CAD">8.50</s:price>
+      <s:sku>HTVDecals-GirlUnicornsBlack8-1to5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3570641731664</id>
+      <title>8&quot; x 8&quot; / 6 or more</title>
+      <s:price currency="CAD">8.25</s:price>
+      <s:sku>HTVDecals-GirlUnicornsBlack8-6+</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3570641731664</id>
+      <title>6&quot; x 6&quot; / 1-5</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku>HTVDecals-GirlUnicornsBlack6-1to5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3570641731664</id>
+      <title>6&quot; x 6&quot; / 6 or more</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>HTVDecals-GirlUnicornsBlack6-6+</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/3570599723088</id>
+    <published>2019-05-07T16:50:24-04:00</published>
+    <updated>2019-05-07T16:50:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/girl-who-loved-unicorns-htv-decal-iron-on"/>
+    <title>Girl who Loved Unicorns - White Lettering - HTV Decal (Iron On)</title>
+    <s:type>HTV Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Unicorn-white-letters-for-web.jpg?v=1557262496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>HTV Ready Made Decals<br>
+        <strong>Price: </strong>
+            7.00 - 12.00
+            <a href="https://scriptdesigns.myshopify.com/products/girl-who-loved-unicorns-htv-decal-iron-on">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform a plain t-shirt or hoodie with these extremely popular designs.</p>
+<p>Our decals are printed professionally in-house on matte finish Siser ColourPrint PU, a vinyl that is CPSIA Certified for use on children's clothing.  They arrive ready to press.</p>
+<p><strong><span>APPLICATION INSTRUCTIONS</span></strong></p>
+<div>May be applied to:</div>
+<ul>
+<li>100% cotton</li>
+<li>100% polyester </li>
+<li>poly/cotton blends </li>
+<li>Lycra°/spandex </li>
+<li>LeatherAdhesive Ready Made Decals</li>
+</ul>
+<div>Preheat the item you are applying the decal to for 2-3 Seconds </div>
+<div>Press for 15-20 seconds at 295° F/146° C  with a medium pressure and peel hot.</div>
+<div></div>
+<div><span><strong></strong></span></div>
+<div><span><strong>CARE INSTRUCTIONS</strong></span></div>
+<ul>
+<li>Do not dry clean</li>
+<li>Machine wash WARM / mild detergent </li>
+<li>Dry on normal setting </li>
+<li>No chlorine bleach</li>
+<li>Wait 24 hours before first wash</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clothing</s:tag>
+    <s:tag>cover</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>dino</s:tag>
+    <s:tag>Girl</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>iron on</s:tag>
+    <s:tag>Jurassic</s:tag>
+    <s:tag>love</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>pillow</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>siser</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:tag>Unicorn</s:tag>
+    <s:tag>Unicorns</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3570599723088</id>
+      <title>12&quot; x 12&quot; / 1-5</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>HTVDecals-GirlUnicornsWhite12-1to5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3570599723088</id>
+      <title>12&quot; x 12&quot; / 6 or more</title>
+      <s:price currency="CAD">11.00</s:price>
+      <s:sku>HTVDecals-GirlUnicornsWhite12-6+</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3570599723088</id>
+      <title>10&quot; x 10&quot; / 1-5</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>HTVDecals-GirlUnicornsWhite10-1to5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3570599723088</id>
+      <title>10&quot; x 10&quot; / 6 or more</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>HTVDecals-GirlUnicornsWhite10-6+</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3570599723088</id>
+      <title>8&quot; x 8&quot; / 1-5</title>
+      <s:price currency="CAD">8.50</s:price>
+      <s:sku>HTVDecals-GirlUnicornsWhite8-1to5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3570599723088</id>
+      <title>8&quot; x 8&quot; / 6 or more</title>
+      <s:price currency="CAD">8.25</s:price>
+      <s:sku>HTVDecals-GirlUnicornsWhite8-6+</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3570599723088</id>
+      <title>6&quot; x 6&quot; / 1-5</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku>HTVDecals-GirlUnicornsWhite6-1to5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3570599723088</id>
+      <title>6&quot; x 6&quot; / 6 or more</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>HTVDecals-GirlUnicornsWhite6-6+</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/166658146310</id>
+    <published>2018-02-21T14:19:58-05:00</published>
+    <updated>2018-02-21T14:19:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/st-patricks-htv-decals"/>
+    <title>St-Patrick&apos;s HTV Decals</title>
+    <s:type>HTV Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Untitled-1.jpg?v=1519159525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>HTV Ready Made Decals<br>
+        <strong>Price: </strong>
+            3.50 - 9.00
+            <a href="https://scriptdesigns.myshopify.com/products/st-patricks-htv-decals">(21 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform a plain shirt, onesie, bib, t-shirt or pillow cover into something unique with our ready to apply HTV decals. </p>
+<p>Custom sizes available upon request.</p>
+<p>Our decals are printed professionally in-house on matte finish Siser ColourPrint PU, a vinyl that is CPSIA Certified for use on children's clothing.</p>
+<p><strong><span style="text-decoration: underline;">APPLICATION INSTRUCTIONS</span></strong></p>
+<div>May be applied to:</div>
+<ul>
+<li>100% cotton</li>
+<li>100% polyester </li>
+<li>poly/cotton blends </li>
+<li>Lycra°/spandex </li>
+<li>Leather</li>
+</ul>
+<div>Preheat the item you are applying the decal to for 2-3 Seconds </div>
+<div>Press for 15-20 seconds at 295° F/146° C  with a medium pressure and peel hot.</div>
+<div></div>
+<div><span style="text-decoration: underline;"><strong></strong></span></div>
+<div><span style="text-decoration: underline;"><strong>CARE INSTRUCTIONS</strong></span></div>
+<ul>
+<li>Do not dry clean</li>
+<li>Machine wash WARM / mild detergent </li>
+<li>Dry on normal setting </li>
+<li>No chlorine bleach</li>
+<li>Wait 24 hours before first wash</li>
+</ul>
+<p><span style="text-decoration: underline;"><strong>DIMENSIONS</strong></span></p>
+<p><em>Lucky Moon Owl</em></p>
+<ul>
+<li>Small: 4" x 4.75"</li>
+<li>Medium: 7" x 7.25"</li>
+<li>Large: 10" x 10.5"</li>
+</ul>
+<p><em>Leprechaun 1:  </em><span style="text-decoration: underline;"><strong></strong></span></p>
+<ul>
+<li>Small: 5" x 6.5"</li>
+<li>Medium: 8" x 10.5"</li>
+<li>Large: 9" x 12" </li>
+</ul>
+<p><em>No More Beer:</em></p>
+<ul>
+<li>Small: 4" x 3.75"</li>
+<li>Medium: 8" x 7.5"</li>
+<li>Large: 12" x 11.3"</li>
+</ul>
+<p><em>Clover Fairy:</em></p>
+<ul>
+<li>Small: 4" x 5.5"</li>
+<li>Medium: 6" x 8.3"</li>
+<li>Large: 8" x 11"</li>
+</ul>
+<p><em>Lucky Sheet:</em></p>
+<ul>
+<li>Small: 4" x 3.5"</li>
+<li>Medium: 8" x 7" </li>
+<li>Large: 12" x 10.5"</li>
+</ul>
+<p><em>Big Nose Irish Clover</em></p>
+<ul>
+<li>Small: 4" x 5.3"</li>
+<li>Medium: 6" x 8" </li>
+<li>Large: 9" x 12"</li>
+</ul>
+<p><em>Big Nose Green Beer</em></p>
+<ul>
+<li>Small: 4" x 4.5"</li>
+<li>Medium: 8" x 9" </li>
+<li>Large: 10" x 12"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beer</s:tag>
+    <s:tag>bib</s:tag>
+    <s:tag>clover</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>Irish</s:tag>
+    <s:tag>iron on</s:tag>
+    <s:tag>Leprechaun</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>march 17</s:tag>
+    <s:tag>owl</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>siser</s:tag>
+    <s:tag>St-Patrick</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/166658146310</id>
+      <title>Lucky Moon Owl - Small</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>HTVDecal-LuckyOwlSmall</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/166658146310</id>
+      <title>Lucky Moon Owl - Medium</title>
+      <s:price currency="CAD">6.50</s:price>
+      <s:sku>HTVDecal-LuckyOwlMedium</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/166658146310</id>
+      <title>Lucky Moon Owl - Large</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>HTVDecal-LuckyOwlLarge</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/166658146310</id>
+      <title>Leprechaun1 - Small</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>HTVDecal-Leprechaun1Small</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/166658146310</id>
+      <title>Leprechaun1 - Medium</title>
+      <s:price currency="CAD">6.50</s:price>
+      <s:sku>HTVDecal-Leprechaun1Medium</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/166658146310</id>
+      <title>Leprechaun1 - Large</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>HTVDecal-Leprechaun1Large</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/166658146310</id>
+      <title>No more Beer - Small</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>HTVDecal-NomorebeerSmall</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/166658146310</id>
+      <title>No more Beer - Medium</title>
+      <s:price currency="CAD">6.50</s:price>
+      <s:sku>HTVDecal-NomorebeerMedium</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/166658146310</id>
+      <title>No more Beer - Large</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>HTVDecal-NomorebeerLarge</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/166658146310</id>
+      <title>Clover Fairy Small</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>HTVDecal-CloverFairySmall</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/166658146310</id>
+      <title>Clover Fairy Medium</title>
+      <s:price currency="CAD">6.50</s:price>
+      <s:sku>HTVDecal-CloverFairyMedium</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/166658146310</id>
+      <title>Clover Fairy Large</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>HTVDecal-CloverFairyLarge</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/166658146310</id>
+      <title>Lucky Sheep - Small</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>HTVDecal-LuckySheepSmall</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/166658146310</id>
+      <title>Lucky Sheep - Medium</title>
+      <s:price currency="CAD">6.50</s:price>
+      <s:sku>HTVDecal-LuckySheepMedium</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/166658146310</id>
+      <title>Lucky Sheep - Large</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>HTVDecal-LuckySheepLarge</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/166658146310</id>
+      <title>Big Nose Irish Clover - Small</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>HTVDecal-BigNoseCLoserSmall</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/166658146310</id>
+      <title>Big Nose Irish Clover - Medium</title>
+      <s:price currency="CAD">6.50</s:price>
+      <s:sku>HTVDecal-BigNoseCLoserMedium</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/166658146310</id>
+      <title>Big Nose Irish Clover - Large</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>HTVDecal-BigNoseCLoserLarge</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/166658146310</id>
+      <title>Big Nose Irish Beer - Small</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>HTVDecal-BigNoseBeerSmall</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/166658146310</id>
+      <title>Big Nose Irish Beer - Medium</title>
+      <s:price currency="CAD">6.50</s:price>
+      <s:sku>HTVDecal-BigNoseBeerMedium</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/166658146310</id>
+      <title>Big Nose Irish Beer - Large</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>HTVDecal-BigNoseBeerLarge</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+</feed>

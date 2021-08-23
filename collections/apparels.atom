@@ -1,0 +1,1643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://scriptdesigns.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://scriptdesigns.myshopify.com/collections/apparels.atom"/>
+  <title>ScriptDesigns</title>
+  <updated>2021-03-02T15:21:27-05:00</updated>
+  <author>
+    <name>ScriptDesigns</name>
+  </author>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/6538538221648</id>
+    <published>2021-03-02T15:21:27-05:00</published>
+    <updated>2021-03-02T15:21:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/fruit-of-the-loom-polo-shirts"/>
+    <title>Fruit of the Loom Polo Shirts</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/63218HEAFRONT_0_570.jpg?v=1614716500"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Gildan Adult Ultra Cotton® 10 oz./lin. yd. T-Shirt</strong></p>
+<p><strong>Fabric:<span></span></strong></p>
+<ul class="bullet">
+<li>6 oz., 100% preshrunk cotton</li>
+<li>Ash Grey is 99/1; Sport Grey is 90/10</li>
+<li>Antique colors are 90/10</li>
+<li>Heathers and Safety colors are 50/50</li>
+</ul>
+<p><strong><br>Features:<span></span></strong></p>
+<ul class="bullet">
+<li>Tear away label</li>
+<li>Double-needle sleeve and bottom hem</li>
+<li>Seamless double-needle 7/8" collar</li>
+<li>Taped neck and shoulders</li>
+<li>Safety Green is compliant with ANSI / ISEA 107 high visibility standards</li>
+</ul>
+<p><strong><br>Sizes:<span> S-5XL </span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>100% preshrunk</s:tag>
+    <s:tag>100%cotton</s:tag>
+    <s:tag>50% cotton</s:tag>
+    <s:tag>50% polyester</s:tag>
+    <s:tag>shirt</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6538538221648</id>
+      <title>L / Ash Grey</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>166</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6538538221648</id>
+      <title>XL / Ash Grey</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>166</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6538538221648</id>
+      <title>XXL / Ash Grey</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>166</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/3722607755344</id>
+    <published>2021-03-02T15:01:30-05:00</published>
+    <updated>2021-03-02T15:01:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/gildan-adult-hoodies"/>
+    <title>Gildan Adult Heavy Blend Hoodies</title>
+    <s:type>Hoodies</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/g185_51_z.jpg?v=1614715364"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Hoodies<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Gildan Adult Heavy Blend™ 13.3 oz./lin. yd., 50/50 Hood</strong></p>
+<p><strong></strong><strong>Fabric:</strong><span></span></p>
+<ul class="bullet">
+<li>50% cotton, 50% polyester</li>
+<li>All Heather Sport colors are 60% cotton, 40% polyester</li>
+</ul>
+<strong>Features:</strong><span></span>
+<ul class="bullet">
+<li>pill-resistant air jet yarn</li>
+<li>double-needle stitching throughout</li>
+<li>double-lined hood</li>
+<li>pouch pocket; matching drawcord</li>
+<li>1x1 ribbed cuffs and waistband with spandex</li>
+<li>Safety Orange is compliant with ANSI - ISEA 107 High Visibility Standards</li>
+</ul>
+<p><strong>Sizes:</strong><span> S-5XL </span></p>
+<p><strong>Specs. &amp; Sizing:</strong></p>
+<table class="specs-tab" border="1" style="width: 468px;">
+<tbody>
+<tr class="tr-row1">
+<td class="td-col1" style="width: 156px;"> </td>
+<td class="td-cols" style="width: 44px;">S</td>
+<td class="td-cols" style="width: 36px;">M</td>
+<td class="td-cols" style="width: 41px;">L</td>
+<td class="td-cols" style="width: 44px;">XL</td>
+<td class="td-cols" style="width: 34px;">2XL</td>
+<td class="td-cols" style="width: 38px;">3XL</td>
+<td class="td-cols" style="width: 38px;">4XL</td>
+<td class="td-cols" style="width: 39px;">5XL</td>
+<td class="td-cols" style="width: 31.554px;"></td>
+<td class="td-cols" style="width: 18.446px;"></td>
+</tr>
+<tr>
+<td class="td-col1" style="width: 156px;">BODY LENGTH</td>
+<td class="td-cols" style="width: 44px;">26</td>
+<td class="td-cols" style="width: 36px;">27</td>
+<td class="td-cols" style="width: 41px;">28</td>
+<td class="td-cols" style="width: 44px;">29</td>
+<td class="td-cols" style="width: 34px;">30</td>
+<td class="td-cols" style="width: 38px;">31</td>
+<td class="td-cols" style="width: 38px;">32</td>
+<td class="td-cols" style="width: 39px;">33</td>
+<td class="td-cols" style="width: 31.554px;"></td>
+<td class="td-cols" style="width: 18.446px;"></td>
+</tr>
+<tr>
+<td class="td-col1" style="width: 156px;">BODY WIDTH</td>
+<td class="td-cols" style="width: 44px;">20</td>
+<td class="td-cols" style="width: 36px;">22</td>
+<td class="td-cols" style="width: 41px;">24</td>
+<td class="td-cols" style="width: 44px;">26</td>
+<td class="td-cols" style="width: 34px;">28</td>
+<td class="td-cols" style="width: 38px;">30</td>
+<td class="td-cols" style="width: 38px;">32</td>
+<td class="td-cols" style="width: 39px;">34</td>
+<td class="td-cols" style="width: 31.554px;"></td>
+<td class="td-cols" style="width: 18.446px;"></td>
+</tr>
+<tr>
+<td class="td-col1" style="width: 156px;">FULL BODY LENGTH</td>
+<td class="td-cols" style="width: 44px;">26</td>
+<td class="td-cols" style="width: 36px;">27</td>
+<td class="td-cols" style="width: 41px;">28</td>
+<td class="td-cols" style="width: 44px;">29</td>
+<td class="td-cols" style="width: 34px;">30</td>
+<td class="td-cols" style="width: 38px;">31</td>
+<td class="td-cols" style="width: 38px;">32</td>
+<td class="td-cols" style="width: 39px;">33</td>
+<td class="td-cols" style="width: 31.554px;"></td>
+<td class="td-cols" style="width: 18.446px;"></td>
+</tr>
+<tr>
+<td class="td-col1" style="width: 156px;">SLEEVE LENGTH</td>
+<td class="td-cols" style="width: 44px;">33</td>
+<td class="td-cols" style="width: 36px;">34</td>
+<td class="td-cols" style="width: 41px;">35</td>
+<td class="td-cols" style="width: 44px;">36</td>
+<td class="td-cols" style="width: 34px;">37</td>
+<td class="td-cols" style="width: 38px;">38</td>
+<td class="td-cols" style="width: 38px;">39</td>
+<td class="td-cols" style="width: 39px;">40</td>
+<td class="td-cols" style="width: 31.554px;"></td>
+<td class="td-cols" style="width: 18.446px;"></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gildan</s:tag>
+    <s:tag>hood</s:tag>
+    <s:tag>hoodies</s:tag>
+    <s:tag>Polyester</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3722607755344</id>
+      <title>S / Black</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>ApparelBlanks-1</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3722607755344</id>
+      <title>S / Navy</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>ApparelBlanks-2</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3722607755344</id>
+      <title>XL / Navy</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>ApparelBlanks-14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3722607755344</id>
+      <title>S / Black Youth</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>ApparelBlanks-1</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/6538531897424</id>
+    <published>2021-03-02T14:53:15-05:00</published>
+    <updated>2021-03-02T14:53:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/gildan-v-neck-ladies-softstyle"/>
+    <title>Gildan V-Neck Ladies Softstyle</title>
+    <s:type>Hoodies</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/g64vl_51_p.jpg?v=1614714836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Hoodies<br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Gildan Adult Heavy Blend™ 13.3 oz./lin. yd., 50/50 Hood</strong></p>
+<p><strong></strong><strong>Fabric:</strong><span></span></p>
+<ul class="bullet">
+<li>50% cotton, 50% polyester</li>
+<li>All Heather Sport colors are 60% cotton, 40% polyester</li>
+</ul>
+<strong>Features:</strong><span></span>
+<ul class="bullet">
+<li>pill-resistant air jet yarn</li>
+<li>double-needle stitching throughout</li>
+<li>double-lined hood</li>
+<li>pouch pocket; matching drawcord</li>
+<li>1x1 ribbed cuffs and waistband with spandex</li>
+<li>Safety Orange is compliant with ANSI - ISEA 107 High Visibility Standards</li>
+</ul>
+<p><strong>Sizes:</strong><span> S-5XL </span></p>
+<p><strong>Specs. &amp; Sizing:</strong></p>
+<table class="specs-tab" border="1" style="width: 468px;">
+<tbody>
+<tr class="tr-row1">
+<td class="td-col1" style="width: 156px;"> </td>
+<td class="td-cols" style="width: 44px;">S</td>
+<td class="td-cols" style="width: 36px;">M</td>
+<td class="td-cols" style="width: 41px;">L</td>
+<td class="td-cols" style="width: 44px;">XL</td>
+<td class="td-cols" style="width: 34px;">2XL</td>
+<td class="td-cols" style="width: 38px;">3XL</td>
+<td class="td-cols" style="width: 38px;">4XL</td>
+<td class="td-cols" style="width: 39px;">5XL</td>
+<td class="td-cols" style="width: 31.554px;"></td>
+<td class="td-cols" style="width: 18.446px;"></td>
+</tr>
+<tr>
+<td class="td-col1" style="width: 156px;">BODY LENGTH</td>
+<td class="td-cols" style="width: 44px;">26</td>
+<td class="td-cols" style="width: 36px;">27</td>
+<td class="td-cols" style="width: 41px;">28</td>
+<td class="td-cols" style="width: 44px;">29</td>
+<td class="td-cols" style="width: 34px;">30</td>
+<td class="td-cols" style="width: 38px;">31</td>
+<td class="td-cols" style="width: 38px;">32</td>
+<td class="td-cols" style="width: 39px;">33</td>
+<td class="td-cols" style="width: 31.554px;"></td>
+<td class="td-cols" style="width: 18.446px;"></td>
+</tr>
+<tr>
+<td class="td-col1" style="width: 156px;">BODY WIDTH</td>
+<td class="td-cols" style="width: 44px;">20</td>
+<td class="td-cols" style="width: 36px;">22</td>
+<td class="td-cols" style="width: 41px;">24</td>
+<td class="td-cols" style="width: 44px;">26</td>
+<td class="td-cols" style="width: 34px;">28</td>
+<td class="td-cols" style="width: 38px;">30</td>
+<td class="td-cols" style="width: 38px;">32</td>
+<td class="td-cols" style="width: 39px;">34</td>
+<td class="td-cols" style="width: 31.554px;"></td>
+<td class="td-cols" style="width: 18.446px;"></td>
+</tr>
+<tr>
+<td class="td-col1" style="width: 156px;">FULL BODY LENGTH</td>
+<td class="td-cols" style="width: 44px;">26</td>
+<td class="td-cols" style="width: 36px;">27</td>
+<td class="td-cols" style="width: 41px;">28</td>
+<td class="td-cols" style="width: 44px;">29</td>
+<td class="td-cols" style="width: 34px;">30</td>
+<td class="td-cols" style="width: 38px;">31</td>
+<td class="td-cols" style="width: 38px;">32</td>
+<td class="td-cols" style="width: 39px;">33</td>
+<td class="td-cols" style="width: 31.554px;"></td>
+<td class="td-cols" style="width: 18.446px;"></td>
+</tr>
+<tr>
+<td class="td-col1" style="width: 156px;">SLEEVE LENGTH</td>
+<td class="td-cols" style="width: 44px;">33</td>
+<td class="td-cols" style="width: 36px;">34</td>
+<td class="td-cols" style="width: 41px;">35</td>
+<td class="td-cols" style="width: 44px;">36</td>
+<td class="td-cols" style="width: 34px;">37</td>
+<td class="td-cols" style="width: 38px;">38</td>
+<td class="td-cols" style="width: 38px;">39</td>
+<td class="td-cols" style="width: 39px;">40</td>
+<td class="td-cols" style="width: 31.554px;"></td>
+<td class="td-cols" style="width: 18.446px;"></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gildan</s:tag>
+    <s:tag>hood</s:tag>
+    <s:tag>hoodies</s:tag>
+    <s:tag>Polyester</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6538531897424</id>
+      <title>S / Black</title>
+      <s:price currency="CAD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/3723643486288</id>
+    <published>2021-03-02T13:04:51-05:00</published>
+    <updated>2021-03-02T13:04:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/gildan-ladies-adult-ultra-cotton-10-oz-lin-yd-t-shirt"/>
+    <title>Gildan Ladies Adult Ultra Cotton® 10 oz./lin. yd. T-Shirt</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/g200l_43_z.jpg?v=1614707412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Gildan Ladies Adult Ultra Cotton® 10 oz./lin. yd. T-Shirt</strong></p>
+<p><strong>Fabric:</strong><span></span></p>
+<ul class="bullet">
+<li>6 oz., 100% Cotton</li>
+<li>Sport Grey is 90/10</li>
+<li>Heathers and Safety colors are 50/50</li>
+</ul>
+<p><br><strong>Features:</strong><span></span></p>
+<ul class="bullet">
+<li>taped shoulder-to-shoulder</li>
+<li>double-needle sleeve and bottom hem</li>
+<li>seamless double needle 5/8" collar</li>
+<li>Side seamed</li>
+<li>Classic fit</li>
+<li>Tear away label</li>
+</ul>
+<p><br><strong>Sizes:</strong><span> XS-3XL </span></p>
+<table class="specs-tab" border="1" style="width: 556px;">
+<tbody>
+<tr>
+<td class="td-col1" style="width: 117.085px;">BODY WIDTH</td>
+<td class="td-cols" style="width: 113.915px;">16</td>
+<td class="td-cols" style="width: 47px;">18</td>
+<td class="td-cols" style="width: 37px;">20</td>
+<td class="td-cols" style="width: 37px;">22</td>
+<td class="td-cols" style="width: 37px;">24</td>
+<td class="td-cols" style="width: 37px;">26</td>
+<td class="td-cols" style="width: 37px;">28</td>
+<td class="td-cols" style="width: 7px;">-</td>
+<td class="td-cols" style="width: 7px;">-</td>
+<td class="td-cols" style="width: 7px;">-</td>
+</tr>
+<tr>
+<td class="td-col1" style="width: 117.085px;">FULL BODY LENGTH</td>
+<td class="td-cols" style="width: 113.915px;">23.5</td>
+<td class="td-cols" style="width: 47px;">25</td>
+<td class="td-cols" style="width: 37px;">26</td>
+<td class="td-cols" style="width: 37px;">27</td>
+<td class="td-cols" style="width: 37px;">28</td>
+<td class="td-cols" style="width: 37px;">29</td>
+<td class="td-cols" style="width: 37px;">30</td>
+<td class="td-cols" style="width: 7px;">-</td>
+<td class="td-cols" style="width: 7px;">-</td>
+<td class="td-cols" style="width: 7px;">-</td>
+</tr>
+<tr>
+<td class="td-col1" style="width: 117.085px;">SLEEVE LENGTH</td>
+<td class="td-cols" style="width: 113.915px;">12.75</td>
+<td class="td-cols" style="width: 47px;">13.75</td>
+<td class="td-cols" style="width: 37px;">14.5</td>
+<td class="td-cols" style="width: 37px;">15.5</td>
+<td class="td-cols" style="width: 37px;">16.5</td>
+<td class="td-cols" style="width: 37px;">17.5</td>
+<td class="td-cols" style="width: 37px;">18.5</td>
+<td class="td-cols" style="width: 7px;">-</td>
+<td class="td-cols" style="width: 7px;">-</td>
+<td class="td-cols" style="width: 7px;">-</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>100% preshrunk</s:tag>
+    <s:tag>100%cotton</s:tag>
+    <s:tag>50% cotton</s:tag>
+    <s:tag>50% polyester</s:tag>
+    <s:tag>shirt</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3723643486288</id>
+      <title>L / White</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku>GildanTShirtUltraCotton-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3723643486288</id>
+      <title>L / Navy</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku>GildanTShirtUltraCotton-10</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3723643486288</id>
+      <title>XXXL / Black</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku>GildanTShirtUltraCotton-10</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/3723626348624</id>
+    <published>2021-03-02T13:04:13-05:00</published>
+    <updated>2021-03-02T13:04:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/copy-of-gildan-adult-heavy-cotton-8-8-oz-lin-yd-t-shirt"/>
+    <title>Gildan Ladies Adult Heavy Cotton™ 8.8 oz./lin. yd. T-Shirt</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/g500l_54_z.jpg?v=1566406854"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Gildan Adult Heavy Cotton™ 8.8 oz./lin. yd. T-Shirt</strong></p>
+<p><strong>Features:</strong><span></span></p>
+<ul class="bullet">
+<li>100% preshrunk cotton; Ash Grey 99% cotton, 1% polyester</li>
+<li>Sport Grey is 90% cotton and 10% polyester</li>
+<li>Blackberry, Heather Sapphire, are 50% cotton, 50% poly</li>
+<li>cap sleeves for comfort; taped shoulder-to-shoulder</li>
+<li>double-needle stitching throughout; seamless rib at neck</li>
+<li>feminine ½" rib mid scoop neck; sideseamed with slightly tapered Missy fit</li>
+</ul>
+<p><br><strong>Sizes:</strong><span> S-3XL </span></p>
+<table width="100%">
+<tbody>
+<tr>
+<td> 
+<table class="specs-tab" border="1" style="width: 535px;">
+<tbody>
+<tr>
+<td class="td-col1" style="width: 127px;">BODY LENGTH</td>
+<td class="td-cols" style="width: 60px;">25.5</td>
+<td class="td-cols" style="width: 57px;">26</td>
+<td class="td-cols" style="width: 49px;">27</td>
+<td class="td-cols" style="width: 49.9233px;">28</td>
+<td class="td-cols" style="width: 59.0767px;">28.5</td>
+<td class="td-cols" style="width: 46px;">29</td>
+<td class="td-cols" style="width: 6px;">-</td>
+<td class="td-cols" style="width: 6px;">-</td>
+<td class="td-cols" style="width: 6px;">-</td>
+<td class="td-cols" style="width: 7px;">-</td>
+</tr>
+<tr>
+<td class="td-col1" style="width: 127px;">BODY WIDTH</td>
+<td class="td-cols" style="width: 60px;">17.25</td>
+<td class="td-cols" style="width: 57px;">19.25</td>
+<td class="td-cols" style="width: 49px;">21.25</td>
+<td class="td-cols" style="width: 49.9233px;">23.25</td>
+<td class="td-cols" style="width: 59.0767px;">25.25</td>
+<td class="td-cols" style="width: 46px;">27.25</td>
+<td class="td-cols" style="width: 6px;">-</td>
+<td class="td-cols" style="width: 6px;">-</td>
+<td class="td-cols" style="width: 6px;">-</td>
+<td class="td-cols" style="width: 7px;">-</td>
+</tr>
+<tr>
+<td class="td-col1" style="width: 127px;">FULL BODY LENGTH</td>
+<td class="td-cols" style="width: 60px;">25.5</td>
+<td class="td-cols" style="width: 57px;">26</td>
+<td class="td-cols" style="width: 49px;">27</td>
+<td class="td-cols" style="width: 49.9233px;">28</td>
+<td class="td-cols" style="width: 59.0767px;">28.5</td>
+<td class="td-cols" style="width: 46px;">29</td>
+<td class="td-cols" style="width: 6px;">-</td>
+<td class="td-cols" style="width: 6px;">-</td>
+<td class="td-cols" style="width: 6px;">-</td>
+<td class="td-cols" style="width: 7px;">-</td>
+</tr>
+<tr>
+<td class="td-col1" style="width: 127px;">SLEEVE LENGTH</td>
+<td class="td-cols" style="width: 60px;">13.25</td>
+<td class="td-cols" style="width: 57px;">14</td>
+<td class="td-cols" style="width: 49px;">14.75</td>
+<td class="td-cols" style="width: 49.9233px;">15.75</td>
+<td class="td-cols" style="width: 59.0767px;">16.75</td>
+<td class="td-cols" style="width: 46px;">17.5</td>
+<td class="td-cols" style="width: 6px;">-</td>
+<td class="td-cols" style="width: 6px;">-</td>
+<td class="td-cols" style="width: 6px;">-</td>
+<td class="td-cols" style="width: 7px;">-</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>100% preshrunk</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>gildan</s:tag>
+    <s:tag>heavy cotton</s:tag>
+    <s:tag>preshrunk</s:tag>
+    <s:tag>shirt</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3723626348624</id>
+      <title>S / White</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku>Gildan TShirts-2</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3723626348624</id>
+      <title>M / White</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku>Gildan TShirts-7</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3723626348624</id>
+      <title>L / White</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku>Gildan TShirts-12</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3723626348624</id>
+      <title>XL / White</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku>Gildan TShirts-17</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3723626348624</id>
+      <title>XL / Charcoal</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku>Gildan TShirts-12</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3723626348624</id>
+      <title>M / Charcoal</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku>Gildan TShirts-12</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3723626348624</id>
+      <title>S / Charcoal</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku>Gildan TShirts-12</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3723626348624</id>
+      <title>XXL / Charcoal</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku>Gildan TShirts-12</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/6538512695376</id>
+    <published>2021-03-02T12:55:01-05:00</published>
+    <updated>2021-03-02T12:55:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/copy-of-gildan-youth-ultra-cotton-8-8-oz-lin-yd-t-shirt"/>
+    <title>Gildan Youth Ultra Cotton™ 8.8 oz./lin. yd. T-Shirt</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/g200b_00_p.jpg?v=1614707757"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>100% preshrunk</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>gildan</s:tag>
+    <s:tag>heavy cotton</s:tag>
+    <s:tag>preshrunk</s:tag>
+    <s:tag>shirt</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6538512695376</id>
+      <title>L / White</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6538512695376</id>
+      <title>XL / White</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6538512695376</id>
+      <title>XS / Black</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6538512695376</id>
+      <title>XL / Black</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6538512695376</id>
+      <title>XL / Purple</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/6538512466000</id>
+    <published>2021-03-02T12:53:30-05:00</published>
+    <updated>2021-03-02T12:53:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/gildan-youth-heavy-cotton-8-8-oz-lin-yd-t-shirt"/>
+    <title>Gildan Youth Heavy Cotton™ 8.8 oz./lin. yd. T-Shirt</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/g500_51_z_1efce020-072a-453d-8b4b-4ea470ee0d9b.jpg?v=1614707614"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Gildan Adult Heavy Cotton™ 8.8 oz./lin. yd. T-Shirt</strong></p>
+<p><strong>Fabric:</strong><span></span></p>
+<ul class="bullet">
+<li>100% preshrunk cotton</li>
+<li>Antique (Cherry Red, Jade Dome, Irish Green, Sapphire, Orange) and Sport Grey are 90% cotton, 10% polyester</li>
+<li>Sunset, Safety Pink, Russet, Neon (Green, Blue), Midnight, Lilac, Blackberry, Tweed, Safety Green, S. Orange, Dark Heather, Graphite Heather, and Heather (Military Green, Radiant Orchid, Red, Sapphire) are 50% cotton, 50% polyester</li>
+<li>Ash Grey is 99% cotton, 1% polyester</li>
+</ul>
+<p><strong>Features:</strong><span></span></p>
+<ul class="bullet">
+<li>Seamless rib at neck</li>
+<li>Taped shoulder-to-shoulder</li>
+<li>Double-needle stitching throughout</li>
+<li>Tear-away label</li>
+<li>Safety Green is compliant with ANSI / ISEA 107 high visibility standards</li>
+<li>Quarter-turned to eliminate center crease</li>
+<li>7/8" collar</li>
+<li>Classic fit</li>
+</ul>
+<p><strong>Sizes:</strong><span> S-5XL </span></p>
+<table class="specs-tab" border="1" style="width: 533px;" height="222">
+<tbody>
+<tr class="tr-row1">
+<td class="td-col1" style="width: 179.659px;"> </td>
+<td class="td-cols" style="width: 40.5682px;">S</td>
+<td class="td-cols" style="width: 17.8409px;">M</td>
+<td class="td-cols" style="width: 31.4773px;">L</td>
+<td class="td-cols" style="width: 20.5682px;">XL</td>
+<td class="td-cols" style="width: 32.3864px;">2XL</td>
+<td class="td-cols" style="width: 40.5682px;">3XL</td>
+<td class="td-cols" style="width: 41.4773px;">4XL</td>
+<td class="td-cols" style="width: 44.2045px;">5XL</td>
+<td class="td-cols" style="width: 7.84091px;"></td>
+<td class="td-cols" style="width: 8.75px;">-</td>
+</tr>
+<tr>
+<td class="td-col1" style="width: 179.659px;">BODY LENGTH</td>
+<td class="td-cols" style="width: 40.5682px;">28</td>
+<td class="td-cols" style="width: 17.8409px;">29</td>
+<td class="td-cols" style="width: 31.4773px;">30</td>
+<td class="td-cols" style="width: 20.5682px;">31</td>
+<td class="td-cols" style="width: 32.3864px;">32</td>
+<td class="td-cols" style="width: 40.5682px;">33</td>
+<td class="td-cols" style="width: 41.4773px;">34</td>
+<td class="td-cols" style="width: 44.2045px;">35</td>
+<td class="td-cols" style="width: 7.84091px;"></td>
+<td class="td-cols" style="width: 8.75px;"></td>
+</tr>
+<tr>
+<td class="td-col1" style="width: 179.659px;">BODY WIDTH</td>
+<td class="td-cols" style="width: 40.5682px;">18</td>
+<td class="td-cols" style="width: 17.8409px;">20</td>
+<td class="td-cols" style="width: 31.4773px;">22</td>
+<td class="td-cols" style="width: 20.5682px;">24</td>
+<td class="td-cols" style="width: 32.3864px;">26</td>
+<td class="td-cols" style="width: 40.5682px;">28</td>
+<td class="td-cols" style="width: 41.4773px;">30</td>
+<td class="td-cols" style="width: 44.2045px;">32</td>
+<td class="td-cols" style="width: 7.84091px;"></td>
+<td class="td-cols" style="width: 8.75px;"></td>
+</tr>
+<tr>
+<td class="td-col1" style="width: 179.659px;">FULL BODY LENGTH</td>
+<td class="td-cols" style="width: 40.5682px;">28</td>
+<td class="td-cols" style="width: 17.8409px;">29</td>
+<td class="td-cols" style="width: 31.4773px;">30</td>
+<td class="td-cols" style="width: 20.5682px;">31</td>
+<td class="td-cols" style="width: 32.3864px;">32</td>
+<td class="td-cols" style="width: 40.5682px;">33</td>
+<td class="td-cols" style="width: 41.4773px;">34</td>
+<td class="td-cols" style="width: 44.2045px;">35</td>
+<td class="td-cols" style="width: 7.84091px;"></td>
+<td class="td-cols" style="width: 8.75px;"></td>
+</tr>
+<tr>
+<td class="td-col1" style="width: 179.659px;">SLEEVE LENGTH</td>
+<td class="td-cols" style="width: 40.5682px;">15.62</td>
+<td class="td-cols" style="width: 17.8409px;">17</td>
+<td class="td-cols" style="width: 31.4773px;">18.5</td>
+<td class="td-cols" style="width: 20.5682px;">20</td>
+<td class="td-cols" style="width: 32.3864px;">21.5</td>
+<td class="td-cols" style="width: 40.5682px;">22.87</td>
+<td class="td-cols" style="width: 41.4773px;">24.25</td>
+<td class="td-cols" style="width: 44.2045px;">25.38</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>100% preshrunk</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>gildan</s:tag>
+    <s:tag>heavy cotton</s:tag>
+    <s:tag>preshrunk</s:tag>
+    <s:tag>shirt</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6538512466000</id>
+      <title>L / White Youth</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6538512466000</id>
+      <title>XL / White Youth</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6538512466000</id>
+      <title>XL / Charcoal Youth</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6538512466000</id>
+      <title>L / Black Youth</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/3722635739216</id>
+    <published>2021-03-02T11:46:54-05:00</published>
+    <updated>2021-03-02T11:46:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/gildan-adult-heavy-cotton-8-8-oz-lin-yd-t-shirt"/>
+    <title>Gildan Adult Heavy Cotton™ 8.8 oz./lin. yd. T-Shirt</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/g500_51_z.jpg?v=1566332352"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Gildan Adult Heavy Cotton™ 8.8 oz./lin. yd. T-Shirt</strong></p>
+<p><strong>Fabric:</strong><span></span></p>
+<ul class="bullet">
+<li>100% preshrunk cotton</li>
+<li>Antique (Cherry Red, Jade Dome, Irish Green, Sapphire, Orange) and Sport Grey are 90% cotton, 10% polyester</li>
+<li>Sunset, Safety Pink, Russet, Neon (Green, Blue), Midnight, Lilac, Blackberry, Tweed, Safety Green, S. Orange, Dark Heather, Graphite Heather, and Heather (Military Green, Radiant Orchid, Red, Sapphire) are 50% cotton, 50% polyester</li>
+<li>Ash Grey is 99% cotton, 1% polyester</li>
+</ul>
+<p><strong>Features:</strong><span></span></p>
+<ul class="bullet">
+<li>Seamless rib at neck</li>
+<li>Taped shoulder-to-shoulder</li>
+<li>Double-needle stitching throughout</li>
+<li>Tear-away label</li>
+<li>Safety Green is compliant with ANSI / ISEA 107 high visibility standards</li>
+<li>Quarter-turned to eliminate center crease</li>
+<li>7/8" collar</li>
+<li>Classic fit</li>
+</ul>
+<p><strong>Sizes:</strong><span> S-5XL </span></p>
+<table class="specs-tab" border="1" style="width: 533px;" height="222">
+<tbody>
+<tr class="tr-row1">
+<td class="td-col1" style="width: 179.659px;"> </td>
+<td class="td-cols" style="width: 40.5682px;">S</td>
+<td class="td-cols" style="width: 17.8409px;">M</td>
+<td class="td-cols" style="width: 31.4773px;">L</td>
+<td class="td-cols" style="width: 20.5682px;">XL</td>
+<td class="td-cols" style="width: 32.3864px;">2XL</td>
+<td class="td-cols" style="width: 40.5682px;">3XL</td>
+<td class="td-cols" style="width: 41.4773px;">4XL</td>
+<td class="td-cols" style="width: 44.2045px;">5XL</td>
+<td class="td-cols" style="width: 7.84091px;"></td>
+<td class="td-cols" style="width: 8.75px;">-</td>
+</tr>
+<tr>
+<td class="td-col1" style="width: 179.659px;">BODY LENGTH</td>
+<td class="td-cols" style="width: 40.5682px;">28</td>
+<td class="td-cols" style="width: 17.8409px;">29</td>
+<td class="td-cols" style="width: 31.4773px;">30</td>
+<td class="td-cols" style="width: 20.5682px;">31</td>
+<td class="td-cols" style="width: 32.3864px;">32</td>
+<td class="td-cols" style="width: 40.5682px;">33</td>
+<td class="td-cols" style="width: 41.4773px;">34</td>
+<td class="td-cols" style="width: 44.2045px;">35</td>
+<td class="td-cols" style="width: 7.84091px;"></td>
+<td class="td-cols" style="width: 8.75px;"></td>
+</tr>
+<tr>
+<td class="td-col1" style="width: 179.659px;">BODY WIDTH</td>
+<td class="td-cols" style="width: 40.5682px;">18</td>
+<td class="td-cols" style="width: 17.8409px;">20</td>
+<td class="td-cols" style="width: 31.4773px;">22</td>
+<td class="td-cols" style="width: 20.5682px;">24</td>
+<td class="td-cols" style="width: 32.3864px;">26</td>
+<td class="td-cols" style="width: 40.5682px;">28</td>
+<td class="td-cols" style="width: 41.4773px;">30</td>
+<td class="td-cols" style="width: 44.2045px;">32</td>
+<td class="td-cols" style="width: 7.84091px;"></td>
+<td class="td-cols" style="width: 8.75px;"></td>
+</tr>
+<tr>
+<td class="td-col1" style="width: 179.659px;">FULL BODY LENGTH</td>
+<td class="td-cols" style="width: 40.5682px;">28</td>
+<td class="td-cols" style="width: 17.8409px;">29</td>
+<td class="td-cols" style="width: 31.4773px;">30</td>
+<td class="td-cols" style="width: 20.5682px;">31</td>
+<td class="td-cols" style="width: 32.3864px;">32</td>
+<td class="td-cols" style="width: 40.5682px;">33</td>
+<td class="td-cols" style="width: 41.4773px;">34</td>
+<td class="td-cols" style="width: 44.2045px;">35</td>
+<td class="td-cols" style="width: 7.84091px;"></td>
+<td class="td-cols" style="width: 8.75px;"></td>
+</tr>
+<tr>
+<td class="td-col1" style="width: 179.659px;">SLEEVE LENGTH</td>
+<td class="td-cols" style="width: 40.5682px;">15.62</td>
+<td class="td-cols" style="width: 17.8409px;">17</td>
+<td class="td-cols" style="width: 31.4773px;">18.5</td>
+<td class="td-cols" style="width: 20.5682px;">20</td>
+<td class="td-cols" style="width: 32.3864px;">21.5</td>
+<td class="td-cols" style="width: 40.5682px;">22.87</td>
+<td class="td-cols" style="width: 41.4773px;">24.25</td>
+<td class="td-cols" style="width: 44.2045px;">25.38</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>100% preshrunk</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>gildan</s:tag>
+    <s:tag>heavy cotton</s:tag>
+    <s:tag>preshrunk</s:tag>
+    <s:tag>shirt</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3722635739216</id>
+      <title>S / White</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>Gildan TShirts-2</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3722635739216</id>
+      <title>S / Navy</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>Gildan TShirts-4</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3722635739216</id>
+      <title>XL / Navy</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>Gildan TShirts-19</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3722635739216</id>
+      <title>XL / Charcoal</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>Gildan TShirts-19</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3722635739216</id>
+      <title>S / Charcoal</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>Gildan TShirts-19</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3722635739216</id>
+      <title>L / Red</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>Gildan TShirts-19</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3722635739216</id>
+      <title>XL / Purple</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>Gildan TShirts-19</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/1416975810640</id>
+    <published>2021-03-02T11:38:37-05:00</published>
+    <updated>2021-03-02T11:38:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/next-level-ladies-ideal-racerback-tank"/>
+    <title>Next Level Ladies&apos; Ideal Racerback Tank</title>
+    <s:type>Tank Tops</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/N1533_51_z.jpg?v=1531253752"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Tank Tops<br>
+        <strong>Price: </strong>
+            6.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Fabric:</strong><span></span>
+<ul class="bullet">
+<li>60% combed ringspun cotton/40% polyester lightweight jersey</li>
+<li>6.7 oz./lin. yd.</li>
+<li>fabric laundered for reduced shrinkage<br>
+</li>
+</ul>
+<br><strong>Features:</strong><span></span>
+<ul class="bullet">
+<li>self-fabric binding on neck and armholes</li>
+<li>tear-away label</li>
+</ul>
+<br><strong>Sizes:</strong><span> XS-2XL </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>racerback</s:tag>
+    <s:tag>tank top</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1416975810640</id>
+      <title>XS / Black</title>
+      <s:price currency="CAD">6.25</s:price>
+      <s:sku>N1533-XS-Black</s:sku>
+      <s:grams>62</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1416975810640</id>
+      <title>XS / White</title>
+      <s:price currency="CAD">6.25</s:price>
+      <s:sku>N1533-XS-White</s:sku>
+      <s:grams>62</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1416975810640</id>
+      <title>S / White</title>
+      <s:price currency="CAD">6.25</s:price>
+      <s:sku>N1533-S-White</s:sku>
+      <s:grams>62</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1416975810640</id>
+      <title>M / White</title>
+      <s:price currency="CAD">6.25</s:price>
+      <s:sku>N1533-M-White</s:sku>
+      <s:grams>62</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1416975810640</id>
+      <title>L / White</title>
+      <s:price currency="CAD">6.25</s:price>
+      <s:sku>N1533-L-White</s:sku>
+      <s:grams>62</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1416975810640</id>
+      <title>XL / White</title>
+      <s:price currency="CAD">6.25</s:price>
+      <s:sku>N1533-XL-White</s:sku>
+      <s:grams>62</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/3722690854992</id>
+    <published>2021-03-02T11:30:51-05:00</published>
+    <updated>2021-03-02T11:30:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/gildan-adult-ultra-cotton-10-oz-lin-yd-t-shirt"/>
+    <title>Gildan Adult Ultra Cotton® 10 oz./lin. yd. T-Shirt</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/g200_50_z.jpg?v=1585068553"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Gildan Adult Ultra Cotton® 10 oz./lin. yd. T-Shirt</strong></p>
+<p><strong>Fabric:<span></span></strong></p>
+<ul class="bullet">
+<li>6 oz., 100% preshrunk cotton</li>
+<li>Ash Grey is 99/1; Sport Grey is 90/10</li>
+<li>Antique colors are 90/10</li>
+<li>Heathers and Safety colors are 50/50</li>
+</ul>
+<p><strong><br>Features:<span></span></strong></p>
+<ul class="bullet">
+<li>Tear away label</li>
+<li>Double-needle sleeve and bottom hem</li>
+<li>Seamless double-needle 7/8" collar</li>
+<li>Taped neck and shoulders</li>
+<li>Safety Green is compliant with ANSI / ISEA 107 high visibility standards</li>
+</ul>
+<p><strong><br>Sizes:<span> S-5XL </span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>100% preshrunk</s:tag>
+    <s:tag>100%cotton</s:tag>
+    <s:tag>50% cotton</s:tag>
+    <s:tag>50% polyester</s:tag>
+    <s:tag>shirt</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3722690854992</id>
+      <title>XXL / White</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>GildanTShirtUltraCotton-10</s:sku>
+      <s:grams>166</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3722690854992</id>
+      <title>M / White</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>GildanTShirtUltraCotton-10</s:sku>
+      <s:grams>166</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3722690854992</id>
+      <title>XL / White</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>GildanTShirtUltraCotton-10</s:sku>
+      <s:grams>166</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3722690854992</id>
+      <title>Small / White</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>GildanTShirtUltraCotton-10</s:sku>
+      <s:grams>166</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3722690854992</id>
+      <title>Large / White</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>GildanTShirtUltraCotton-10</s:sku>
+      <s:grams>166</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/6538494738512</id>
+    <published>2021-03-02T11:21:32-05:00</published>
+    <updated>2021-03-02T11:21:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/fruit-of-the-loom-best-tshirts"/>
+    <title>Fruit of the Loom Best - TShirts</title>
+    <s:type>sweatshirt</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/fruit-of-the-loom_3931_ash.jpg?v=1614702334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>sweatshirt<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Discontinued bulk warehouse items at discounted price and limited quantities.</strong></p>
+<p>50% cotton / 50% polyester</p>
+<p>If the item shows out of stock, it is no longer available at this price.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>50% cotton</s:tag>
+    <s:tag>50% polyester</s:tag>
+    <s:tag>fruit of the loom</s:tag>
+    <s:tag>sweatshirt</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6538494738512</id>
+      <title>XXL / Ash Grey</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/3723654692944</id>
+    <published>2021-03-02T11:17:40-05:00</published>
+    <updated>2021-03-02T11:17:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/fruit-of-the-loom-ladies-8-3-oz-lin-yd-hd-cotton-v-neck-t-shirt"/>
+    <title>Fruit of the Loom Ladies&apos; 8.3 oz./lin. yd. HD Cotton™ V-Neck T-Shirt</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/l39vr_00_z.jpg?v=1566408075"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fruit of the Loom Ladies' 8.3 oz./lin. yd. HD Cotton™ V-Neck T-Shirt</strong></p>
+<p><strong></strong><strong>Features:</strong><span></span></p>
+<ul class="bullet">
+<li>100% cotton preshrunk jersey</li>
+<li>high-density fabric for exceptional print clarity</li>
+<li>1x1 rib set-in collar with mitered V-neck construction</li>
+<li>should-to-shoulder taping; sideseamed &amp; slightly contoured for a flattering fit</li>
+<li>double-needle coverstitching on sleeve and bottom hem</li>
+<li>Athletic Heather is 90% cotton, 10% polyester</li>
+<li>classic ladies' styling with feminine neckline, sleeves and fit</li>
+</ul>
+<p><strong>Sizes:</strong><span> S-2XL</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>100% preshrunk</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>fruit of the loom</s:tag>
+    <s:tag>heavy cotton</s:tag>
+    <s:tag>preshrunk</s:tag>
+    <s:tag>shirt</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3723654692944</id>
+      <title>S / Athletic Heather</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>ALPHAL39VR</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/6538491854928</id>
+    <published>2021-03-02T11:01:45-05:00</published>
+    <updated>2021-03-02T11:01:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/king-fashion-youth-heavy-blend-hoodies"/>
+    <title>King Fashion Youth Heavy Blend Hoodies</title>
+    <s:type>Hoodies</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/156135442_278518353657820_8227071497140921237_n.jpg?v=1614701302"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Hoodies<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Older Model - 95% cotton</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gildan</s:tag>
+    <s:tag>hood</s:tag>
+    <s:tag>hoodies</s:tag>
+    <s:tag>Polyester</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6538491854928</id>
+      <title>YM / Sports Grey</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>368</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/1477943197776</id>
+    <published>2021-03-02T10:45:16-05:00</published>
+    <updated>2021-03-02T10:45:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/fruit-of-the-loom-best-sweatshirt"/>
+    <title>Fruit of the Loom Best - Sweatshirt</title>
+    <s:type>sweatshirt</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Fruit_of_the_Loom_Ash_Gray.jpg?v=1614700049"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>sweatshirt<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Discontinued bulk warehouse items at discounted price and limited quantities.</strong></p>
+<p>50% cotton / 50% polyester</p>
+<p>If the item shows out of stock, it is no longer available at this price.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>50% cotton</s:tag>
+    <s:tag>50% polyester</s:tag>
+    <s:tag>fruit of the loom</s:tag>
+    <s:tag>sweatshirt</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1477943197776</id>
+      <title>Small / Dark Red</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>FOTL-LGREY-S</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1477943197776</id>
+      <title>Small / Dark Green</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>FOTL-LGREY-S</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1477943197776</id>
+      <title>Small / Teal</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>FOTL-LGREY-S</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/1386675798096</id>
+    <published>2021-03-02T10:05:18-05:00</published>
+    <updated>2021-03-02T10:05:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/black-t-shirt-fruit-of-the-loom"/>
+    <title>Fruit of the Loom Adult Heavy Cotton T-Shirt</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/3931_51_z.jpg?v=1614715548"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><span color="#333333" face="Arial, Helvetica, sans-serif" style="color: #333333; font-family: Arial, Helvetica, sans-serif;"><strong>Discontinued bulk warehouse items at discounted price and limited quantities.</strong></span></div>
+<div><span color="#333333" face="Arial, Helvetica, sans-serif" style="color: #333333; font-family: Arial, Helvetica, sans-serif;"><strong></strong></span></div>
+<div><span color="#333333" face="Arial, Helvetica, sans-serif" style="color: #333333; font-family: Arial, Helvetica, sans-serif;"><strong></strong></span></div>
+<ul class="bullet" style="background-color: transparent; color: #333333; font-family: Arial,Helvetica,sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; list-style-image: none; list-style-position: outside; list-style-type: square; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; padding: 0px; margin: 0px 0px 0px 15px;">
+<li style="font-size: 12px; list-style-image: none; list-style-position: outside; list-style-type: square; padding: 0px; margin: 0px;">100% cotton preshrunk jersey</li>
+</ul>
+<ul class="bullet" style="background-color: transparent; color: #333333; font-family: Arial,Helvetica,sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; list-style-image: none; list-style-position: outside; list-style-type: square; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; padding: 0px; margin: 0px 0px 0px 15px;">
+<li style="font-size: 12px; list-style-image: none; list-style-position: outside; list-style-type: square; padding: 0px; margin: 0px;">shoulder-to-shoulder tape; double-needle coverstitched front neck</li>
+<li style="font-size: 12px; list-style-image: none; list-style-position: outside; list-style-type: square; padding: 0px; margin: 0px;">double-needle stitched sleeves and bottom hem</li>
+<li style="font-size: 12px; list-style-image: none; list-style-position: outside; list-style-type: square; padding: 0px; margin: 0px;">high-density fabric for exceptional printing clarity</li>
+<li style="font-size: 12px; list-style-image: none; list-style-position: outside; list-style-type: square; padding: 0px; margin: 0px;">seamless 1x1 ribbed collar</li>
+</ul>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>100%cotton</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>double-needle</s:tag>
+    <s:tag>high-density</s:tag>
+    <s:tag>jersey</s:tag>
+    <s:tag>preshrunk</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1386675798096</id>
+      <title>XXL / Navy Blue</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku>FRUITOFTHELOOM-BLACK-2</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1386675798096</id>
+      <title>XL / Light Blue</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku>FRUITOFTHELOOM-LIGHT BLUE-3</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1386675798096</id>
+      <title>Large / Light Grey</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku>FRUITOFTHELOOM-BLACK-1</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1386675798096</id>
+      <title>XX Large / White</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku>FRUITOFTHELOOM-BLACK-1</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1386675798096</id>
+      <title>XX Large / Athletic Grey</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku>FRUITOFTHELOOM-BLACK-1</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1386675798096</id>
+      <title>L / Light Blue</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku>FRUITOFTHELOOM-LIGHT BLUE-3</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1386675798096</id>
+      <title>XXXLarge / Light Grey</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku>FRUITOFTHELOOM-BLACK-1</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1386675798096</id>
+      <title>XXL / Indigo Blue</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku>FRUITOFTHELOOM-WHITE-3</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1386675798096</id>
+      <title>XXX Large / White</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku>FRUITOFTHELOOM-BLACK-1</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1386675798096</id>
+      <title>M / Burgundy</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku>FRUITOFTHELOOM-BLACK-2</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1386675798096</id>
+      <title>XXLarge / Bright Red</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku>FRUITOFTHELOOM-BLACK-1</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/1463844339792</id>
+    <published>2018-07-10T14:08:01-04:00</published>
+    <updated>2018-07-10T14:08:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/bella-canvas-ladies-baby-rib-tank"/>
+    <title>Bella + Canvas Ladies&apos; Baby Rib Tank</title>
+    <s:type>Tank Tops</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Bella_1080_front.jpg?v=1535126384"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Tank Tops<br>
+        <strong>Price: </strong>
+            10.25 - 13.47
+            <a href="https://scriptdesigns.myshopify.com/products/bella-canvas-ladies-baby-rib-tank">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Features:</strong>
+<ul class="bullet">
+<li>9.67 oz./lin. yd., 100% combed and ringspun cotton</li>
+<li>32 singles</li>
+<li>slim fit</li>
+<li>1x1 rib</li>
+<li>wide straps</li>
+<li>sideseamed</li>
+</ul>
+<p><strong>Sizes:</strong> S-2XL </p>
+<p><strong>Product Specifications</strong></p>
+<table class="specs-tab" width="561" border="1" height="114">
+<tbody>
+<tr class="tr-row1">
+<td class="td-col1" style="width: 206px;"> </td>
+<td class="td-cols" style="width: 53px;">S</td>
+<td class="td-cols" style="width: 54px;">M</td>
+<td class="td-cols" style="width: 54px;">L</td>
+<td class="td-cols" style="width: 27px;">XL</td>
+<td class="td-cols" style="width: 54px;">2XL</td>
+<td class="td-cols" style="width: 8px;">-</td>
+<td class="td-cols" style="width: 8px;">-</td>
+<td class="td-cols" style="width: 9px;">-</td>
+<td class="td-cols" style="width: 9px;">-</td>
+<td class="td-cols" style="width: 9px;">-</td>
+</tr>
+<tr>
+<td class="td-col1" style="width: 206px;">BODY LENGTH</td>
+<td class="td-cols" style="width: 53px;">26.25</td>
+<td class="td-cols" style="width: 54px;">26.75</td>
+<td class="td-cols" style="width: 54px;">27.38</td>
+<td class="td-cols" style="width: 27px;">28</td>
+<td class="td-cols" style="width: 54px;">28.63</td>
+<td class="td-cols" style="width: 8px;">-</td>
+<td class="td-cols" style="width: 8px;">-</td>
+<td class="td-cols" style="width: 9px;">-</td>
+<td class="td-cols" style="width: 9px;">-</td>
+<td class="td-cols" style="width: 9px;">-</td>
+</tr>
+<tr>
+<td class="td-col1" style="width: 206px;">BODY WIDTH</td>
+<td class="td-cols" style="width: 53px;">12.25</td>
+<td class="td-cols" style="width: 54px;">13</td>
+<td class="td-cols" style="width: 54px;">14</td>
+<td class="td-cols" style="width: 27px;">15</td>
+<td class="td-cols" style="width: 54px;">16</td>
+<td class="td-cols" style="width: 8px;">-</td>
+<td class="td-cols" style="width: 8px;">-</td>
+<td class="td-cols" style="width: 9px;">-</td>
+<td class="td-cols" style="width: 9px;">-</td>
+<td class="td-cols" style="width: 9px;">-</td>
+</tr>
+<tr>
+<td class="td-col1" style="width: 206px;">FULL BODY LENGTH</td>
+<td class="td-cols" style="width: 53px;">26.25</td>
+<td class="td-cols" style="width: 54px;">26.75</td>
+<td class="td-cols" style="width: 54px;">27.38</td>
+<td class="td-cols" style="width: 27px;">28</td>
+<td class="td-cols" style="width: 54px;">28.63</td>
+<td class="td-cols" style="width: 8px;">-</td>
+<td class="td-cols" style="width: 8px;">-</td>
+<td class="td-cols" style="width: 9px;">-</td>
+<td class="td-cols" style="width: 9px;">-</td>
+<td class="td-cols" style="width: 9px;">-</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><strong>Available Colours:</strong> </p>
+<div class="colorrow" id="colorset1">
+<div class="colordisp">
+<div class="colorname"></div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bella</s:tag>
+    <s:tag>Bella + Canvas Ladies&apos; Baby Rib Tank</s:tag>
+    <s:tag>tank top</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1463844339792</id>
+      <title>L / White / 1080</title>
+      <s:price currency="CAD">10.25</s:price>
+      <s:sku>N1533-L-White</s:sku>
+      <s:grams>62</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1463844339792</id>
+      <title>XL / White / 1080</title>
+      <s:price currency="CAD">10.25</s:price>
+      <s:sku>N1533-XL-White</s:sku>
+      <s:grams>62</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1463844339792</id>
+      <title>2XL / White / 1080</title>
+      <s:price currency="CAD">13.47</s:price>
+      <s:sku>N1533-2XL-White</s:sku>
+      <s:grams>62</s:grams>
+    </s:variant>
+  </entry>
+</feed>

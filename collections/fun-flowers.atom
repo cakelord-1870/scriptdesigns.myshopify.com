@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://scriptdesigns.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://scriptdesigns.myshopify.com/collections/fun-flowers.atom"/>
+  <title>ScriptDesigns</title>
+  <updated>2017-06-04T11:09:07-04:00</updated>
+  <author>
+    <name>ScriptDesigns</name>
+  </author>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/10657719174</id>
+    <published>2017-06-04T11:09:07-04:00</published>
+    <updated>2017-06-04T11:09:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/fun-flowers-ready-to-press-htv-decals-decals-collection-6-designs"/>
+    <title>Fun Flowers - Ready to Press HTV Decals Decals Collection (6 designs)</title>
+    <s:type>HTV Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/FunFlowers-cover-page_617e0ab4-1ace-4ccd-9795-f35fd4e97696.gif?v=1498439342"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>HTV Ready Made Decals<br>
+        <strong>Price: </strong>
+            3.00 - 8.00
+            <a href="https://scriptdesigns.myshopify.com/products/fun-flowers-ready-to-press-htv-decals-decals-collection-6-designs">(24 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Let your imagination flow!  These ready to press HTV decals will transform plain garments into unique and fashionable wardrobe elements.  Why not create beautiful home decoration pieces with them. </p>
+<p>Custom sizes available upon request.</p>
+<p>These decals are printed professionally in-house on Siser ColourPrint Easy, a vinyl with a beautiful semi-gloss finish that makes the colours stand out.  ColorPrint Easy is CPSIA Certified so you can have peace of mind when decorating kids garments!</p>
+<p>Measurements are approximates.</p>
+<p><strong><span style="text-decoration: underline;">APPLICATION INSTRUCTIONS</span></strong></p>
+<div>Applies To:</div>
+<ul>
+<li>100% cotton</li>
+<li>Poly/cotton blends </li>
+<li>100% polyester</li>
+<li>Leather</li>
+<li>Lycra®/spandex</li>
+</ul>
+<ul></ul>
+<div>Your decals are ready to press when you receive them. </div>
+<div></div>
+<div>
+<div>Preheat the item you are applying the decal to for 2-3 Seconds </div>
+<ul>
+<li>Apply design at 300°F/149°C with medium pressure for 15 seconds </li>
+<li>Peel warm</li>
+</ul>
+</div>
+<div><span style="text-decoration: underline;"><strong>CARE INSTRUCTIONS</strong></span></div>
+<ul>
+<li>Do not dry clean</li>
+<li>Turn garment inside out</li>
+<li>Machine wash WARM / mild detergent </li>
+<li>Dry on normal setting </li>
+<li>No chlorine bleach</li>
+<li>Wait 24 hours before first wash</li>
+</ul>
+<ul></ul>
+<div></div>
+<div></div>
+<div><span style="text-decoration: underline;"><strong></strong></span></div>
+<div><span style="text-decoration: underline;"><strong></strong></span></div>
+<div></div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clothing</s:tag>
+    <s:tag>cover</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>iron-on</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>pillow</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>siser</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/10657719174</id>
+      <title>2.75&quot;W x 4&quot;H / Flower1</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>PHTVDecals-FunFlower-4in-1</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/10657719174</id>
+      <title>2.75&quot;W x 4&quot;H / Flower2</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>PHTVDecals-FunFlower-4in-2</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/10657719174</id>
+      <title>2.75&quot;W x 4&quot;H / Flower3</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>PHTVDecals-FunFlower-4in-3</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/10657719174</id>
+      <title>2.75&quot;W x 4&quot;H / Flower4</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>PHTVDecals-FunFlower-4in-4</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/10657719174</id>
+      <title>2.75&quot;W x 4&quot;H / Flower5</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>PHTVDecals-FunFlower-4in-5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/10657719174</id>
+      <title>2.75&quot;W x 4&quot;H / Flower6</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>PHTVDecals-FunFlower-4in-6</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/10657719174</id>
+      <title>3.5&quot;W x 5&quot;H / Flower1</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku>PHTvDecals-FunFlower-5in-1</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/10657719174</id>
+      <title>3.5&quot;W x 5&quot;H / Flower2</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku>PHTvDecals-FunFlower-5in-2</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/10657719174</id>
+      <title>3.5&quot;W x 5&quot;H / Flower3</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku>PHTvDecals-FunFlower-5in-3</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/10657719174</id>
+      <title>3.5&quot;W x 5&quot;H / Flower4</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku>PHTvDecals-FunFlower-5in-4</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/10657719174</id>
+      <title>3.5&quot;W x 5&quot;H / Flower5</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku>PHTvDecals-FunFlower-5in-5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/10657719174</id>
+      <title>3.5&quot;W x 5&quot;H / Flower6</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku>PHTvDecals-FunFlower-5in-6</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/10657719174</id>
+      <title>5.2&quot;W x 7.5H / Flower1</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku>PHTVDecals-FunFlower-7.5in-1</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/10657719174</id>
+      <title>5.2&quot;W x 7.5H / Flower2</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku>PHTVDecals-FunFlower-7.5in-2</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/10657719174</id>
+      <title>5.2&quot;W x 7.5H / Flower3</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku>PHTVDecals-FunFlower-7.5in-3</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/10657719174</id>
+      <title>5.2&quot;W x 7.5H / Flower4</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku>PHTVDecals-FunFlower-7.5in-4</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/10657719174</id>
+      <title>5.2&quot;W x 7.5H / Flower5</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku>PHTVDecals-FunFlower-7.5in-5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/10657719174</id>
+      <title>5.2&quot;W x 7.5H / Flower6</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku>PHTVDecals-FunFlower-7.5in-6</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/10657719174</id>
+      <title>8.25&quot;W x 12&quot;H / Flower1</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>PHTVDecals-FunFlower-12in-1</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/10657719174</id>
+      <title>8.25&quot;W x 12&quot;H / Flower2</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>PHTVDecals-FunFlower-12in-2</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/10657719174</id>
+      <title>8.25&quot;W x 12&quot;H / Flower3</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>PHTVDecals-FunFlower-12in-3</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/10657719174</id>
+      <title>8.25&quot;W x 12&quot;H / Flower4</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>PHTVDecals-FunFlower-12in-4</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/10657719174</id>
+      <title>8.25&quot;W x 12&quot;H / Flower5</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>PHTVDecals-FunFlower-12in-5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/10657719174</id>
+      <title>8.25&quot;W x 12&quot;H / Flower6</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>PHTVDecals-FunFlower-12in-6</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

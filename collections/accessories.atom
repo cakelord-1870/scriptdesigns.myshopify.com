@@ -1,0 +1,1124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://scriptdesigns.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://scriptdesigns.myshopify.com/collections/accessories.atom"/>
+  <title>ScriptDesigns</title>
+  <updated>2021-01-11T14:38:51-05:00</updated>
+  <author>
+    <name>ScriptDesigns</name>
+  </author>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/7321841478</id>
+    <published>2021-01-11T14:38:51-05:00</published>
+    <updated>2021-01-11T14:38:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/styletech-tool-pack"/>
+    <title>Styletech Tool Pack</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Tape Technologies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Tool-Kit.jpg?v=1560893625"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tape Technologies<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            25.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>kit</s:tag>
+    <s:tag>knife</s:tag>
+    <s:tag>scissors</s:tag>
+    <s:tag>Scraper</s:tag>
+    <s:tag>Spatula</s:tag>
+    <s:tag>Squeegee</s:tag>
+    <s:tag>Styletech</s:tag>
+    <s:tag>Tool</s:tag>
+    <s:tag>Tweezer</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/7321841478</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.50</s:price>
+      <s:sku>StyletechToolKit</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/151833149446</id>
+    <published>2018-02-16T14:46:12-05:00</published>
+    <updated>2018-02-16T14:46:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/weeders-one-unit-random-selection"/>
+    <title>Weeders (One unit - Random selection)</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Weeders.jpg?v=1518810621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            2.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These weeders are heavy enough to get a good feel and their sharp ends make it easy to get even the tinier pieces out.  </p>
+<p>This listing is for one weeder.  It will be randomly selected from the various available models.  They all work equally well.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cleaning</s:tag>
+    <s:tag>hook</s:tag>
+    <s:tag>tool</s:tag>
+    <s:tag>weeder</s:tag>
+    <s:tag>Weeding</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/151833149446</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.55</s:price>
+      <s:sku>Weeder</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/11855301062</id>
+    <published>2017-09-11T15:40:05-04:00</published>
+    <updated>2017-09-11T15:40:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/pressing-pillows"/>
+    <title>Pressing Pillows</title>
+    <s:type>Pressing Pillows</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/pressing-pillows.jpg?v=1505158562"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Pressing Pillows<br>
+        <strong>Price: </strong>
+            51.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>QUANTITIES ARE LIMITED - First come, first served</p>
+<p>You receive a bundle of 5 pillows in the following sizes:</p>
+<p>- 21 x 5 1/2 inches</p>
+<p>- 10 1/2 x 4 1/4 inches</p>
+<p>- 19 1/2 by 12 1/2 inches</p>
+<p>- 6 by 6 inches</p>
+<p>- 10 by 10 inches</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cushion</s:tag>
+    <s:tag>ironing</s:tag>
+    <s:tag>matte</s:tag>
+    <s:tag>padding</s:tag>
+    <s:tag>pillow</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>Pressing</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/11855301062</id>
+      <title>Bundle of 5</title>
+      <s:price currency="CAD">51.00</s:price>
+      <s:sku>PresPillowBundle5</s:sku>
+      <s:grams>435</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/11652400646</id>
+    <published>2017-08-24T13:14:18-04:00</published>
+    <updated>2017-08-24T13:14:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/pressing-paper"/>
+    <title>Heat Transfer Pressing Paper / Multipurpose</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/YSI108.jpg?v=1503596721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            3.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This heat transfer paper works beautifully with your heat press.  You don't have a teflon sheet, no need to buy one, this paper will do the job.  Use the glossy side on the garment when pressing.  You can reuse the sheet over and over.</p>
+<p>Sheets measure 16"x20 and will be folded in half for shipping purposes.  All you need to do is put it in your press to remove the crease!</p>
+<style type="text/css"><!--
+/* BREADCRUMBS */	
+	div#breadcrumbs {clear:both; width: 100%;margin: 0px 0 -20px 10px;font-size:11px; display:block;}
+	div#breadcrumbs a {color: #5c749c;text-decoration:none;}
+/* PRODUCT CATEGORIES */
+	div#productCat {width:100%; margin:0px auto;background: transparent url(styles/images/productcat_bg.jpg) no-repeat 0px 10px;}
+	div#productCat div.column1, div#productCat div.column2, div#productCat div.column3 
+					{width: 30%; display:inline-block; vertical-align:top;}
+	ul.vertical {list-style:none; padding:0px;margin:0px;}
+	ul.vertical li {padding: 2px 0px; display:block;}
+	ul.vertical li a {color:#666; text-decoration:none;font-size:14px;}
+	div#productCat ul.vertical, div#productCat h2 {margin-left: 50px;}
+	div#productCat a:hover {color: #9d161a; font-weight:bold;text-decoration:underline;}
+	
+	div#productCatFeat {width:100%; text-align:center;margin-top:15px}
+	div#productCatFeat a img {margin: 10px; border:none;}
+div#welcomeMsg {
+position:absolute;
+top: -30px;
+right: 75px;
+}
+div#Z_SWILANG {
+position:absolute;
+top: -50px;
+right: 0px;
+}
+.AdmDesManDtlTbl  {
+padding: 3px;
+}
+.AdmDesManDtlTbl tr td {
+padding: 5px;
+border: 1px solid #ddd;
+}
+.AdmDesManDtlTblColSpa {
+display:none;
+}
+--></style><style type="text/css"><!--
+/*
+Theme Name: ND Graphics
+Theme URI: 
+Description: 
+Author: Web Developed Inc.
+Author URI: 
+Tags: responsive
+*/
+/* Global */
+* { margin: 0; padding: 0; }
+body { font-family: 'Open Sans', sans-serif; font-size: 13px; color: #333; margin: 0; background: #f4f4f4; }
+header, nav, section, article, aside, figure, footer { display: block; }
+.stuck { position: fixed; top: 0; left: 0; right: 0; }
+h1, h2, h3, h4, h5 { font-weight: normal; }
+h1 {
+    color: #9d161a;
+    font-size: 20px;
+    line-height: 1.3;
+    margin: 10px 0 15px 0;
+}
+h2 {
+    color: #6c6c6c;
+    font-size: 26px;
+    line-height: 1;
+    margin: 10px 0;
+    font-weight: 300;	
+}
+p { line-height: 1.8; padding: 10px 0; margin: 0; }
+img { border: none; display: block; max-width: 100%; }
+img.alignright {float:right; margin:0 0 1em 1em}
+img.alignleft {float:left; margin:0 1em 1em 0}
+img.aligncenter {display: block; margin-left: auto; margin-right: auto}
+.alignright {float:right; }
+.alignleft {float:left; }
+.aligncenter {display: block; margin-left: auto; margin-right: auto}
+.clearfix:after {
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+}
+ 
+.clearfix {
+	display: block;
+}
+ 
+html[xmlns] .clearfix {
+	display: block;
+}
+ 
+* html .clearfix {
+	height: 1%;
+}
+/* Header */
+header { margin: 0 auto; padding: 0; width: 100%; height: auto; background: #333; z-index: 999; font-size: 13px; }
+.top-header { margin: 0 auto; padding: 7px; max-width: 1280px; height: auto; }
+.social_list { float: left; list-style-type: none; }
+.social_list li { color: #ccc; display: inline-block; padding: 0 3px; }
+.social_list li a { color: #ccc; 
+-webkit-transition: all 0.3s ease-in-out;
+-moz-transition: all 0.3s ease-in-out;
+-o-transition: all 0.3s ease-in-out;
+transition: all 0.3s ease-in-out;
+}
+.social_list li a:hover { color: #ffb400; }
+.phone-chat { float: right; color: #ccc; text-align: center; }
+.phone-chat a { color: #ccc; text-decoration: none;
+-webkit-transition: all 0.3s ease-in-out;
+-moz-transition: all 0.3s ease-in-out;
+-o-transition: all 0.3s ease-in-out;
+transition: all 0.3s ease-in-out;
+}
+.phone-chat a:hover { color: #ffb400; }
+.sign-register { color: #ccc; margin: 0 auto; text-align: center; }
+.sign-register a { color: #ccc; text-decoration: underline;
+-webkit-transition: all 0.3s ease-in-out;
+-moz-transition: all 0.3s ease-in-out;
+-o-transition: all 0.3s ease-in-out;
+transition: all 0.3s ease-in-out;
+}
+.sign-register a:hover { color: #ffb400; }
+#login { cursor: pointer; text-decoration: underline; 
+-webkit-transition: all 0.3s ease-in-out;
+-moz-transition: all 0.3s ease-in-out;
+-o-transition: all 0.3s ease-in-out;
+transition: all 0.3s ease-in-out;
+}
+#login.active, #login:hover { color: #ffb400; }
+.header { margin: 0 auto; padding: 0; width: 100%; height: auto; background: #9d161a; border-bottom: 1px solid #660000; }
+.header-content { margin: 0 auto; padding: 14px 7px; max-width: 1280px; height: auto; text-align: center; }
+.header-content .right-box { float: right; margin: -4px 0 0 0; }
+.logo { width: 200px; height: 24px; margin: 0; padding: 0; float: left; }
+#menu-icon { float: right; display: none; cursor: pointer; color: #fff;  margin: -4px 20px 0 0; vertical-align: middle;  }
+#menu-icon .menu_title { font-size: 13px; padding-right: 10px; }
+#menu-icon .fa { vertical-align: middle; font-size: 28px; line-height: 28px; }
+nav { margin: 0; padding: 0; max-width: 960px; height: auto; }
+nav ul { list-style-type: none; margin: 0; padding: 0; height: auto; text-transform: uppercase; text-align: center; }
+nav ul li { font-size: 12px; line-height: 12px; margin: 0 0 0 -2px; color: #fff; display: inline-block; border-right: 1px solid #ac4346; }
+nav ul li a { padding: 5px 10px; color: #fff;  display: inline-block; text-decoration: none; 
+-webkit-transition: all 0.3s ease-in-out;
+-moz-transition: all 0.3s ease-in-out;
+-o-transition: all 0.3s ease-in-out;
+transition: all 0.3s ease-in-out;
+}
+nav ul li a:hover { color: #ffb400; }
+.last { border-right: none !important;
+ }
+nav ul li.current-menu-item a, nav ul li.current_page_item a, nav ul li.current-menu-parent a, nav ul li.current-post-ancestor a { color: #ffb400; }
+.shop-link { display: inline-block; color: #fff; font-style: italic; font-weight: 700; font-size: 14px; vertical-align: middle; padding: 5px 10px; background: #9d161a; }
+.shop-link i { padding-left: 5px; }
+.shop-link a { color: #fff; text-decoration: none;
+-webkit-transition: all 0.3s ease-in-out;
+-moz-transition: all 0.3s ease-in-out;
+-o-transition: all 0.3s ease-in-out;
+transition: all 0.3s ease-in-out;
+}
+.shop-link a:hover { color: #ffb400; }
+.close { background: url(images/close.png) 0 0; background-size: 100% auto; width: 21px; height: 21px; float: right; cursor: pointer; margin: 10px; }
+.close:hover { background: url(images/close.png) 0 -21px; background-size: 100% auto; }
+/* ------------------------------------------------ Cart Login -------------------------------------------------- */
+.cart-login { margin: 0 auto; padding: 0; width: 100%; height: auto; background: #fff; border-bottom: 1px solid #e0cccc; display: block; }
+.cart-login-box { margin: 0 auto; padding: 10px; max-width: 1280px; height: auto; text-align: center; }
+.cart-login form { display: inline-block; margin: 0 10px; }
+.cart-login p { display: inline-block; vertical-align: middle; }
+.cart-login .account { display: inline-block;  text-align: left; font-size: 12px; vertical-align: middle; }
+.cart-login .account a { color: #6c6c6c; }
+.cart-login .account a:hover { color: #9d161a; }
+.cart-login .button {
+display: inline-block;
+outline: none;
+border: 1px solid #339900;
+padding: 5px 20px;
+margin: 5px;
+width: auto;
+height: auto;
+text-align: center;
+color: #fff;
+cursor: pointer;
+background-color: #339900;
+  -webkit-border-radius: 3px; 
+  -moz-border-radius: 3px; 
+  border-radius: 3px; 
+	-moz-transition: all 0.4s ease; /* FF3.7+ */
+	-o-transition: all 0.4s ease; /* Opera 10.5 */
+	-webkit-transition: all 0.4s ease; /* Saf3.2+, Chrome */
+	transition: all 0.4s ease;
+}
+.cart-login .button:hover { color: #9d161a; background: #ffb400; border: 1px solid #9d161a; }
+/* ------------------------------------------------ Cart Settings -------------------------------------------------- */
+.cart-settings { margin: 0 auto; padding: 0; width: 100%; height: auto; background: #fff; border-bottom: 1px solid #e0cccc; }
+.cart-settings ul { display: inline-block; margin: 0; }
+.cart-settings ul.cart-options { margin: 0 6% 0 15%; }
+.cart-settings-box { margin: 0 auto; padding: 10px; max-width: 1280px; height: auto; position: relative; }
+.cart-options li { margin: 0; padding: 10px; display: inline-block; font-size: 13px; font-weight: 700; text-transform: uppercase; }
+.cart-options li .fa { margin: 0 10px 0 0; }
+.cart-options li a { color: #333; text-decoration: none;}
+.cart-options li a:hover { color: #9d161a; }
+.CartNum { text-decoration: underline;}
+.cart-info li { margin: 0; padding: 10px; display: inline-block; font-size: 14px; color: #333; }
+.cart-info li a { color: #333; text-decoration: none;}
+.cart-info li a:hover { color: #9d161a; }
+.cart-settings .button { 
+	width: auto; 
+	margin: 5px; 
+	display: block; 
+	padding: 5px 20px; 
+	border: 1px solid #9d161a; 
+	text-align: center; 
+	background: #fff; 
+	cursor: pointer; 
+	position: absolute; 
+	top: 7px; 
+	left: 7px;
+  -webkit-border-radius: 3px; 
+  -moz-border-radius: 3px; 
+  border-radius: 3px; 
+ -webkit-transition: all 0.2s ease-in-out;
+-moz-transition: all 0.2s ease-in-out;
+-o-transition: all 0.2s ease-in-out;
+transition: all 0.2s ease-in-out;
+}
+.cart-settings .button:hover { border: 1px solid #9d161a; background: #ffb400; color: #00bbff; }
+.button .fa { padding-right: 6px; }
+.cart-settings .button a {
+	text-decoration: none;
+	font-size: 13px; 
+	font-weight: 700;
+	color: #9d161a;
+}
+/* -------------------------------------------------- Search -------------------------------------------------- */
+.st-search-container {
+	width: 95%;
+	margin:auto;
+}
+.search-head {
+	font-size: 25px;
+	margin-left: 30px;
+}
+.search { width: 185px; height: auto; margin: 0 10px;
+ display: inline-block; position: relative; vertical-align: top; }
+.search label { display: none; }
+.search input { font-size: 16px; color: #ccc; width: 100px; height: 30px !important; margin: 0; padding: 0 30px 0 20px; text-align: center; text-decoration: none; border:none !important; background: #fff !important; zoom: 1;
+	-moz-transition: all 0.4s ease; /* FF3.7+ */
+	-o-transition: all 0.4s ease; /* Opera 10.5 */
+	-webkit-transition: all 0.4s ease; /* Saf3.2+, Chrome */
+	transition: all 0.4s ease;
+  -webkit-border-radius: 3px; 
+  -moz-border-radius: 3px; 
+  border-radius: 3px; 
+}
+.search input:focus { background: #fff !important; border: none !important; outline: none !important; color: #000; }
+.search input::-webkit-input-placeholder { /* WebKit browsers */
+    color:    #ccc;
+}
+.search input:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+   color:    #ccc;
+   opacity:  1;
+}
+.search input::-moz-placeholder { /* Mozilla Firefox 19+ */
+   color:    #ccc;
+   opacity:  1;
+}
+.search input:-ms-input-placeholder { /* Internet Explorer 10+ */
+   color:    #ccc;
+}
+.search input[type="submit"] {
+	width:30px !important;
+	height:30px;
+	margin:0;
+	padding:0;
+	zoom: 1;
+	filter: alpha(opacity=100);
+	opacity: 1
+	border: none;
+	position: absolute;
+	right: 0;
+	top: 0;
+background: none;
+}
+.search button {
+	float: right;
+    width: 30px;
+    height: 30px;
+    margin-left: 5px;
+    padding: 0px !important;
+    -webkit-border-radius: 3px; 
+    -moz-border-radius: 3px; 
+    border-radius: 3px; 
+    border: 0px;
+    background-color: #999;
+}
+.search button:hover {
+	background-color: #651214;
+}
+.search .fa {
+	margin:0;
+	padding:0;
+	border: none;
+    color: #fff;
+    font-size: 1em;
+}
+.search input[type="submit"]:hover { color: #9d161a; border:none; background: none; }
+.search:hover .search input {
+	width: 100px;
+	padding: 0 20px;	
+}
+/* Main Content */
+main { max-width: 1020px; margin: 0 auto; padding: 5px; display: block; }
+.breadcrumbs{
+	width: 100%;
+	margin: 10px 5px 5px 10px;
+	display: block; 
+}
+.breadcrumbs a{
+	text-decoration: none;
+	color: #5c749c;
+	font-size:12px;
+}
+.alert-msg p{
+	color: #9d161a;
+	margin: 5px 0px 5px 10px;
+	padding: 0;
+}
+/**********Category Banner Ad*************/
+.banner { position: relative; max-width: 100%; margin: 0.5%; height: auto; min-height: 150px; }
+.banner .text-box { position: absolute; left: 5%; top: 30%; max-width: 45%; }
+.banner .text-box h1 { font-weight: normal; font-size: 28px; color: #333; margin: 10px; }
+.banner .text-box h2 { font-weight: normal; font-size: 20px; color: #9d161a; margin: 0 10px; }
+.banner .mobile { display: none; }
+/****************
+Contact form styles
+****************/
+input,textarea { padding: 7px; margin: 5px; font-weight:normal; font-size: 12px; text-align: center; font-family: Arial,Helvetica,sans-serif; border: 1px solid #ebebeb; background: #fff;color:#777; -moz-box-sizing: border-box;-webkit-box-sizing: border-box;box-sizing: border-box; 
+  -webkit-border-radius: 3px; 
+  -moz-border-radius: 3px; 
+  border-radius: 3px; 
+}
+input:focus,textarea:focus{outline:none; background: #fff; border: 1px solid #9d161a; color: #6c6c6c;
+	-moz-transition: all 0.4s ease; /* FF3.7+ */
+	-o-transition: all 0.4s ease; /* Opera 10.5 */
+	-webkit-transition: all 0.4s ease; /* Saf3.2+, Chrome */
+	transition: all 0.4s ease;
+}
+label{display:inline-block;margin: 0;}
+button {padding: 2px 10px;cursor: pointer;}
+select {border: 1px solid #ccc;}
+input[type="submit"] {
+display: block;
+padding: 0 10px;
+margin: 10px 0;
+width: auto;
+height: 30px;
+line-height: 30px;
+text-align: center;
+color: #fff;
+cursor: pointer;
+background-color: #339900;
+	-moz-transition: all 0.4s ease; /* FF3.7+ */
+	-o-transition: all 0.4s ease; /* Opera 10.5 */
+	-webkit-transition: all 0.4s ease; /* Saf3.2+, Chrome */
+	transition: all 0.4s ease;
+}
+input[type="submit"]:hover { 
+color: #fff;
+background: #ffb400;
+}
+/* Footer */
+footer { padding: 0; margin: 0; height:auto; width: 100%; }
+.footer { position: relative; padding: 20px 10px; margin: 0 auto; height:auto; max-width: 990px; background: #333;
+ text-align: center; color: #fff; font-size: 12px; }
+.footer-nav.locations { font-weight: 700; text-transform: uppercase; border-bottom: 1px solid #ebebeb; border-top: 1px solid #ebebeb; }
+.footer-nav { margin: 0 auto; padding: 15px 0; max-width: 800px; }
+.footer-nav li { display: inline-block; list-style-type: none; margin: 0; padding: 5px; }
+.footer a { color: #fff; text-decoration: none; }
+.footer a:hover { color: #ffb400; }
+.foot-amlogo {position:absolute; top:15px; right: 110px; display: inline-block;}
+.foot-trade-am{color: #ccc; font-size: 9px; width: 25%; position: absolute; bottom: 5px; text-align: left; padding: 0px; left: 20px;}
+.secured { margin: 10px 0 0 0; position: absolute; top: 20px; right: 30px; display: inline-block; }
+.copyright { font-size: 11px; padding: 15px 0 0 0; text-align:center;}
+.subscribe-form { max-width: 500px; height: auto; margin: 10px 0 0 0; display: inline-block; position: relative; vertical-align: middle; }
+.subscribe-form p { display: inline-block; padding: 0; }
+.subscribe-form input { color: #663333 !important; display: inline-block !important; width: 215px !important; height: 40px !important; margin: 0 !important; padding: 0 20px !important; text-decoration: none; text-align: left !important; border: 1px solid #ebebeb !important; outline: none !important; background: #ebebeb !important; zoom: 1; font-family: 'Open Sans', sans-serif !important; font-weight: 500 !important;
+    -moz-transition: all 0.4s ease !important; /* FF3.7+ */
+    -o-transition: all 0.4s ease !important; /* Opera 10.5 */
+    -webkit-transition: all 0.4s ease !important; /* Saf3.2+, Chrome */
+    transition: all 0.4s ease !important;
+  -webkit-border-radius: 0 !important; 
+  -moz-border-radius: 0 !important; 
+  border-radius: 0 !important; 
+}
+.subscribe-form input:focus { background: #fff !important; border: 1px solid #ebebeb !important; outline: none !important; 
+  -moz-box-shadow:    none !important;
+  -webkit-box-shadow: none !important;
+  box-shadow:         none !important;
+}
+.subscribe-form input[type="submit"] {
+    height:40px !important;
+    width:55px !important;
+        color: #fff !important;
+    display: inline-block !important;
+    margin:0 !important;
+    padding:0 10px 0 40px !important;
+    zoom: 1;
+    border: 1px solid #ebebeb !important;
+        outline: none !important;
+        background: url(Images/Buttons/arrow-right.png) no-repeat 15px center #333 !important;
+        background-size: 22px 22px !important;
+        text-shadow: none;
+}
+.subscribe-form input[type="submit"]:hover { background-color: #9d161a !important; 
+  -moz-box-shadow:    none !important;
+  -webkit-box-shadow: none !important;
+  box-shadow:         none !important;
+}
+.subscribe-form .hs_submit, .subscribe-form .hs-form-field { display: inline-block !important; margin: 0 0 8px 0 !important; vertical-align: bottom; }
+.subscribe-form .hs-form .actions { margin: 0 !important; padding: 0px;}
+.subscribe-form .hs-form label, .subscribe-form .hs-form .input { color: #ccc; display: inline-block !important; }
+.subscribe-form .hs-form.stacked .field, .subscribe-form .hs-form { margin-bottom: 8px !important; }
+.hs-form label { padding-right: 5px;} 
+.hs-form fieldset { max-width: 800px !important; }
+.hs-form .hs-input, .hs-form textarea.hs-input { max-width: 800px !important; }
+.hs-form.stacked .field { margin-bottom: 10px !important; }
+.hs-form .actions { margin: 0 8px 0 0 !important; padding: 0 !important; }
+.hs-form label { font-family: 'Open Sans', sans-serif !important; font-weight: 500 !important; }
+/********My Account Page*********/
+td .cart-button {text-align:center;}
+.MyAccountTable {
+padding-left: 25px;
+}
+.MyAccountButtons {
+padding-left:50px;
+}
+.HeadPageTitle{
+font-weight: bold;
+color: #9D161A;
+font-size: 24px;
+text-align: left;
+padding: 15px 0px 15px 25px;
+padding-top: 15px;
+padding-bottom: 15px;
+}
+.Contact {
+width:100%;
+}
+.ContactInfo {
+font-size: 16px;
+margin-left: 25px;
+padding-top: 25px;
+}
+.AccountSearchForm {
+padding-left: 30px;
+padding-bottom: 25px;
+}
+/**********Logoff Page***********/
+.LogoffPage { padding-bottom: 25px;}
+.LogoffPage p {padding-left: 25px;}
+.DeleteCartConfirm {padding: 25px;}
+/**Password Request Page**/
+ .ForgotPwd {
+    padding-left: 25px;
+    padding-bottom: 25px;
+}
+.ForgotPwdHd {
+       color: #9D161A;
+       font-size: 24px;
+       padding-top: 15px;
+       padding-left: 15px;
+}
+ .ForgotPwd p {
+     margin-left: 20px;
+}
+  .PwdRequest {
+      display: inline-block;
+      margin-left: 20px;
+}
+  .PwdRequest input {
+      display: inline-block;
+}
+  .PwdRequest input[type="submit"] {
+       display: inline-block;
+}
+    .PwdEmailField {
+       width: 350px;
+}
+     .Msg { padding: 15px; color: #9D161A;}
+    .CartReviewAll { padding: 15px; }
+/*************FOOTER ON ACCOUNT PAGES*****************/
+      .Tips {float:left; padding-left: 25px; padding-top: 50px;}
+      .TipsTitle {font-weight:bold; font-size: 12px; color: #666;}
+      .Tips li {list-style: none; font-size: 12px; line-height: 18px; color: #666666;}
+        
+      .AccountPagesFooter {width: 100%; height:auto; overflow:hidden;}
+      .ButtonBlock {float:right; text-align:center; padding: 0px 100px 20px 20px; }
+      
+      .CartSelect {padding-bottom: 15px; margin-right: auto; margin-left: auto;}
+      
+/*------------------Add To Cart Button-------------------*/
+.add-to-cart { display: block; margin: 5px; background-color: #9D161A; color: #fff; border:none; font-weight: 700; font-size:12px; padding: 10px; width:140px; 
+     -moz-transition: all 0.4s ease; /* FF3.7+ */
+	-o-transition: all 0.4s ease; /* Opera 10.5 */
+	-webkit-transition: all 0.4s ease; /* Saf3.2+, Chrome */
+	transition: all 0.4s ease;
+}
+.add-to-cart i {font-size: 21px; vertical-align: middle; padding: 0 10px 0 5px; display: inline-block;}
+.add-to-cart:hover { background: #871418;}
+.add-to-cart span {vertical-align: middle; display: inline-block; width: 80px; line-height: 1.2; margin: -5px 0;}
+.cart-button a { background: #9d161a; text-align: center; color: #fff; font-weight: 700; font-size: 12px; display: block; text-decoration: none; padding: 10px; width: 120px; margin: 5px; 
+	-moz-transition: all 0.4s ease; /* FF3.7+ */
+	-o-transition: all 0.4s ease; /* Opera 10.5 */
+	-webkit-transition: all 0.4s ease; /* Saf3.2+, Chrome */
+	transition: all 0.4s ease;
+}
+.cart-button a:hover { background: #871418; }
+.cart-button i { font-size: 21px; vertical-align: middle; padding: 0 12px 0 5px; display: inline-block; }
+.cart-button span { vertical-align: middle; display: inline-block; width: 80px; line-height: 1.2; margin: -5px 0; }
+.show-list {display: block; margin: 5px; background-color: #9D161A; color: #fff; border:none; font-weight: 700; font-size:12px; padding: 10px; width:180px; 
+     -moz-transition: all 0.4s ease; /* FF3.7+ */
+	-o-transition: all 0.4s ease; /* Opera 10.5 */
+	-webkit-transition: all 0.4s ease; /* Saf3.2+, Chrome */
+	transition: all 0.4s ease; 
+}
+.show-list i {font-size: 21px; vertical-align: middle; padding: 0 12px 0 5px; display: inline-block;}
+.show-list:hover { background: #871418;}
+.show-list span {vertical-align: middle; display: inline-block; width: 80px; line-height: 1.2; margin: -5px 0;}
+/***** for mobile *******/
+@media screen and (min-width: 1100px) {
+body, .sidebar h5 { font-size: 14px; }
+main { max-width: 1280px; }
+.header-content, .top-header { max-width: 1260px; }
+.banner .text-box h1 { font-size: 36px; }
+.banner .text-box h2 { font-size: 23px; }
+.col-2 .box img, .col-3 .box img { height: 305px; }
+.col-2 .box, .col-3 .box { height: 300px; }
+.col-2 .box h2, .col-3 .box h2 { font-size: 16px; }
+.col-2 .box:hover h2, .col-3 .box:hover h2 { font-size: 18px; }
+.rel-products li { font-size: 13px; }
+.col-2 .products .dubble { padding: 5px 0; }
+.col-2 .products .dubble img { margin-top: -6px; }
+.services-box h1.two-lines { padding: 30px 10px 0 30px; max-width: 90%; margin-left: 0; }
+.services-box h1.two-lines i { margin-left: 0; }
+.services-box .short-text { top: 30px; }
+h1 { font-size: 20px; }
+h2 { font-size: 18px; }
+.contact h2 { font-size: 36px; }
+.contact iframe { height: 450px;
+ }
+.footer { font-size: 13px; max-width: 1246px; }
+.footer-nav { max-width: 880px; }
+}
+@media screen and (max-width: 1240px) {
+.top-header { padding: 5px 7px; }
+.header-content { padding: 12px 7px; }
+.header-content .right-box { margin: -3px 0 0 0; }
+.sign-register, .phone-chat, .social_list { font-size: 10px; }
+.logo { width: 166px; height: 20px; }
+nav ul li { font-size: 10px; }
+nav ul li a { padding: 2px 8px; }
+.search { margin: 0; font-size: 11px; }
+.search input {     width: 60px;
+    margin: 0;
+    height: 26px !important;
+    font-size: 11px !important;
+    margin-left: 40px; !important}
+.search button { width: 26px !important; height: 26px; }
+.shop-link { font-size: 12px; font-weight: 500; }
+.cart-settings-box { padding: 7px; }
+.cart-options li { font-size: 11px; padding: 8px; }
+.cart-info li { font-size: 12px; padding: 8px; }
+.cart-settings .button  { font-size: 11px; padding: 3px 15px; }
+.cart-login-box { padding: 7px; }
+.cart-login .button  { font-size: 11px; padding: 5px 15px; }
+.cart-login p, .cart-login .account { font-size: 10px; }
+.cart-login input { padding: 5px; margin: 3px; font-size: 11px; }
+.close { margin: 6px; }
+}
+@media screen and (min-width: 1000px) {
+nav ul { display: block !important; }
+}
+@media screen and (max-width: 1000px) {
+.header-content { height: 20px; }
+.sign-register { margin: 0 0 0 20%; width: 230px; }
+#menu-icon { float: right; display: block; }
+nav { position: absolute; top: 68px; left: 0; right: 0; background: #871418; z-index: 999; }
+nav ul { clear: both; display: none; }
+nav ul li { display: block; font-size: 12px; border-bottom: 1px solid #600; border-right: none; line-height: normal; margin: 0; }
+nav ul li a { display: block; padding: 13px 14px; }
+.cart-settings ul { display: block; text-align: center; }
+.cart-settings ul.cart-options { margin: 0; padding: 7px; }
+.cart-info { border-top: 1px solid #ccc; }
+.cart-settings-box { padding: 0; }
+.cart-login p { max-width: 150px; }
+#tabs .cart-buttons { position: static; padding: 20px 0 10px 0; }
+#tabs .cart-button { display: inline-block; }
+#tabs .add-to-cart {display: inline-block; }
+#tabs .cart-button a { margin: 2px 0; }
+#tabs .add-to-cart { margin: 2px 0; }
+table { width: 100%; }
+.AccountPagesFooter .cart-buttons { position: static; padding: 20px 0 10px 0; }
+.AccountPagesFooter .cart-button { display: inline-block; }
+.AccountPagesFooter .add-to-cart {display: inline-block; }
+.AccountPagesFooter .cart-button a { margin: 2px 0; }
+.AccountPagesFooter .add-to-cart { margin: 2px 0; }
+.Tips { float: none; display: block; margin: 0px auto; padding:15px 0px; width: 55%;}
+.ButtonBlock { float:none; display: block; margin: 0 auto; padding: 0px;}
+table { width: 100%; }
+.banner .text-box h1 { font-size: 24px; }
+.banner .text-box h2 { font-size: 16px; }
+.col-2 .products-list { min-height: 600px; }
+.col-2 .products ul { padding: 0 2% 0 10%; width: 88%; float: none; }
+.col-2 .products .dubble { padding: 5px 0; }
+.col-2 .products .dubble img { margin-top: -6px; }
+}
+@media screen and (max-width: 770px) {
+.col-2 .box, .col-3 .box { height: 180px; }
+.col-2 .box img, .col-3 .box img { height: 180px; }
+.col-2 .box h2, .col-3 .box h2 { font-size: 13px; letter-spacing: normal; }
+.col-2 .box:hover h2, .col-3 .box:hover h2 { font-size: 15px; }
+.col-2 .products { width: 99%; }
+.col-2 .products-list { min-height: 200px; }
+.col-2 .products ul { padding: 0 2% 0 6%; width: 42%; float: left; }
+.events-content, .sidebar-2 { width: 99%; }
+.sidebar-2 .upcoming, .sidebar-2 .first-upcoming { width: 43%; padding:3%; margin: 0 0.5% 10px 0.5%; float: left; }
+.sidebar-2 .subscribe-form { padding: 20px 10%;  margin: 0 0.5% 10px 0.5%; }
+}
+@media screen and (max-width: 760px) {
+.sign-register { margin: 0 0 0 10%; }
+.cart-settings .button { top: 46px; }
+.cart-login-box { padding: 20px 5px; max-width: 400px; }
+.cart-login form { margin: 10px auto; }
+.cart-login input { width: 90%; font-size: 12px; }
+.cart-login .button { width: 90%; font-size: 12px; }
+.cart-login p { font-size: 12px; max-width: 500px; padding: 0 10px;
+ }
+.cart-login .account  { font-size: 12px; width: 80%; }
+.cart-login-2 { position: static; padding: 10px; text-align: center; }
+.left-block, .right-block { width: 99%; }
+.rel-products li { width: 32.3%; }
+.subscribe-form { display: block; }
+}
+@media screen and (max-width: 550px) {
+.phone-chat { float: none; font-size: 11px; }
+.sign-register { float: none; margin: 5px auto; font-size: 11px; width: 100%; }
+.social_list { display: none; }
+.header-content { height: 65px; }
+.header-content .right-box { padding: 0 0 15px 0; float: none; }
+.search { width: 185px; }
+.search input { width: 110px; padding-left:10px; margin: 0px !important; }
+.logo { width: 200px; height: 24px; }
+nav { top: 140px; }
+#menu-icon .menu_title { display: none; }
+.cart-settings-box { padding: 20px 0; }
+.cart-options { text-align: left !important; float: left; width: 45%; }
+.cart-info { text-align: left !important; float: left; width: 48%; border-left: 1px solid #ccc; border-top: none; padding: 5px 0 20px 5px; margin-bottom: 20px !important; }
+.cart-settings .button { position: static; clear: both; margin: 0 auto; width: 80px; }
+#tabs .cart-button a { width: 230px; }
+#tabs .add-to-cart { width: 250px; }
+.AccountPagesFooter .cart-button a { width: 230px; }
+.AccountPagesFooter .add-to-cart { width: 250px; }
+.rel-products li { width: 49%; }
+.subscribe-form { display: inline-block; }
+.subscribe-form input { width:210px; padding: 0 10px; }
+.subscribe-form input[type="submit"] { width:80px; background-position: 10px center; padding: 0 10px 0 35px; }
+.subscribe-form .hs-form.stacked label { display: block !important; text-align: center; }
+.footer-menu { display: none; }
+.secured { position: static; }
+.specifications, .information { width: 100%; display: block; }
+.banner .desk { display: none; }
+.banner .mobile { display: block; }
+.banner img { max-width: 100%; }
+.banner .text-box { max-width: 100%; text-align: center; padding: 20px 0; left: 0; right: 0; top: 5%; }
+.col-2 .products ul { padding: 0 2% 0 8%; width: 90%; float: none; }
+.col-2 .products { margin: 3px 0; width: 100%; }
+}
+@media screen and (max-width: 360px) {
+main{ padding: 0; }
+.left-block, .right-block { width: 100%; margin: 3px 0; }
+.banner { margin: 0 0 3px 0; }
+.banner .text-box { top: 0; }
+.banner .text-box h1 { font-size: 19px; }
+.banner .text-box h2 { font-size: 15px; }
+.col-2 .box, .col-3 .box { width: 100%; margin: 3px 0; height: 210px; }
+.col-3 .box img { height: 262px; }
+.footer { padding: 20px 0; }
+.copyright { padding: 15px 20px 0px 20px; }
+.copyright .first-line { display: none; }
+}
+.error-message{
+	color:#9d161a;
+	border : 1px #9d161a solid;
+	text-align:center;
+	padding:10px;
+	font-size:15px;
+	font-weight:bold;
+	background:#fff;
+	margin:10px 0 20px 0;
+}
+--></style><style type="text/css"><!--
+.hs-button-reset,.hs-form .hs-button{border:none;font-family:Helvetica,Arial,sans-serif;line-height:1;margin:0;outline:0;padding:0}.base-hs-button-styles,.hs-form .hs-button{text-decoration:none;cursor:pointer;display:inline-block;font-size:12px;font-weight:700;line-height:12px;padding:7px 18px 7px;position:relative;text-align:center}.base-hs-button-styles:hover,.hs-form .hs-button:hover{text-decoration:none}input.hs-input[type=checkbox],input.hs-input[type=radio]{cursor:pointer}input.hs-input,textarea.hs-input,select.hs-input{display:inline-block;width:210px;height:18px;padding:4px;font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:13px;font-weight:normal;line-height:18px;color:#666;border:1px solid #ccc;-webkit-border-radius:3px;-moz-border-radius:3px;-ms-border-radius:3px;border-radius:3px}textarea.hs-input{padding-top:5px}html.webkit textarea.hs-input{padding-top:6px;padding-left:5px}input.hs-input[type=checkbox],input.hs-input[type=radio]{width:auto;height:auto;padding:0;margin:3px 0;line-height:normal;border:none}input.hs-input[type=file]{background-color:#fff;padding:initial;border:initial;line-height:initial;box-shadow:none}input.hs-input[type=button],input.hs-input[type=reset],input.hs-input[type=submit]{width:auto;height:auto}input.hs-input[type=search]{-webkit-border-radius:16px;-moz-border-radius:16px;-ms-border-radius:16px;border-radius:16px;background-image:url("/common_assets/static-2.178/img/form/search.png");background-repeat:no-repeat;padding-left:26px;padding-right:6px;padding-top:5px;padding-bottom:3px;background-position:8px 8px}html.firefox input.hs-input[type=search]{position:relative;top:1px}input.hs-input[type=search].transparent-image{background-image:url("/common_assets/static-2.178/img/form/search-transparent.png")}input.hs-input[type="search"]::-webkit-search-decoration,input.hs-input[type="search"]::-webkit-search-cancel-button,input.hs-input[type="search"]::-webkit-search-results-button,input.hs-input[type="search"]::-webkit-search-results-decoration{display:none}select.hs-input,input.hs-input[type=file]{height:27px}select[multiple].hs-input{height:inherit}textarea.hs-input{height:auto}.hs-input:-moz-placeholder{color:#bfbfbf}.hs-input::-webkit-input-placeholder{color:#bfbfbf}input.hs-input,textarea.hs-input{transition:border 0.2s linear,box-shadow 0.2s linear;box-shadow:inset 0 1px 3px rgba(0,0,0,0.1)}input.hs-input:focus,textarea.hs-input:focus{outline:none;border-color:rgba(82,168,236,0.8);box-shadow:inset 0 1px 3px rgba(0,0,0,0.1),0 0 8px rgba(82,168,236,0.6)}input.hs-input.error,.hs-form div.field.error input,.hs-form div.field.error textarea,.hs-form div.field.error .chzn-choices,textarea.hs-input.error{border-color:#c87872;box-shadow:0 0 3px rgba(171,41,32,0.25)}input.hs-input.error:focus,.hs-form div.field.error input:focus,.hs-form div.field.error textarea:focus,.hs-form div.field.error .chzn-choices:focus,textarea.hs-input.error:focus{border-color:#b9554d;box-shadow:0 0 6px rgba(171,41,32,0.5)}.input-mini.hs-input,input.mini.hs-input,textarea.mini.hs-input,select.mini.hs-input{width:60px}.input-small.hs-input,input.small.hs-input,textarea.small.hs-input,select.small.hs-input{width:90px}.input-medium.hs-input,input.medium.hs-input,textarea.medium.hs-input,select.medium.hs-input{width:150px}.input-large.hs-input,input.large.hs-input,textarea.large.hs-input,select.large.hs-input{width:210px}.input-xlarge.hs-input,input.xlarge.hs-input,textarea.xlarge.hs-input,select.xlarge.hs-input{width:270px}.input-xxlarge.hs-input,input.xxlarge.hs-input,textarea.xxlarge.hs-input,select.xxlarge.hs-input{width:530px}.input-stretch.hs-input,input.stretch.hs-input,textarea.stretch.hs-input,select.stretch.hs-input{box-sizing:border-box;width:100%}textarea.hs-input.xxlarge{overflow-y:auto}input.hs-input.span1,textarea.hs-input.span1,select.hs-input.span1{display:inline-block;float:none;width:30px;margin-left:0}input.hs-input.span2,textarea.hs-input.span2,select.hs-input.span2{display:inline-block;float:none;width:90px;margin-left:0}input.hs-input.span3,textarea.hs-input.span3,select.hs-input.span3{display:inline-block;float:none;width:150px;margin-left:0}input.hs-input.span4,textarea.hs-input.span4,select.hs-input.span4{display:inline-block;float:none;width:210px;margin-left:0}input.hs-input.span5,textarea.hs-input.span5,select.hs-input.span5{display:inline-block;float:none;width:270px;margin-left:0}input.hs-input.span6,textarea.hs-input.span6,select.hs-input.span6{display:inline-block;float:none;width:330px;margin-left:0}input.hs-input.span7,textarea.hs-input.span7,select.hs-input.span7{display:inline-block;float:none;width:390px;margin-left:0}input.hs-input.span8,textarea.hs-input.span8,select.hs-input.span8{display:inline-block;float:none;width:450px;margin-left:0}input.hs-input.span9,textarea.hs-input.span9,select.hs-input.span9{display:inline-block;float:none;width:510px;margin-left:0}input.hs-input.span10,textarea.hs-input.span10,select.hs-input.span10{display:inline-block;float:none;width:570px;margin-left:0}input.hs-input.span11,textarea.hs-input.span11,select.hs-input.span11{display:inline-block;float:none;width:630px;margin-left:0}input.hs-input.span12,textarea.hs-input.span12,select.hs-input.span12{display:inline-block;float:none;width:690px;margin-left:0}input.hs-input.span13,textarea.hs-input.span13,select.hs-input.span13{display:inline-block;float:none;width:750px;margin-left:0}input.hs-input.span14,textarea.hs-input.span14,select.hs-input.span14{display:inline-block;float:none;width:810px;margin-left:0}input.hs-input.span15,textarea.hs-input.span15,select.hs-input.span15{display:inline-block;float:none;width:870px;margin-left:0}input.hs-input.span16,textarea.hs-input.span16,select.hs-input.span16{display:inline-block;float:none;width:930px;margin-left:0}input.hs-input[disabled],select.hs-input[disabled],textarea.hs-input[disabled]{background-color:#f5f5f5;border-color:#ddd;cursor:not-allowed}.help-inline,.help-block{font-size:11px;line-height:18px;color:#818181}.help-inline{padding-left:5px}.help-block{display:block;max-width:600px}.inline-inputs{color:#818181}.inline-inputs span,.inline-inputs input{display:inline-block}.inline-inputs input.mini{width:60px}.inline-inputs input.small{width:90px}.inline-inputs span{padding:0 2px 0 1px}.input-prepend input,.input-append input{-webkit-border-radius:0 3px 3px 0;-moz-border-radius:0 3px 3px 0;-ms-border-radius:0 3px 3px 0;border-radius:0 3px 3px 0}.input-prepend .add-on,.input-append .add-on{position:relative;background:#f5f5f5;border:1px solid #ccc;z-index:2;float:left;display:block;width:auto;min-width:16px;height:18px;padding:4px 4px 4px 5px;margin-right:-1px;font-weight:normal;line-height:18px;color:#bfbfbf;text-align:center;text-shadow:0 1px 0 #fff;-webkit-border-radius:3px 0 0 3px;-moz-border-radius:3px 0 0 3px;-ms-border-radius:3px 0 0 3px;border-radius:3px 0 0 3px}.input-prepend .active,.input-append .active{background:#bfe0bf;border-color:#59ad59}.input-append input{float:left;-webkit-border-radius:3px 0 0 3px;-moz-border-radius:3px 0 0 3px;-ms-border-radius:3px 0 0 3px;border-radius:3px 0 0 3px}.input-append .add-on{-webkit-border-radius:0 3px 3px 0;-moz-border-radius:0 3px 3px 0;-ms-border-radius:0 3px 3px 0;border-radius:0 3px 3px 0;margin-right:0;margin-left:-1px}.hs-form{margin-bottom:18px}.hs-form fieldset{margin-bottom:18px;padding-top:18px}.hs-form fieldset legend{display:block;margin-left:150px;font-size:19.5px;line-height:1;color:#414141}.hs-form .clearfix,.hs-form .field,.hs-form .hs-form-field{margin-bottom:18px}.hs-form .clearfix:after,.hs-form .field:after,.hs-form .hs-form-field:after{content:"";display:table;clear:both}.hs-form label{padding-top:5px;font-size:13px;line-height:18px;font-weight:bold;float:left;width:130px;text-align:right;color:#414141}.hs-form .input{margin-left:150px}.hs-form div.field.error{background:#fae5e3;padding:6px 0;margin-bottom:18px;-webkit-border-radius:4px;-moz-border-radius:4px;-ms-border-radius:4px;border-radius:4px}.hs-form div.field.error>label,.hs-form div.field.error span.help-inline,.hs-form div.field.error span.help-block{color:#9d261d}.hs-form div.field.error .input-prepend span.add-on,.hs-form div.field.error .input-append span.add-on{background:#f4c8c5;border-color:#c87872;color:#b9554d}.hs-form .hsErrMsgContainer ul{margin-top:6px;margin-bottom:0px;margin-left:7px;list-style:none}.hs-form .hsErrMsgContainer ul li{font-size:12px;color:#a44e47}.hs-form .hsErrMsgContainer .hs-block-message{min-width:200px;width:200px}.hs-form .hsErrMsgContainer .hs-block-message ul{margin-top:0px}.hs-form .actions{background:#f5f5f5;margin-top:18px;margin-bottom:18px;padding:17px 20px 18px 150px;border-top:1px solid #ddd;-webkit-border-radius:0 0 3px 3px;-moz-border-radius:0 0 3px 3px;-ms-border-radius:0 0 3px 3px;border-radius:0 0 3px 3px}.hs-form .actions .secondary-action{float:right}.hs-form .actions .secondary-action a{line-height:30px}.hs-form .actions .secondary-action a:hover{text-decoration:underline}.hs-form .inputs-list{margin:0 0 5px;width:100%}.hs-form .inputs-list>li{display:block;padding:0;width:100%}.hs-form .inputs-list label{display:block;float:none;width:auto;padding:0;line-height:18px;text-align:left;white-space:normal;font-weight:normal}.hs-form .inputs-list label strong{color:#818181}.hs-form .inputs-list label small{font-size:11px;font-weight:normal}.hs-form .inputs-list .inputs-list{margin-left:25px;margin-bottom:10px;padding-top:0}.hs-form .inputs-list:first-child{padding-top:6px}.hs-form .inputs-list>li+li{padding-top:2px}.hs-form .inputs-list input[type=radio],.hs-form .inputs-list input[type=checkbox]{margin-bottom:0}.hs-form.stacked{padding-left:20px}.hs-form.stacked fieldset{padding-top:9px}.hs-form.stacked legend{margin-left:0}.hs-form.stacked label{display:block;float:none;width:auto;font-weight:bold;text-align:left;line-height:20px;padding-top:0;margin-bottom:4px}.hs-form.stacked .field{margin-bottom:18px}.hs-form.stacked .field div.input{margin-left:0}.hs-form.stacked .field div.input>input+a,.hs-form.stacked .field div.input select+a,.hs-form.stacked .field div.input textarea+a{margin-top:4px;display:block}.hs-form.stacked .inputs-list{margin-bottom:0}.hs-form.stacked .inputs-list>li{padding-top:0}.hs-form.stacked .inputs-list>li label{font-weight:normal;padding-top:0}.hs-form.stacked div.error{padding:3px 10px 6px;margin-top:0;margin-left:-10px;margin-bottom:9px}.hs-form.stacked .actions{margin-left:-20px;padding-left:20px}.hs-form{padding-left:0px}.hs-form.stacked{padding-left:0px}.hs-form.stacked fieldset{padding:0}.hs-form .hs-button{color:#fff;text-shadow:0 -1px 0 #3574e3;background-color:#3574e3;background-image:linear-gradient(to bottom, #7ec8f4,#3574e3);box-shadow:inset 0px 1px 0px rgba(255,255,255,0.5);border-top:1px solid #64baf0;border-bottom:1px solid #1c4ed5;border-right:1px solid #468ee6;border-left:1px solid #468ee6;border-radius:4px;transition:opacity 0.15s linear;-moz-user-select:none;-webkit-user-select:none;user-select:none}.hs-form .hs-button:visited,.hs-form .hs-button:hover{color:#fff}.hs-form .hs-button:hover:not(.inactive),.hs-form .hs-button:focus:not(.inactive),.hs-form .hs-button.hovered:not(.inactive){box-shadow:inset 0px 1px 0px rgba(255,255,255,0.5),0 0 5px #3574e3;border-top:1px solid #4db0ee;border-bottom:1px solid #1946be;border-right:1px solid #3080e3;border-left:1px solid #3080e3}.hs-form .hs-button:active:not(.inactive):not(.link),.hs-form .hs-button.depressed:not(.inactive):not(.link),.dropdown-open>.hs-form .hs-button:not(.inactive):not(.link){background-color:#599eeb;background-image:linear-gradient(to bottom, #3574e3,#599eeb);box-shadow:inset 0px 1px 2px rgba(0,0,0,0.3),inset 0px -1px 0px rgba(255,255,255,0.3);border-top:1px solid #1c4ed5;border-bottom:1px solid #4084e2;border-right:1px solid #468ee6;border-left:1px solid #468ee6}.dropdown-open>.hs-form .hs-button:not(.inactive):not(.link){box-shadow:inset 0px 1px 2px rgba(0,0,0,0.3)}.hs-form .hs-button.disabled.disabled.disabled.disabled,.hs-form .hs-button[disabled][disabled][disabled]{background-color:#6387c5;background-image:linear-gradient(to bottom, #88b1ce,#6387c5);box-shadow:inset 0px 1px 0px rgba(255,255,255,0);border-top:1px solid #7baacc;border-bottom:1px solid #5774be;border-right:1px solid #6c94c7;border-left:1px solid #6c94c7;cursor:default;color:#ededed;text-shadow:none;opacity:0.6}.hs-form .hs-button.disabled.disabled.disabled.disabled.next:before,.hs-form .hs-button[disabled][disabled][disabled].next:before{opacity:0.5}.hs-form .hs-button.disabled.disabled.disabled.disabled.previous:before,.hs-form .hs-button[disabled][disabled][disabled].previous:before{opacity:0.5}.hs-form .hs-button.next:before,.hs-form .hs-button.previous:before{background:url(/style_guide/static-8.349/img/hs-button-arrows.png) center 0 no-repeat;display:block;width:16px;height:16px;position:absolute;top:5px;content:" ";z-index:99}.hs-form .hs-button.next{padding-right:32px}.hs-form .hs-button.next:before{right:9px}.hs-form .hs-button.previous{padding-left:32px}.hs-form .hs-button.previous:before{background-position:center -16px;left:9px}.hs-form .hs-button.inactive{cursor:default}.hs-form ul{list-style:none}.hs-form label{display:block;font-family:"Helvetica Neue",Helvetica,Arial,sans-serif}.hs-form .hs-field-desc{color:#aaa;margin:0px 0px 5px 150px;font-size:11px;font-family:"Helvetica Neue",Helvetica,Arial,sans-serif}.hs-form .hs-form-required{color:red}.hs-form .field{margin-bottom:9px}.hs-form .hs-richtext{margin-bottom:3px;font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;line-height:18px;font-size:14px;color:#414141}.hs-form .hs-richtext hr{text-align:left;margin-left:0;width:91%}.hs-form .email-correction,.hs-form .email-validation{padding-top:3px;font-size:12px;font-family:"Helvetica Neue",Helvetica,Arial,sans-serif}.hs-form .email-correction a,.hs-form .email-validation a{cursor:pointer}.hs-form .inputs-list{padding-left:5px;list-style:none}.hs-form .inputs-list li input{margin:3px 5px 3px 0px}.hs-form input[type=checkbox],.hs-form input[type=radio]{margin-right:5px}.hs-form input:not([type="image"]),.hs-form textarea{box-sizing:content-box}.hs-form.stacked .hs-field-desc{margin:0px 0px 2px 0px}.hs-form .hs-input,.hs-form textarea.hs-input{box-sizing:border-box;max-width:500px;width:90%}.hs-form .hs-input:not[type=checkbox],.hs-form .hs-input:not[type=radio],.hs-form textarea.hs-input:not[type=checkbox],.hs-form textarea.hs-input:not[type=radio]{min-height:18px;min-width:100px}.hs-form .actions{background:transparent;margin-top:18px;margin-bottom:18px;padding:17px 20px 18px 0px;border-top:none;-webkit-border-radius:0 0 3px 3px;-moz-border-radius:0 0 3px 3px;-ms-border-radius:0 0 3px 3px;border-radius:0 0 3px 3px}.hs-form .actions .secondary-action{float:right}.hs-form .actions .secondary-action a{line-height:30px}.hs-form .actions .secondary-action a:hover{text-decoration:underline}.hs-form fieldset{border:0;padding:0;margin:0;max-width:500px}.hs-form fieldset.form-columns-1 .hs-input{width:95%}.hs-form fieldset.form-columns-1 .input{margin-right:8px}.hs-form fieldset.form-columns-1 input[type="checkbox"],.hs-form fieldset.form-columns-1 input[type="radio"]{width:auto}.hs-form fieldset.form-columns-2 .hs-form-field{width:50%;float:left}.hs-form fieldset.form-columns-2 .input{margin-right:8px}.hs-form fieldset.form-columns-3 .hs-form-field{width:32.7%;float:left}.hs-form fieldset.form-columns-3 .input{margin-right:8px}.hsformerror{margin:0 0 2px;padding:2px 6px;height:auto;background-color:#fdd2d0;font-size:11px;border:1px solid #fcb3af;padding:4px 16px 4px 10px;color:#000;display:none;background-image:-webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #fefefe), color-stop(100%, #fdd2d0));background-image:-webkit-linear-gradient(#fefefe,#fdd2d0);background-image:-moz-linear-gradient(#fefefe,#fdd2d0);background-image:-o-linear-gradient(#fefefe,#fdd2d0);background-image:linear-gradient(#fefefe,#fdd2d0);-webkit-border-radius:4px;-moz-border-radius:4px;-ms-border-radius:4px;-o-border-radius:4px;border-radius:4px;-webkit-box-shadow:0 0 6px #ddd;-moz-box-shadow:0 0 6px #ddd;box-shadow:0 0 6px #ddd;z-index:99999}.hsformerror em{border:10px solid;border-color:#fdd2d0 transparent transparent;bottom:-17px;display:block;height:0;left:60px;position:absolute;width:0}.hsformerror p{font-family:Lucida Grande,Lucida Sans Unicode,bitstream vera sans,trebuchet ms,verdana,sans-serif;margin:0;float:left;margin-right:8px}.hsformerror:hover{cursor:default}.hsformerror .close-form-error{float:right;display:inline;top:3px;position:absolute;font-family:Verdana !important;color:#b17c79 !important;cursor:pointer !important;font-size:11px !important;font-weight:normal !important}.hsformerror .close-form-error:hover{color:#cc8884}#calroot{z-index:10000;margin-top:-1px;width:198px;padding:2px;background-color:#fff;font-size:11px;border:1px solid #ccc;-moz-border-radius:5px;-webkit-border-radius:5px;-moz-box-shadow:0 0 15px #666;-webkit-box-shadow:0 0 15px #666}#calroot p,#calroot div,#calroot a{font-family:Lucida Grande,Lucida Sans Unicode,bitstream vera sans,trebuchet ms,verdana,sans-serif}#calroot #calhead{padding:2px 0;height:22px}#calroot #caltitle{font-size:14px;color:#0150d1;float:left;text-align:center;width:155px;line-height:20px;text-shadow:0 1px 0 #ddd}#calroot #calnext,#calroot #calprev{display:block;margin:5px 7px;width:0;height:0;float:left;cursor:pointer}#calroot #calnext{float:right;border-top:5px solid transparent;border-bottom:5px solid transparent;border-left:5px solid #666}#calroot #calprev{border-top:5px solid transparent;border-bottom:5px solid transparent;border-right:5px solid #666}#calroot #calprev.caldisabled,#calroot #calnext.caldisabled{visibility:hidden}#calroot #caltitle select{font-size:10px}#calroot #caldays{height:14px;border-bottom:1px solid #ddd}#calroot #caldays span{display:block;float:left;width:28px;text-align:center}#calroot #calweeks{background-color:#fff;margin-top:4px}#calroot .calweek{clear:left;height:22px}#calroot .calweek a{display:block;float:left;width:27px;height:20px;text-decoration:none;font-size:11px;margin-left:1px;text-align:center;line-height:20px;color:#666;-moz-border-radius:3px;-webkit-border-radius:3px}#calroot .calweek a:hover{background-color:#ddd}#calroot .calfocus{background-color:#ddd}#calroot a.calsun{color:red}#calroot a.caloff{color:#ccc}#calroot a.caloff:hover{background-color:#f5f5fa}#calroot a.caldisabled{background-color:#efefef !important;color:#ccc !important;cursor:default}#calroot #calcurrent{background-color:#498ce2;color:#fff}#calroot #caltoday{background-color:#333;color:#fff}@media (max-width: 400px), (min-device-width: 320px) and (max-device-width: 480px){form.hs-form .form-columns-2 .hs-form-field,form.hs-form .form-columns-3 .hs-form-field{float:none;width:100%}form.hs-form .form-columns-2 .hs-form-field .hs-input,form.hs-form .form-columns-3 .hs-form-field .hs-input{width:95%}}
+--></style><style type="text/css"><!--
+.st-install-P9Dzywu1zKcQxBJLjhni .st-ui-result .st-ui-type-heading { color:#9d161a !important }
+.st-install-P9Dzywu1zKcQxBJLjhni .st-ui-result em {font-style:normal; font-weight:bold; background-color:#f6fcfe !important}
+--></style>
+<p>The glossy side of the paper can also be used to store weeded transfers until you are ready for heat application. </p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>heat</s:tag>
+    <s:tag>heat trransfer</s:tag>
+    <s:tag>iron</s:tag>
+    <s:tag>ironing</s:tag>
+    <s:tag>paper</s:tag>
+    <s:tag>pressing</s:tag>
+    <s:tag>sheet</s:tag>
+    <s:tag>teflon</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/11652400646</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.19</s:price>
+      <s:sku>Allpurpaper16x20</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/9440617926</id>
+    <published>2017-02-01T20:20:00-05:00</published>
+    <updated>2017-02-01T20:20:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/htv-thermo-tape"/>
+    <title>HTV Thermo-Tape</title>
+    <s:type></s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/thermo_tape.PNG?v=1485999463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3/8" by 72 yards</p>
+<p>Thermo-Tape keeps your designs in place.</p>
+<p>Use this heat resistant tape to keep graphics and lettering in place before and during heat press application.</p>
+<p>Detailed instructions provided on package.  Note that this tape should be used to tack pieces in place for 2 seconds and then removed.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/9440617926</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.88</s:price>
+      <s:sku>Thermotape</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/9073951430</id>
+    <published>2016-12-07T21:55:00-05:00</published>
+    <updated>2016-12-07T21:55:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/siser-colour-guide"/>
+    <title>SISER HTV Colour Guide</title>
+    <s:type>SISER HTV Colour Guide</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/siser_colour_guide_1.jpg?v=1481167967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>SISER HTV Colour Guide<br>
+        <strong>Price: </strong>
+            11.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 class="ProductTitle">Siser Heat Transfer Materials Color Guide</h3>
+<p>New 2019 edition!  The Siser product selector guide is a tri-fold color chart which displays actual product samples and colors.  The Siser color guide is great for showing color choices to potential customers or for personal reference.  The following Siser products are represented in the guide:</p>
+<p>Siser EasyWeed<br>Siser EasyWeed Extra<br>Siser Easyweed Stretch<br>Siser EasyWeed Electric<br>Siser EasyWeed Foil<br>Siser VideoFlex Glitter<br>Siser StripFlock<br>Siser Holographic<br>Siser Glitter<br>Siser EasyWeed Sub Block<br>Siser Brick (printed color representations only)</p>
+<p>Please this book may be gently rolled in your box depending on the size of your order.  It will flatten out quicker if you set a couple of heavy books on it overnight.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Colour</s:tag>
+    <s:tag>Easyweed</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>sample</s:tag>
+    <s:tag>sampler</s:tag>
+    <s:tag>siser</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/9073951430</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.48</s:price>
+      <s:sku>SiserColourGuide</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/8801682694</id>
+    <published>2016-10-21T10:48:00-04:00</published>
+    <updated>2016-10-21T10:48:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/ttd-mask-transfer-medium-for-patterned-htv"/>
+    <title>TTD Easy Mask (Transfer Product for Patterned HTV)</title>
+    <s:type>Mask</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/TTD_MASK.jpg?v=1477062228"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Mask<br>
+        <strong>Price: </strong>
+            0.88 - 3.15
+            <a href="https://scriptdesigns.myshopify.com/products/ttd-mask-transfer-medium-for-patterned-htv">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Contrary to regular HTV, patterned HTV doesn't have a carrier sheet.  This product is what is used as your carrier.  Please refer to the Patterned HTV product for application instructions (link below).  Each sheet measures approximately 10 1/2 by 12 inches. </p>
+<p><a title="Application instructions - Patterned HTV" href="https://scriptdesigns.myshopify.com/collections/patterned-heat-transfer-vinyl-htv">https://scriptdesigns.myshopify.com/collections/patterned-heat-transfer-vinyl-htv</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/8801682694</id>
+      <title>10.5&quot;x24</title>
+      <s:price currency="CAD">3.15</s:price>
+      <s:sku>TTDMask12x24</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/8801682694</id>
+      <title>10.5&quot;x12&quot;</title>
+      <s:price currency="CAD">1.58</s:price>
+      <s:sku>TTDMask12x12</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/8801682694</id>
+      <title>10.5&quot;x6</title>
+      <s:price currency="CAD">0.88</s:price>
+      <s:sku>TTDMask12x6</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/1515198349392</id>
+    <published>2016-06-28T08:42:00-04:00</published>
+    <updated>2016-06-28T08:42:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/felt-squeegee"/>
+    <title>Felt Squeegee</title>
+    <s:type>Squeegee</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/4in-felt-edge-wrapped-yellow_squeegee.jpg?v=1537558411"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Squeegee<br>
+        <strong>Price: </strong>
+            2.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Four inches wide universal squeegee</p>
+<p>Note:  Product may not be identical to picture.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessory</s:tag>
+    <s:tag>burnishing</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>squeegee</s:tag>
+    <s:tag>tool</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1515198349392</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.98</s:price>
+      <s:sku>FELT SQUEEGEE</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/7321999814</id>
+    <published>2016-06-28T08:42:00-04:00</published>
+    <updated>2016-06-28T08:42:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/squeegee"/>
+    <title>Squeegee</title>
+    <s:type>Squeegee</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/4in-tfx-gray-universal-squeegee.jpg?v=1468921838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Squeegee<br>
+        <strong>Price: </strong>
+            1.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Four inches wide universal squeegee</p>
+<p>Note:  Product may not be identical to picture.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessory</s:tag>
+    <s:tag>burnishing</s:tag>
+    <s:tag>equipment</s:tag>
+    <s:tag>squeegee</s:tag>
+    <s:tag>tool</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/7321999814</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.70</s:price>
+      <s:sku>SQUEEGEE</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+</feed>

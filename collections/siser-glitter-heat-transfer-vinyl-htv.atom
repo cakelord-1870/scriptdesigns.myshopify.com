@@ -1,0 +1,2812 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://scriptdesigns.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://scriptdesigns.myshopify.com/collections/siser-glitter-heat-transfer-vinyl-htv.atom"/>
+  <title>ScriptDesigns</title>
+  <updated>2021-07-05T13:41:30-04:00</updated>
+  <author>
+    <name>ScriptDesigns</name>
+  </author>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/6565502025808</id>
+    <published>2021-07-05T13:41:30-04:00</published>
+    <updated>2021-07-05T13:41:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/copy-of-gl-08-copper-siser-glitter-htv"/>
+    <title>GL-21 Tawny- Siser Glitter HTV</title>
+    <s:type>Siser Glitter</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/glitter_tawny_580x_9351a070-2e2e-4eaf-8987-f2cb4a8bc2db.jpg?v=1620424981"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser Glitter<br>
+        <strong>Price: </strong>
+            2.10 - 190.00
+            <a href="https://scriptdesigns.myshopify.com/products/copy-of-gl-08-copper-siser-glitter-htv">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adhesive</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>cold peel</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>Easy</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>glitter</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>heat press</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>Scriptdesigns</s:tag>
+    <s:tag>sign</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>siser glitter</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6565502025808</id>
+      <title>10&quot; x 6&quot;</title>
+      <s:price currency="CAD">2.10</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6565502025808</id>
+      <title>10&quot; x 12&quot;</title>
+      <s:price currency="CAD">3.85</s:price>
+      <s:sku/>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6565502025808</id>
+      <title>10&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">11.40</s:price>
+      <s:sku/>
+      <s:grams>144</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6565502025808</id>
+      <title>20&apos;&apos; x 12&apos;&apos;</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku/>
+      <s:grams>96</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6565502025808</id>
+      <title>20&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku/>
+      <s:grams>288</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6565502025808</id>
+      <title>20&quot; x 5 yards</title>
+      <s:price currency="CAD">102.00</s:price>
+      <s:sku/>
+      <s:grams>2880</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6565502025808</id>
+      <title>20&quot; x 10 yards</title>
+      <s:price currency="CAD">190.00</s:price>
+      <s:sku/>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/6565505663056</id>
+    <published>2021-07-05T13:37:22-04:00</published>
+    <updated>2021-07-05T13:37:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/copy-of-gl-neon-yellow-22-siser-glitter-htv"/>
+    <title>GL-71 Neon Yellow - Siser Glitter HTV</title>
+    <s:type>Siser Glitter</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Glitter_Neon_Yellow_1200x1200_a5b410da-5fcc-4d3d-8db7-a59d93920833.jpg?v=1620427231"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser Glitter<br>
+        <strong>Price: </strong>
+            2.50 - 200.00
+            <a href="https://scriptdesigns.myshopify.com/products/copy-of-gl-neon-yellow-22-siser-glitter-htv">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adhesive</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>cold peel</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>Easy</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>glitter</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>heat press</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>Scriptdesigns</s:tag>
+    <s:tag>sign</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>siser glitter</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6565505663056</id>
+      <title>10&quot; x 6&quot;</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6565505663056</id>
+      <title>10&quot; x 12&quot;</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku/>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6565505663056</id>
+      <title>10&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku/>
+      <s:grams>144</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6565505663056</id>
+      <title>20&apos;&apos; x 12&apos;&apos;</title>
+      <s:price currency="CAD">7.75</s:price>
+      <s:sku/>
+      <s:grams>96</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6565505663056</id>
+      <title>20&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">22.35</s:price>
+      <s:sku/>
+      <s:grams>288</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6565505663056</id>
+      <title>20&quot; x 5 yards</title>
+      <s:price currency="CAD">108.00</s:price>
+      <s:sku/>
+      <s:grams>2880</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6565505663056</id>
+      <title>20&quot; x 10 yards</title>
+      <s:price currency="CAD">200.00</s:price>
+      <s:sku/>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/6565502386256</id>
+    <published>2021-07-05T13:31:58-04:00</published>
+    <updated>2021-07-05T13:31:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/copy-of-gl-21-tawny-siser-glitter-htv"/>
+    <title>GL-72 - Neon Green - Siser Glitter HTV</title>
+    <s:type>Siser Glitter</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/NeonGreen_580x_8bfefa47-6ed2-41e7-8b03-db3fbd36cd37.jpg?v=1620427174"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser Glitter<br>
+        <strong>Price: </strong>
+            2.50 - 200.00
+            <a href="https://scriptdesigns.myshopify.com/products/copy-of-gl-21-tawny-siser-glitter-htv">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adhesive</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>cold peel</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>Easy</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>glitter</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>heat press</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>Scriptdesigns</s:tag>
+    <s:tag>sign</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>siser glitter</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6565502386256</id>
+      <title>10&quot; x 6&quot;</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6565502386256</id>
+      <title>10&quot; x 12&quot;</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku/>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6565502386256</id>
+      <title>10&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku/>
+      <s:grams>144</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6565502386256</id>
+      <title>20&apos;&apos; x 12&apos;&apos;</title>
+      <s:price currency="CAD">7.75</s:price>
+      <s:sku/>
+      <s:grams>96</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6565502386256</id>
+      <title>20&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">22.35</s:price>
+      <s:sku/>
+      <s:grams>288</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6565502386256</id>
+      <title>20&quot; x 5 yards</title>
+      <s:price currency="CAD">108.00</s:price>
+      <s:sku/>
+      <s:grams>2880</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6565502386256</id>
+      <title>20&quot; x 10 yards</title>
+      <s:price currency="CAD">200.00</s:price>
+      <s:sku/>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/4742421381200</id>
+    <published>2020-07-14T15:50:56-04:00</published>
+    <updated>2020-07-14T15:50:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/gl-75-neon-purple-mauve-neon-siser-glitter-htv"/>
+    <title>GL-75 Neon Purple / Mauve Neon - Siser Glitter HTV</title>
+    <s:type>Siser Glitter</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/NeonPurple_5e593f4c-6e45-49c9-8ef5-337abfb26baa.jpg?v=1594756964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser Glitter<br>
+        <strong>Price: </strong>
+            2.50 - 200.00
+            <a href="https://scriptdesigns.myshopify.com/products/gl-75-neon-purple-mauve-neon-siser-glitter-htv">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul></ul>
+<div> </div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adhesive</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>cold peel</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>Easy</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>glitter</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>heat press</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>roll</s:tag>
+    <s:tag>rolls</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>Scriptdesigns</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>siser glitter</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4742421381200</id>
+      <title>10&quot; x 6&quot;</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4742421381200</id>
+      <title>10&quot; x 12&quot;</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku/>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4742421381200</id>
+      <title>10&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku/>
+      <s:grams>144</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4742421381200</id>
+      <title>20&apos;&apos; x 12&apos;&apos;</title>
+      <s:price currency="CAD">7.75</s:price>
+      <s:sku/>
+      <s:grams>96</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4742421381200</id>
+      <title>20&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">22.35</s:price>
+      <s:sku/>
+      <s:grams>288</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4742421381200</id>
+      <title>20&quot; x 5 yards</title>
+      <s:price currency="CAD">108.00</s:price>
+      <s:sku/>
+      <s:grams>2880</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4742421381200</id>
+      <title>20&quot; x 10 yards</title>
+      <s:price currency="CAD">200.00</s:price>
+      <s:sku/>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/4742417678416</id>
+    <published>2020-07-14T15:40:18-04:00</published>
+    <updated>2020-07-14T15:40:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/gl-401-multi-light-siser-glitter-htv"/>
+    <title>GL-401 Multi Light - Siser Glitter HTV</title>
+    <s:type>Siser Glitter</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/LightMultiGlitter.jpg?v=1594756204"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser Glitter<br>
+        <strong>Price: </strong>
+            2.10 - 190.00
+            <a href="https://scriptdesigns.myshopify.com/products/gl-401-multi-light-siser-glitter-htv">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul></ul>
+<div> </div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adhesive</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>cold peel</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>Easy</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>glitter</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>heat press</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>roll</s:tag>
+    <s:tag>rolls</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>Scriptdesigns</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>siser glitter</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4742417678416</id>
+      <title>10&quot; x 6&quot;</title>
+      <s:price currency="CAD">2.10</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4742417678416</id>
+      <title>10&quot; x 12&quot;</title>
+      <s:price currency="CAD">3.85</s:price>
+      <s:sku/>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4742417678416</id>
+      <title>10&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">11.40</s:price>
+      <s:sku/>
+      <s:grams>144</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4742417678416</id>
+      <title>20&apos;&apos; x 12&apos;&apos;</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku/>
+      <s:grams>96</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4742417678416</id>
+      <title>20&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku/>
+      <s:grams>288</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4742417678416</id>
+      <title>20&quot; x 5 yards</title>
+      <s:price currency="CAD">102.00</s:price>
+      <s:sku/>
+      <s:grams>2880</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4742417678416</id>
+      <title>20&quot; x 10 yards</title>
+      <s:price currency="CAD">190.00</s:price>
+      <s:sku/>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/4455170932816</id>
+    <published>2020-01-29T15:04:21-05:00</published>
+    <updated>2020-01-29T15:04:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/copy-of-gl-12-gold-siser-glitter-htv"/>
+    <title>GL-17 Gold Confetti - Siser Glitter HTV</title>
+    <s:type>Siser Glitter</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Gold_Confetti.jpg?v=1580328592"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser Glitter<br>
+        <strong>Price: </strong>
+            2.10 - 190.00
+            <a href="https://scriptdesigns.myshopify.com/products/copy-of-gl-12-gold-siser-glitter-htv">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adhesive</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>cold peel</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>Easy</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>glitter</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>heat press</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>Scriptdesigns</s:tag>
+    <s:tag>sign</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>siser glitter</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4455170932816</id>
+      <title>10&quot; x 6&quot;</title>
+      <s:price currency="CAD">2.10</s:price>
+      <s:sku>SISER-GL-12-10X6</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4455170932816</id>
+      <title>10&quot; x 12&quot;</title>
+      <s:price currency="CAD">3.85</s:price>
+      <s:sku>SISER-GL-12-10X12</s:sku>
+      <s:grams>49</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4455170932816</id>
+      <title>10&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">11.40</s:price>
+      <s:sku>SISER-GL-12-10X1yrd</s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4455170932816</id>
+      <title>20&quot; x 12&apos;&apos;</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku>SISER-GL-12-20x12</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4455170932816</id>
+      <title>20&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>SISER-GL-12-20x1yrd</s:sku>
+      <s:grams>285</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4455170932816</id>
+      <title>20&quot; x 5 yards</title>
+      <s:price currency="CAD">102.00</s:price>
+      <s:sku>SISER-GL-12-20x5yrds</s:sku>
+      <s:grams>2880</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4455170932816</id>
+      <title>20&quot; x 10 yards</title>
+      <s:price currency="CAD">190.00</s:price>
+      <s:sku>SISER-GL-12-20x10yrds</s:sku>
+      <s:grams>5780</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/126222237702</id>
+    <published>2018-01-30T17:28:22-05:00</published>
+    <updated>2018-01-30T17:28:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/gl-28-mermaid-siser-glitter-htv"/>
+    <title>GL-28 Mermaid - Siser Glitter HTV</title>
+    <s:type>Siser Glitter</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/MermaidBlue_250.jpg?v=1517350658"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser Glitter<br>
+        <strong>Price: </strong>
+            2.10 - 190.00
+            <a href="https://scriptdesigns.myshopify.com/products/gl-28-mermaid-siser-glitter-htv">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adhesive</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>cold peel</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>Easy</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>glitter</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>heat press</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>jade</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>mermaid</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>Scriptdesigns</s:tag>
+    <s:tag>sign</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>sirène</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>siser glitter</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/126222237702</id>
+      <title>10&quot; x 6&quot;</title>
+      <s:price currency="CAD">2.10</s:price>
+      <s:sku>SISER-GL-28-10x6</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/126222237702</id>
+      <title>10&quot; x 12&quot;</title>
+      <s:price currency="CAD">3.85</s:price>
+      <s:sku>SISER-GL-28-10x12</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/126222237702</id>
+      <title>10&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">11.40</s:price>
+      <s:sku>SISER-GL-28-10x1yrd</s:sku>
+      <s:grams>144</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/126222237702</id>
+      <title>20&apos;&apos; x 12&apos;&apos;</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku>SISER-GL-28-20x12</s:sku>
+      <s:grams>96</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/126222237702</id>
+      <title>20&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>SISER-GL-28-20x1yrd</s:sku>
+      <s:grams>288</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/126222237702</id>
+      <title>20&quot; x 5 yards</title>
+      <s:price currency="CAD">102.00</s:price>
+      <s:sku>SISER-GL-28-20x5yrds</s:sku>
+      <s:grams>2880</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/126222237702</id>
+      <title>20&quot; x 10 yards</title>
+      <s:price currency="CAD">190.00</s:price>
+      <s:sku>SISER-GL-28-20x10yrds</s:sku>
+      <s:grams>5760</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/126223417350</id>
+    <published>2018-01-30T17:28:06-05:00</published>
+    <updated>2018-01-30T17:28:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/gl-29-lemon-sugar-siser-glitter-htv"/>
+    <title>GL-29 Lemon Sugar - Siser Glitter HTV</title>
+    <s:type>Siser Glitter</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/LemonSugar_250.jpg?v=1517351133"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser Glitter<br>
+        <strong>Price: </strong>
+            2.10 - 190.00
+            <a href="https://scriptdesigns.myshopify.com/products/gl-29-lemon-sugar-siser-glitter-htv">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adhesive</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Citron</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>cold peel</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>Easy</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>glitter</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>heat press</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>jade</s:tag>
+    <s:tag>Lemon Sugar</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>Scriptdesigns</s:tag>
+    <s:tag>sign</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>siser glitter</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/126223417350</id>
+      <title>10&quot; x 6&quot;</title>
+      <s:price currency="CAD">2.10</s:price>
+      <s:sku>SISER-GL-29-10x6</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/126223417350</id>
+      <title>10&quot; x 12&quot;</title>
+      <s:price currency="CAD">3.85</s:price>
+      <s:sku>SISER-GL-29-10x12</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/126223417350</id>
+      <title>10&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">11.40</s:price>
+      <s:sku>SISER-GL-29-10x1yrd</s:sku>
+      <s:grams>144</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/126223417350</id>
+      <title>20&apos;&apos; x 12&apos;&apos;</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku>SISER-GL-29-20x12</s:sku>
+      <s:grams>96</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/126223417350</id>
+      <title>20&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>SISER-GL-29-20x1yrd</s:sku>
+      <s:grams>288</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/126223417350</id>
+      <title>20&quot; x 5 yards</title>
+      <s:price currency="CAD">102.00</s:price>
+      <s:sku>SISER-GL-29-20x5yrds</s:sku>
+      <s:grams>2880</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/126223417350</id>
+      <title>20&quot; x 10 yards</title>
+      <s:price currency="CAD">190.00</s:price>
+      <s:sku>SISER-GL-29-20x10yrds</s:sku>
+      <s:grams>5760</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/5835094470</id>
+    <published>2017-08-19T19:32:58-04:00</published>
+    <updated>2017-08-19T19:32:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/40-black-gold-siser-glitter-htv"/>
+    <title>GL-40 Black Gold - Siser Glitter HTV</title>
+    <s:type>Siser Glitter</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/GlitterBlackGold.jpg?v=1491669016"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser Glitter<br>
+        <strong>Price: </strong>
+            2.10 - 190.00
+            <a href="https://scriptdesigns.myshopify.com/products/40-black-gold-siser-glitter-htv">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adhesive</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>Black gold</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>cold peel</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>Easy</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>glitter</s:tag>
+    <s:tag>gold</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>heat press</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>ScriptDesigns</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>siser glitter</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5835094470</id>
+      <title>10&quot; x 6&quot;</title>
+      <s:price currency="CAD">2.10</s:price>
+      <s:sku>SISER-GL-40-10x5</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5835094470</id>
+      <title>10&quot; x 12&quot;</title>
+      <s:price currency="CAD">3.85</s:price>
+      <s:sku>SISER-GL-40-10x12</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5835094470</id>
+      <title>10&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">11.40</s:price>
+      <s:sku>SISER-GL-40-10x1yrd</s:sku>
+      <s:grams>144</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5835094470</id>
+      <title>20&quot; x 12&apos;&apos;</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku>SISER-GL-40-20x12</s:sku>
+      <s:grams>96</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5835094470</id>
+      <title>20&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>SISER-GL-40-20x1yrd</s:sku>
+      <s:grams>288</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5835094470</id>
+      <title>20&quot; x 5 yards</title>
+      <s:price currency="CAD">102.00</s:price>
+      <s:sku>SISER-GL-40-20x5yrds</s:sku>
+      <s:grams>2880</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5835094470</id>
+      <title>20&quot; x 10 yards</title>
+      <s:price currency="CAD">190.00</s:price>
+      <s:sku>SISER-GL-40-20x10yrds</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/9944755718</id>
+    <published>2017-03-15T13:17:00-04:00</published>
+    <updated>2017-03-15T13:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/htv-glitter-bundle-make-your-own-dozen-10x12-sheets"/>
+    <title>SISER Glitter Bundle - Make your Own Dozen</title>
+    <s:type>Siser Glitter</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/glitter_Siser_da5c8e52-0c2e-46e7-af61-ec8dfe7748ac.jpg?v=1489361006"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser Glitter<br>
+        <strong>Price: </strong>
+            47.40 - 136.80
+            <a href="https://scriptdesigns.myshopify.com/products/htv-glitter-bundle-make-your-own-dozen-10x12-sheets">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Having difficulty selecting a colour? </p>
+<p>Just starting and wanting to experiment with different colours?</p>
+<p>The "Make your Own Dozen" Glitter bundle may be your solution!  You get to select 12 different colours in either the 10"x12" size or the 20"x12" size.  <br></p>
+<p>Please select your 12 colours by clicking on the applicable checkboxes.</p>
+<p>Unfortunately, pictures do not represent the depth of colour and the intensity of the sparkle offered by this product.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bundle</s:tag>
+    <s:tag>choices</s:tag>
+    <s:tag>dozen</s:tag>
+    <s:tag>glitter</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>Make your own</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/9944755718</id>
+      <title>10&quot;x12&quot;</title>
+      <s:price currency="CAD">47.40</s:price>
+      <s:sku>Glibdl-makedozen10x12/march1517</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/9944755718</id>
+      <title>20&quot;x12&quot;</title>
+      <s:price currency="CAD">83.40</s:price>
+      <s:sku>Glibdl-makedozen20x12/march1517</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/9944755718</id>
+      <title>10&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">136.80</s:price>
+      <s:sku>Glibdl-makedozen-1yard/march1517</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/7500277702</id>
+    <published>2016-07-09T12:06:00-04:00</published>
+    <updated>2016-07-09T12:06:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/siser-htv-glitter-bundle"/>
+    <title>Siser HTV Glitter Bundles (47 colours)</title>
+    <s:type>Siser Glitter</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/siser_glitter_c4b179c0-a3ad-4a8e-b920-b2a2ec5ed464.jpg?v=1503186031"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser Glitter<br>
+        <strong>Price: </strong>
+            98.70 - 326.65
+            <a href="https://scriptdesigns.myshopify.com/products/siser-htv-glitter-bundle">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The full bundle of Siser Glitter HTV contains 47 sheets; one of each colour we have in our collection.  </p>
+<p>Unfortunately, pictures do not represent the depth of colour and the intensity of the sparkle offered by this product.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bundle</s:tag>
+    <s:tag>glitter</s:tag>
+    <s:tag>heat transfer</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>savings</s:tag>
+    <s:tag>siser</s:tag>
+    <s:tag>sparkle</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/7500277702</id>
+      <title>10&quot;×12&quot;</title>
+      <s:price currency="CAD">180.95</s:price>
+      <s:sku>Glibdl-4910x12-20dec2018</s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/7500277702</id>
+      <title>12&quot;x20&quot;</title>
+      <s:price currency="CAD">326.65</s:price>
+      <s:sku>Glibdl-4912x20-20dec2018</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/7500277702</id>
+      <title>10&quot;x6&quot;</title>
+      <s:price currency="CAD">98.70</s:price>
+      <s:sku>Glibdl-49sh10x6-20dec2018</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/5638314182</id>
+    <published>2016-06-03T14:21:00-04:00</published>
+    <updated>2016-06-03T14:21:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/19-hot-pink-siser-glitter-htv-1"/>
+    <title>GL-19 Hot Pink - Siser Glitter HTV</title>
+    <s:type>Siser Glitter</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/glitterHotPink.jpg?v=1491668587"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser Glitter<br>
+        <strong>Price: </strong>
+            2.10 - 190.00
+            <a href="https://scriptdesigns.myshopify.com/products/19-hot-pink-siser-glitter-htv-1">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adhesive</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>cold peel</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>Easy</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>glitter</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>heat press</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>hot pink</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>Scriptdesigns</s:tag>
+    <s:tag>sign</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>siser glitter</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638314182</id>
+      <title>10&quot; x 6&quot;</title>
+      <s:price currency="CAD">2.10</s:price>
+      <s:sku>SISER-GL-19-10x5</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638314182</id>
+      <title>10&quot; x 12&quot;</title>
+      <s:price currency="CAD">3.85</s:price>
+      <s:sku>SISER-GL-19-10x12</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638314182</id>
+      <title>10&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">11.40</s:price>
+      <s:sku>SISER-GL-19-10x1yrd</s:sku>
+      <s:grams>144</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638314182</id>
+      <title>20&quot; x 12&apos;&apos;</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku>SISER-GL-19-20x12</s:sku>
+      <s:grams>96</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638314182</id>
+      <title>20&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>SISER-GL-19-20x1yrd</s:sku>
+      <s:grams>288</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638314182</id>
+      <title>20&quot;x5 yards</title>
+      <s:price currency="CAD">102.00</s:price>
+      <s:sku>SISER-GL-19-20x5yrds</s:sku>
+      <s:grams>2880</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638314182</id>
+      <title>20&quot; x 10 yards</title>
+      <s:price currency="CAD">190.00</s:price>
+      <s:sku>SISER-GL-19-20x10yrds</s:sku>
+      <s:grams>5780</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/5638231238</id>
+    <published>2016-04-29T13:40:00-04:00</published>
+    <updated>2016-04-29T13:40:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/12-gold-siser-glitter-htv"/>
+    <title>GL-12 Gold - Siser Glitter HTV</title>
+    <s:type>Siser Glitter</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/glitterGold.jpg?v=1491668485"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser Glitter<br>
+        <strong>Price: </strong>
+            2.10 - 190.00
+            <a href="https://scriptdesigns.myshopify.com/products/12-gold-siser-glitter-htv">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adhesive</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>cold peel</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>Easy</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>glitter</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>heat press</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>Scriptdesigns</s:tag>
+    <s:tag>sign</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>siser glitter</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638231238</id>
+      <title>10&quot; x 6&quot;</title>
+      <s:price currency="CAD">2.10</s:price>
+      <s:sku>SISER-GL-12-10X6</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638231238</id>
+      <title>10&quot; x 12&quot;</title>
+      <s:price currency="CAD">3.85</s:price>
+      <s:sku>SISER-GL-12-10X12</s:sku>
+      <s:grams>49</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638231238</id>
+      <title>10&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">11.40</s:price>
+      <s:sku>SISER-GL-12-10X1yrd</s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638231238</id>
+      <title>20&quot; x 12&apos;&apos;</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku>SISER-GL-12-20x12</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638231238</id>
+      <title>20&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>SISER-GL-12-20x1yrd</s:sku>
+      <s:grams>285</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638231238</id>
+      <title>20&quot; x 5 yards</title>
+      <s:price currency="CAD">102.00</s:price>
+      <s:sku>SISER-GL-12-20x5yrds</s:sku>
+      <s:grams>2880</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638231238</id>
+      <title>20&quot; x 10 yards</title>
+      <s:price currency="CAD">190.00</s:price>
+      <s:sku>SISER-GL-12-20x10yrds</s:sku>
+      <s:grams>5780</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/5638441158</id>
+    <published>2016-04-27T16:55:00-04:00</published>
+    <updated>2016-04-27T16:55:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/25-old-gold-siser-glitter-htv"/>
+    <title>GL-25 Old Gold - Siser Glitter HTV</title>
+    <s:type>Siser Glitter</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/glitterOldGold.jpg?v=1491668637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser Glitter<br>
+        <strong>Price: </strong>
+            2.10 - 190.00
+            <a href="https://scriptdesigns.myshopify.com/products/25-old-gold-siser-glitter-htv">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adhesive</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>cold peel</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>Easy</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>glitter</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>heat press</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>hot pink</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>Scriptdesigns</s:tag>
+    <s:tag>sign</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>siser glitter</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638441158</id>
+      <title>10&quot; x 6&quot;</title>
+      <s:price currency="CAD">2.10</s:price>
+      <s:sku>SISER-GL-25-10x5</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638441158</id>
+      <title>10&quot; x 12&quot;</title>
+      <s:price currency="CAD">3.85</s:price>
+      <s:sku>SISER-GL-25-10x12</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638441158</id>
+      <title>10&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">11.40</s:price>
+      <s:sku>SISER-GL-25-10x1yrd</s:sku>
+      <s:grams>144</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638441158</id>
+      <title>20&quot; x 12&apos;&apos;</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku>SISER-GL-25-20x12</s:sku>
+      <s:grams>96</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638441158</id>
+      <title>20&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>SISER-GL-25-20x1yrd</s:sku>
+      <s:grams>288</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638441158</id>
+      <title>20&quot; x 5 yards</title>
+      <s:price currency="CAD">102.00</s:price>
+      <s:sku>SISER-GL-25-20x5yrds</s:sku>
+      <s:grams>1440</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638441158</id>
+      <title>20&quot; x 10 yards</title>
+      <s:price currency="CAD">190.00</s:price>
+      <s:sku>SISER-GL-25-20x10yrds</s:sku>
+      <s:grams>2880</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/5638472262</id>
+    <published>2016-04-27T16:51:00-04:00</published>
+    <updated>2016-04-27T16:51:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/32-confetti-siser-glitter-htv"/>
+    <title>GL-32 Confetti - Siser Glitter HTV</title>
+    <s:type>Siser Glitter</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/glitterConfetti.jpg?v=1491668977"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser Glitter<br>
+        <strong>Price: </strong>
+            2.10 - 190.00
+            <a href="https://scriptdesigns.myshopify.com/products/32-confetti-siser-glitter-htv">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adhesive</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>cold peel</s:tag>
+    <s:tag>confetti</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>Easy</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>glitter</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>heat press</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>hot pink</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>Scriptdesigns</s:tag>
+    <s:tag>sign</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>siser glitter</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638472262</id>
+      <title>10&quot; x 6&quot;</title>
+      <s:price currency="CAD">2.10</s:price>
+      <s:sku>SISER-GL-32-10x5</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638472262</id>
+      <title>10&quot; x 12&quot;</title>
+      <s:price currency="CAD">3.85</s:price>
+      <s:sku>SISER-GL-32-10x12</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638472262</id>
+      <title>10&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">11.50</s:price>
+      <s:sku>SISER-GL-32-10x1yrd</s:sku>
+      <s:grams>144</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638472262</id>
+      <title>20&quot; x 12&apos;&apos;</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku>SISER-GL-32-20x12</s:sku>
+      <s:grams>96</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638472262</id>
+      <title>20&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>SISER-GL-32-20x1yrd</s:sku>
+      <s:grams>288</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638472262</id>
+      <title>20&quot; x 5 yards</title>
+      <s:price currency="CAD">103.00</s:price>
+      <s:sku>SISER-GL-32-20x5yrds</s:sku>
+      <s:grams>2880</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638472262</id>
+      <title>20&quot; x 10 yards</title>
+      <s:price currency="CAD">190.00</s:price>
+      <s:sku>SISER-GL-32-20x10yrds</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/5835134918</id>
+    <published>2016-04-25T15:21:00-04:00</published>
+    <updated>2016-04-25T15:21:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/41-black-silver-siser-glitter-htv"/>
+    <title>GL-41 Black Silver - Siser Glitter HTV</title>
+    <s:type>Siser Glitter</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/glitterBlackSilver.jpg?v=1491669039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser Glitter<br>
+        <strong>Price: </strong>
+            2.10 - 190.00
+            <a href="https://scriptdesigns.myshopify.com/products/41-black-silver-siser-glitter-htv">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adhesive</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>black silver</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>cold peel</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>Easy</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>glitter</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>heat press</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>Scriptdesigns</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>silver</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>siser glitter</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5835134918</id>
+      <title>10&quot; x 6&quot;</title>
+      <s:price currency="CAD">2.10</s:price>
+      <s:sku>SISER-GL-41-10x5</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5835134918</id>
+      <title>10&quot; x 12&quot;</title>
+      <s:price currency="CAD">3.85</s:price>
+      <s:sku>SISER-GL-41-10x12</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5835134918</id>
+      <title>10&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">11.40</s:price>
+      <s:sku>SISER-GL-41-10x1yrd</s:sku>
+      <s:grams>144</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5835134918</id>
+      <title>20&quot; x 12&apos;&apos;</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku>SISER-GL-41-20x12</s:sku>
+      <s:grams>96</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5835134918</id>
+      <title>20&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>SISER-GL-41-20x1yrd</s:sku>
+      <s:grams>288</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5835134918</id>
+      <title>20&quot; x 5 yards</title>
+      <s:price currency="CAD">102.00</s:price>
+      <s:sku>SISER-GL-41-20x5yrds</s:sku>
+      <s:grams>970</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5835134918</id>
+      <title>20&quot; x 10 yards</title>
+      <s:price currency="CAD">190.00</s:price>
+      <s:sku>SISER-GL-41-20x10yrds</s:sku>
+      <s:grams>1805</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/5835085510</id>
+    <published>2016-04-25T15:21:00-04:00</published>
+    <updated>2016-04-25T15:21:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/37-eggplant-siser-glitter-htv"/>
+    <title>GL-37 Eggplant - Siser Glitter HTV</title>
+    <s:type>Siser Glitter</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/glitterEggplant.jpg?v=1491668998"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser Glitter<br>
+        <strong>Price: </strong>
+            2.10 - 190.00
+            <a href="https://scriptdesigns.myshopify.com/products/37-eggplant-siser-glitter-htv">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adhesive</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>cold peel</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>Easy</s:tag>
+    <s:tag>Eggplant</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>glitter</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>heat press</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>ScriptDesigns</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>siser glitter</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5835085510</id>
+      <title>10&quot; x 6&quot;</title>
+      <s:price currency="CAD">2.10</s:price>
+      <s:sku>SISER-GL-37-10x5</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5835085510</id>
+      <title>10&quot; x 12&quot;</title>
+      <s:price currency="CAD">3.85</s:price>
+      <s:sku>SISER-GL-37-10x12</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5835085510</id>
+      <title>10&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">11.40</s:price>
+      <s:sku>SISER-GL-37-10x1yrd</s:sku>
+      <s:grams>144</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5835085510</id>
+      <title>20&quot; x 12&apos;&apos;</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku>SISER-GL-37-20x12</s:sku>
+      <s:grams>96</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5835085510</id>
+      <title>20&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>SISER-GL-37-20x1yrd</s:sku>
+      <s:grams>288</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5835085510</id>
+      <title>20&quot; x 5 yards</title>
+      <s:price currency="CAD">102.00</s:price>
+      <s:sku>SISER-GL-37-20x5yrds</s:sku>
+      <s:grams>2880</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5835085510</id>
+      <title>20&quot; x 10 yards</title>
+      <s:price currency="CAD">190.00</s:price>
+      <s:sku>SISER-GL-37-20x10yrds</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/5835107334</id>
+    <published>2016-04-25T15:20:00-04:00</published>
+    <updated>2016-04-25T15:20:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/35-translucent-pink-siser-glitter-htv"/>
+    <title>GL-65 Translucent Pink - Siser Glitter HTV</title>
+    <s:type>Siser Glitter</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/glitterTranslucentPink.jpg?v=1491669492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser Glitter<br>
+        <strong>Price: </strong>
+            2.10 - 190.00
+            <a href="https://scriptdesigns.myshopify.com/products/35-translucent-pink-siser-glitter-htv">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adhesive</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>cold peel</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>Easy</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>glitter</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>heat press</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>pale</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>ScriptDesigns</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>siser glitter</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>transluscent</s:tag>
+    <s:tag>transluscent pink</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5835107334</id>
+      <title>10&quot; x 6&quot;</title>
+      <s:price currency="CAD">2.10</s:price>
+      <s:sku>SISER-GL-65-10x5</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5835107334</id>
+      <title>10&quot; x 12&quot;</title>
+      <s:price currency="CAD">3.85</s:price>
+      <s:sku>SISER-GL-65-10x12</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5835107334</id>
+      <title>10&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">11.40</s:price>
+      <s:sku>SISER-GL-65-10x1yrd</s:sku>
+      <s:grams>144</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5835107334</id>
+      <title>20&quot; x 12&apos;&apos;</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>SISER-GL-65-20x12</s:sku>
+      <s:grams>96</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5835107334</id>
+      <title>20&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>SISER-GL-65-20x1yrd</s:sku>
+      <s:grams>288</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5835107334</id>
+      <title>20&quot; x 5 yards</title>
+      <s:price currency="CAD">102.00</s:price>
+      <s:sku>SISER-GL-65-20x5yrds</s:sku>
+      <s:grams>2880</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5835107334</id>
+      <title>20&quot; x 10 yards</title>
+      <s:price currency="CAD">190.00</s:price>
+      <s:sku>SISER-GL-65-20x10yrds</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/5835098438</id>
+    <published>2016-04-08T17:53:00-04:00</published>
+    <updated>2016-04-08T17:53:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/64-grass-siser-glitter-htv"/>
+    <title>GL-64 Grass - Siser Glitter HTV</title>
+    <s:type>Siser Glitter</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/glitterGrass.jpg?v=1491669469"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser Glitter<br>
+        <strong>Price: </strong>
+            2.10 - 190.00
+            <a href="https://scriptdesigns.myshopify.com/products/64-grass-siser-glitter-htv">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adhesive</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>cold peel</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>Easy</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>glitter</s:tag>
+    <s:tag>grass</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>heat press</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>ScriptDesigns</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>siser glitter</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5835098438</id>
+      <title>10&quot; x 6&quot;</title>
+      <s:price currency="CAD">2.10</s:price>
+      <s:sku>SISER-GL-64-10x5</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5835098438</id>
+      <title>10&quot; x 12&quot;</title>
+      <s:price currency="CAD">3.85</s:price>
+      <s:sku>SISER-GL-64-10x12</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5835098438</id>
+      <title>10&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">11.40</s:price>
+      <s:sku>SISER-GL-64-10x1yrd</s:sku>
+      <s:grams>144</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5835098438</id>
+      <title>20&quot; x 12&apos;&apos;</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku>SISER-GL-64-20x12</s:sku>
+      <s:grams>96</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5835098438</id>
+      <title>20&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>SISER-GL-64-20x1yrd</s:sku>
+      <s:grams>288</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5835098438</id>
+      <title>20&quot; x 5 yards</title>
+      <s:price currency="CAD">102.00</s:price>
+      <s:sku>SISER-GL-64-20x5yrds</s:sku>
+      <s:grams>2880</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5835098438</id>
+      <title>20&quot; x 10 yards</title>
+      <s:price currency="CAD">190.00</s:price>
+      <s:sku>SISER-GL-64-20x10yrds</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/5638251526</id>
+    <published>2016-04-08T17:53:00-04:00</published>
+    <updated>2016-04-08T17:53:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/15-purple-siser-glitter-htv"/>
+    <title>GL-15 Purple - Siser Glitter HTV</title>
+    <s:type>Siser Glitter</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/glitterPurple.jpg?v=1491668543"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser Glitter<br>
+        <strong>Price: </strong>
+            2.10 - 190.00
+            <a href="https://scriptdesigns.myshopify.com/products/15-purple-siser-glitter-htv">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adhesive</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>cold peel</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>Easy</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>glitter</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>heat press</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>Scriptdesigns</s:tag>
+    <s:tag>sign</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>siser glitter</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638251526</id>
+      <title>10&quot; x 6&quot;</title>
+      <s:price currency="CAD">2.10</s:price>
+      <s:sku>SISER-GL-15-10x5</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638251526</id>
+      <title>10&quot; x 12&quot;</title>
+      <s:price currency="CAD">3.85</s:price>
+      <s:sku>SISER-GL-15-10x12</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638251526</id>
+      <title>10&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">11.40</s:price>
+      <s:sku>SISER-GL-15-10x1yrd</s:sku>
+      <s:grams>144</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638251526</id>
+      <title>20&quot; x 12&apos;&apos;</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku>SISER-GL-15-20x12</s:sku>
+      <s:grams>96</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638251526</id>
+      <title>20&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>SISER-GL-15-20x1yrd</s:sku>
+      <s:grams>288</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638251526</id>
+      <title>20&quot; x 5 yards</title>
+      <s:price currency="CAD">102.00</s:price>
+      <s:sku>SISER-GL-15-20x5yrds</s:sku>
+      <s:grams>2880</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638251526</id>
+      <title>20&quot; x 10 yards</title>
+      <s:price currency="CAD">190.00</s:price>
+      <s:sku>SISER-GL-15-20x10yrds</s:sku>
+      <s:grams>5780</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/5638236614</id>
+    <published>2016-04-08T17:52:00-04:00</published>
+    <updated>2016-04-08T17:52:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/13-silver-siser-glitter-htv"/>
+    <title>GL-13 Silver - Siser Glitter HTV</title>
+    <s:type>Siser Glitter</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/glitterSilver.jpg?v=1491668503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser Glitter<br>
+        <strong>Price: </strong>
+            2.10 - 190.00
+            <a href="https://scriptdesigns.myshopify.com/products/13-silver-siser-glitter-htv">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adhesive</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>cold peel</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>Easy</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>glitter</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>heat press</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>Scriptdesigns</s:tag>
+    <s:tag>sign</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>siser glitter</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638236614</id>
+      <title>10&quot; x 6&quot;</title>
+      <s:price currency="CAD">2.10</s:price>
+      <s:sku>SISER-GL-13-10x5</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638236614</id>
+      <title>10&quot; x 12&quot;</title>
+      <s:price currency="CAD">3.85</s:price>
+      <s:sku>SISER-GL-13-10x12</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638236614</id>
+      <title>10&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">11.40</s:price>
+      <s:sku>SISER-GL-13-10x1yrd</s:sku>
+      <s:grams>144</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638236614</id>
+      <title>20&quot; x 12&apos;&apos;</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku>SISER-GL-13-20x12</s:sku>
+      <s:grams>96</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638236614</id>
+      <title>20&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>SISER-GL-13-20x1yrd</s:sku>
+      <s:grams>288</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638236614</id>
+      <title>20&quot; x 5 yards</title>
+      <s:price currency="CAD">102.00</s:price>
+      <s:sku>SISER-GL-13-20x5yrds</s:sku>
+      <s:grams>970</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638236614</id>
+      <title>20&quot; x 10 yards</title>
+      <s:price currency="CAD">190.00</s:price>
+      <s:sku>SISER-GL-13-20x10yrds</s:sku>
+      <s:grams>1805</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/5638210630</id>
+    <published>2016-04-08T17:51:00-04:00</published>
+    <updated>2016-04-08T17:51:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/10-aqua-siser-glitter-htv"/>
+    <title>GL-10 Aqua - Siser Glitter HTV</title>
+    <s:type>Siser Glitter</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/glitterAqua.jpg?v=1491668444"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser Glitter<br>
+        <strong>Price: </strong>
+            2.10 - 190.00
+            <a href="https://scriptdesigns.myshopify.com/products/10-aqua-siser-glitter-htv">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adhesive</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>cold peel</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>Easy</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>glitter</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>heat press</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>Scriptdesigns</s:tag>
+    <s:tag>sign</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>siser glitter</s:tag>
+    <s:tag>teal</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>turquoise</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638210630</id>
+      <title>10&quot; x 6&quot;</title>
+      <s:price currency="CAD">2.10</s:price>
+      <s:sku>SISER-GL-10-10x6</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638210630</id>
+      <title>10&quot; x 12&quot;</title>
+      <s:price currency="CAD">3.85</s:price>
+      <s:sku>SISER-GL-10-10x12</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638210630</id>
+      <title>10&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">11.40</s:price>
+      <s:sku>SISER-GL-10-10x1yrd</s:sku>
+      <s:grams>144</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638210630</id>
+      <title>20&quot; x 12&apos;&apos;</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku>SISER-GL-10-20x12</s:sku>
+      <s:grams>96</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638210630</id>
+      <title>20&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>SISER-GL-10-20-1yrd</s:sku>
+      <s:grams>288</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638210630</id>
+      <title>20&quot; x 5 yards</title>
+      <s:price currency="CAD">102.00</s:price>
+      <s:sku>SISER-GL-10-20x5yrds</s:sku>
+      <s:grams>2880</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638210630</id>
+      <title>20&quot; x 10 yards</title>
+      <s:price currency="CAD">190.00</s:price>
+      <s:sku>SISER-GL-10-20x10yrds</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/5638206662</id>
+    <published>2016-04-08T17:51:00-04:00</published>
+    <updated>2016-04-08T17:51:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/09-blush-siser-glitter-htv"/>
+    <title>GL-09 Blush - Siser Glitter HTV</title>
+    <s:type>Siser Glitter</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/glitterBlush.jpg?v=1491668425"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser Glitter<br>
+        <strong>Price: </strong>
+            2.10 - 190.00
+            <a href="https://scriptdesigns.myshopify.com/products/09-blush-siser-glitter-htv">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adhesive</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>blush</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>carnation pink</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>cold peel</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>Easy</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>glitter</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>heat press</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>Scriptdesigns</s:tag>
+    <s:tag>sign</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>siser glitter</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638206662</id>
+      <title>10&quot; x 6&quot;</title>
+      <s:price currency="CAD">2.10</s:price>
+      <s:sku>SISER-GL-09-10x6</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638206662</id>
+      <title>10&quot; x 12&quot;</title>
+      <s:price currency="CAD">3.85</s:price>
+      <s:sku>SISER-GL-09-10x12</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638206662</id>
+      <title>10&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">11.40</s:price>
+      <s:sku>SISER-GL-09-10x1yrd</s:sku>
+      <s:grams>144</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638206662</id>
+      <title>20&quot; x 12&apos;&apos;</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku>SISER-GL--09-20x12</s:sku>
+      <s:grams>96</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638206662</id>
+      <title>20&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>SISER-GL-09-20x1yrd</s:sku>
+      <s:grams>288</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638206662</id>
+      <title>20&quot; x 5 yards</title>
+      <s:price currency="CAD">102.00</s:price>
+      <s:sku>SISER-GL-09-20x5yrds</s:sku>
+      <s:grams>2880</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5638206662</id>
+      <title>20&quot; x 10 yards</title>
+      <s:price currency="CAD">190.00</s:price>
+      <s:sku>SISER-GL-09-20x10yrds</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/2385505321040</id>
+    <published>2016-04-08T17:50:00-04:00</published>
+    <updated>2016-04-08T17:50:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/gl-45-rainbow-plum-siser-glitter-htv"/>
+    <title>GL-45 Rainbow Plum - Siser Glitter HTV</title>
+    <s:type>Siser Glitter</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/GL-45-Rainbow-Plum.jpg?v=1545337802"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser Glitter<br>
+        <strong>Price: </strong>
+            2.10 - 190.00
+            <a href="https://scriptdesigns.myshopify.com/products/gl-45-rainbow-plum-siser-glitter-htv">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adhesive</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>cold peel</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>Easy</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>glitter</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>heat press</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>Plum</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>roll</s:tag>
+    <s:tag>rolls</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>Scriptdesigns</s:tag>
+    <s:tag>sign</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>siser glitter</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/2385505321040</id>
+      <title>10&quot; x 6&quot;</title>
+      <s:price currency="CAD">2.10</s:price>
+      <s:sku>SISER-GL-45-10x6</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/2385505321040</id>
+      <title>10&quot; x 12&quot;</title>
+      <s:price currency="CAD">3.85</s:price>
+      <s:sku>SISER-GL-45-10x12</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/2385505321040</id>
+      <title>10&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">11.40</s:price>
+      <s:sku>SISER-GL-45-10x1yrd</s:sku>
+      <s:grams>144</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/2385505321040</id>
+      <title>20&apos;&apos; x 12&apos;&apos;</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku>SISER-GL-45-20x12</s:sku>
+      <s:grams>96</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/2385505321040</id>
+      <title>20&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>SISER-GL-45-20x1yrd</s:sku>
+      <s:grams>288</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/2385505321040</id>
+      <title>20&quot; x 5 yards</title>
+      <s:price currency="CAD">102.00</s:price>
+      <s:sku>SISER-GL-45-20x5yrds</s:sku>
+      <s:grams>2880</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/2385505321040</id>
+      <title>20&quot; x 10 yards</title>
+      <s:price currency="CAD">190.00</s:price>
+      <s:sku>SISER-GL-45-20x10yrds</s:sku>
+      <s:grams>5760</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/2385502470224</id>
+    <published>2016-04-08T17:50:00-04:00</published>
+    <updated>2016-04-08T17:50:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/gl-46-rainbow-coral-siser-glitter-htv"/>
+    <title>GL-46 Flamingo Pink - Siser Glitter HTV</title>
+    <s:type>Siser Glitter</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/GL-46-Flamingo-Pink.jpg?v=1546953955"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser Glitter<br>
+        <strong>Price: </strong>
+            2.10 - 190.00
+            <a href="https://scriptdesigns.myshopify.com/products/gl-46-rainbow-coral-siser-glitter-htv">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adhesive</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>champagne</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>cold peel</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>Easy</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>glitter</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>heat press</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>roll</s:tag>
+    <s:tag>rolls</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>Scriptdesigns</s:tag>
+    <s:tag>sign</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>siser glitter</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/2385502470224</id>
+      <title>10&quot; x 6&quot;</title>
+      <s:price currency="CAD">2.10</s:price>
+      <s:sku>SISER-GL-46-10x6</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/2385502470224</id>
+      <title>10&quot; x 12&quot;</title>
+      <s:price currency="CAD">3.85</s:price>
+      <s:sku>SISER-GL-46-10x12</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/2385502470224</id>
+      <title>10&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">11.40</s:price>
+      <s:sku>SISER-GL-46-10x1yrd</s:sku>
+      <s:grams>144</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/2385502470224</id>
+      <title>20&apos;&apos; x 12&apos;&apos;</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku>SISER-GL-46-20x12</s:sku>
+      <s:grams>96</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/2385502470224</id>
+      <title>20&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>SISER-GL-46-20x1yrd</s:sku>
+      <s:grams>288</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/2385502470224</id>
+      <title>20&quot; x 5 yards</title>
+      <s:price currency="CAD">102.00</s:price>
+      <s:sku>SISER-GL-46-20x5yrds</s:sku>
+      <s:grams>2880</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/2385502470224</id>
+      <title>20&quot; x 10 yards</title>
+      <s:price currency="CAD">190.00</s:price>
+      <s:sku>SISER-GL-46-20x10yrds</s:sku>
+      <s:grams>5760</s:grams>
+    </s:variant>
+  </entry>
+</feed>

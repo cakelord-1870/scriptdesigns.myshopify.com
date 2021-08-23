@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://scriptdesigns.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://scriptdesigns.myshopify.com/collections/siser-new-holographic-pearl-collection.atom"/>
+  <title>ScriptDesigns</title>
+  <updated>2021-02-19T15:49:47-05:00</updated>
+  <author>
+    <name>ScriptDesigns</name>
+  </author>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/4877299417168</id>
+    <published>2021-02-19T15:49:47-05:00</published>
+    <updated>2021-02-19T15:49:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/new-holographic-firelit-pearl-siser-holographic"/>
+    <title>New Holographic Firelit Pearl - Siser Holographic</title>
+    <s:type>Siser Holographic HTV</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/FirelitPearl.jpg?v=1613768063"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser Holographic HTV<br>
+        <strong>Price: </strong>
+            2.95 - 13.50
+            <a href="https://scriptdesigns.myshopify.com/products/new-holographic-firelit-pearl-siser-holographic">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A New Dimension in Heat Transfer Materials!</p>
+<p>Holographic by Siser is a new dimension in heat transfer vinyl. Holographic is available in many special effect colors and finishes that will take your designs to a new level. Love the look of rhinestones but don’t want to go through all the hassle? Holographic can be cut to look exactly like rhinestones, without having to go through all the extra work associated with creating rhinestone designs. The Holographic line also features our Spectrum material. Spectrum is unlike any other material, giving your designs a mirror, rainbow finish..</p>
+<p>Holographic is <strong>CPSIA Certified</strong>, so it's perfect for decorating items intended for children. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adhesive</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>cold peel</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>Holographic</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>Scriptdesigns</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4877299417168</id>
+      <title>10&quot; x 12&quot;</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4877299417168</id>
+      <title>20&quot; x 12&quot;</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku/>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4877299417168</id>
+      <title>20&quot; x 24&quot;</title>
+      <s:price currency="CAD">9.50</s:price>
+      <s:sku/>
+      <s:grams>96</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4877299417168</id>
+      <title>20&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku/>
+      <s:grams>144</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/4877299318864</id>
+    <published>2021-02-19T15:49:22-05:00</published>
+    <updated>2021-02-19T15:49:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/new-holographic-mystic-pearl-siser-holographic"/>
+    <title>New Holographic Mystic Pearl - Siser Holographic</title>
+    <s:type>Siser Holographic HTV</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/MysticPearl.jpg?v=1613767770"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser Holographic HTV<br>
+        <strong>Price: </strong>
+            2.95 - 13.50
+            <a href="https://scriptdesigns.myshopify.com/products/new-holographic-mystic-pearl-siser-holographic">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A New Dimension in Heat Transfer Materials!</p>
+<p>Holographic by Siser is a new dimension in heat transfer vinyl. Holographic is available in many special effect colors and finishes that will take your designs to a new level. Love the look of rhinestones but don’t want to go through all the hassle? Holographic can be cut to look exactly like rhinestones, without having to go through all the extra work associated with creating rhinestone designs. The Holographic line also features our Spectrum material. Spectrum is unlike any other material, giving your designs a mirror, rainbow finish..</p>
+<p>Holographic is <strong>CPSIA Certified</strong>, so it's perfect for decorating items intended for children. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adhesive</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>cold peel</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>Holographic</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>Scriptdesigns</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4877299318864</id>
+      <title>10&quot; x 12&quot;</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4877299318864</id>
+      <title>20&quot; x 12&quot;</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku/>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4877299318864</id>
+      <title>20&quot; x 24&quot;</title>
+      <s:price currency="CAD">9.50</s:price>
+      <s:sku/>
+      <s:grams>96</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4877299318864</id>
+      <title>20&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku/>
+      <s:grams>144</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/4877299286096</id>
+    <published>2021-02-19T15:48:40-05:00</published>
+    <updated>2021-02-19T15:48:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/new-holographic-tropical-pearl-siser-holographic"/>
+    <title>New Holographic Tropical Pearl - Siser Holographic</title>
+    <s:type>Siser Holographic HTV</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/TropicalPearl.jpg?v=1613767734"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser Holographic HTV<br>
+        <strong>Price: </strong>
+            2.95 - 13.50
+            <a href="https://scriptdesigns.myshopify.com/products/new-holographic-tropical-pearl-siser-holographic">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A New Dimension in Heat Transfer Materials!</p>
+<p>Holographic by Siser is a new dimension in heat transfer vinyl. Holographic is available in many special effect colors and finishes that will take your designs to a new level. Love the look of rhinestones but don’t want to go through all the hassle? Holographic can be cut to look exactly like rhinestones, without having to go through all the extra work associated with creating rhinestone designs. The Holographic line also features our Spectrum material. Spectrum is unlike any other material, giving your designs a mirror, rainbow finish..</p>
+<p>Holographic is <strong>CPSIA Certified</strong>, so it's perfect for decorating items intended for children. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adhesive</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>cold peel</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>Holographic</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>Scriptdesigns</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4877299286096</id>
+      <title>10&quot; x 12&quot;</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4877299286096</id>
+      <title>20&quot; x 12&quot;</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku/>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4877299286096</id>
+      <title>20&quot; x 24&quot;</title>
+      <s:price currency="CAD">9.50</s:price>
+      <s:sku/>
+      <s:grams>96</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4877299286096</id>
+      <title>20&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku/>
+      <s:grams>144</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/4877299187792</id>
+    <published>2021-02-19T15:47:56-05:00</published>
+    <updated>2021-02-19T15:47:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/new-holographic-h491-moonlight-pearl-siser-holographic"/>
+    <title>New Holographic H491 Moonlight Pearl - Siser Holographic</title>
+    <s:type>Siser Holographic HTV</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/MoonlightPearl.jpg?v=1613767693"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser Holographic HTV<br>
+        <strong>Price: </strong>
+            2.95 - 13.50
+            <a href="https://scriptdesigns.myshopify.com/products/new-holographic-h491-moonlight-pearl-siser-holographic">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A New Dimension in Heat Transfer Materials!</p>
+<p>Holographic by Siser is a new dimension in heat transfer vinyl. Holographic is available in many special effect colors and finishes that will take your designs to a new level. Love the look of rhinestones but don’t want to go through all the hassle? Holographic can be cut to look exactly like rhinestones, without having to go through all the extra work associated with creating rhinestone designs. The Holographic line also features our Spectrum material. Spectrum is unlike any other material, giving your designs a mirror, rainbow finish..</p>
+<p>Holographic is <strong>CPSIA Certified</strong>, so it's perfect for decorating items intended for children. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adhesive</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>cold peel</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>Holographic</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>Scriptdesigns</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4877299187792</id>
+      <title>10&quot; x 12&quot;</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4877299187792</id>
+      <title>20&quot; x 12&quot;</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku/>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4877299187792</id>
+      <title>20&quot; x 24&quot;</title>
+      <s:price currency="CAD">9.50</s:price>
+      <s:sku/>
+      <s:grams>96</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4877299187792</id>
+      <title>20&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku/>
+      <s:grams>144</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/4877291356240</id>
+    <published>2021-02-19T15:05:17-05:00</published>
+    <updated>2021-02-19T15:05:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/hol-rainforest-pearl-siser-holographic"/>
+    <title>New Holographic Rainforest Pearl - Siser Holographic</title>
+    <s:type>Siser Holographic HTV</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/RainforestPearl.jpg?v=1613765150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Siser Holographic HTV<br>
+        <strong>Price: </strong>
+            2.95 - 13.50
+            <a href="https://scriptdesigns.myshopify.com/products/hol-rainforest-pearl-siser-holographic">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A New Dimension in Heat Transfer Materials!</p>
+<p>Holographic by Siser is a new dimension in heat transfer vinyl. Holographic is available in many special effect colors and finishes that will take your designs to a new level. Love the look of rhinestones but don’t want to go through all the hassle? Holographic can be cut to look exactly like rhinestones, without having to go through all the extra work associated with creating rhinestone designs. The Holographic line also features our Spectrum material. Spectrum is unlike any other material, giving your designs a mirror, rainbow finish..</p>
+<p>Holographic is <strong>CPSIA Certified</strong>, so it's perfect for decorating items intended for children. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adhesive</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>cold peel</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>Designs</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>heat</s:tag>
+    <s:tag>Heat transfer vinyl</s:tag>
+    <s:tag>Holographic</s:tag>
+    <s:tag>hot</s:tag>
+    <s:tag>hot peel</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>Script</s:tag>
+    <s:tag>script designs</s:tag>
+    <s:tag>Scriptdesigns</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>Siser</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Weed</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4877291356240</id>
+      <title>10&quot; x 12&quot;</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4877291356240</id>
+      <title>20&quot; x 12&quot;</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku/>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4877291356240</id>
+      <title>20&quot; x 24&quot;</title>
+      <s:price currency="CAD">9.50</s:price>
+      <s:sku/>
+      <s:grams>96</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4877291356240</id>
+      <title>20&quot; x 1 yard (36&quot;)</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku/>
+      <s:grams>144</s:grams>
+    </s:variant>
+  </entry>
+</feed>

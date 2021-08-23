@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://scriptdesigns.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://scriptdesigns.myshopify.com/collections/inkjet-transfer-papers.atom"/>
+  <title>ScriptDesigns</title>
+  <updated>2017-10-21T12:15:04-04:00</updated>
+  <author>
+    <name>ScriptDesigns</name>
+  </author>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/12154021190</id>
+    <published>2017-10-21T12:15:04-04:00</published>
+    <updated>2017-10-21T12:15:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/waterslide-clear-paper-for-inkjet-printers"/>
+    <title>Waterslide Clear Paper - Inktra (for hard surfaces)</title>
+    <s:type></s:type>
+    <s:vendor>Stahls</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/waterslide.JPG?v=1508603328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Stahls<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.00 - 18.75
+            <a href="https://scriptdesigns.myshopify.com/products/waterslide-clear-paper-for-inkjet-printers">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!-- 
+/stahls/content/inkjet-heat-transfer-paper-inktra-waterslide.asp
+--><!--    
+<link rel="icon" href="favicon.ico" type="image/x-icon" /> 
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+--><!-- [if IE]>
+    <script src="/stahls/content/scripts/html5.js"></script>
+    <![endif]--><!--mp_linkcode_begins--><!--mp_linkcode_ends--><!--â€“ mp_snippet_begins --><!--â€“ mp_snippet_ends --><!-- Start of SkyGlue Code --><!-- End of SkyGlue Code --><!-- Swiftype Conversion Tracking --><!-- Engage Web Tracking Code --><!-- Please insert the following code between your HTML document head tags to maintain a common reference to a unique visitor across one or more external web tracked sites. --><!-- Optionally uncomment the following code between your HTML document head tags if you use Engage Conversion Tracking (COT). --><!--<meta name="com.silverpop.cothost" content="pod8.ibmmarketingcloud.com" />--><!--<script src="http://contentz.mkt81.net/lp/static/js/iMAWebCookie.js?bc50888-15a62918b06-6681ada67421f5d3ed5e65517ed2e77a&h=www.pages08.net" type="text/javascript"></script>--><!-- For external web sites running under SSL protocol (https://) please uncomment this block and comment out the non-secure (http://) implementation. --><!-- Engage Web Tracking Code --><!-- Please insert the following code between your HTML document head tags to maintain a common reference to a unique visitor across one or more external web tracked sites. --><!-- Optionally uncomment the following code between your HTML document head tags if you use Engage Conversion Tracking (COT). --><!--<meta name="com.silverpop.cothost" content="pod8.ibmmarketingcloud.com" />--><!-- <script src="http://contentz.mkt81.net/lp/static/js/iMAWebCookie.js?bc50888-15a62918b06-6681ada67421f5d3ed5e65517ed2e77a&h=www.pages08.net" type="text/javascript"></script>--><!-- For external web sites running under SSL protocol (https://) please uncomment this block and comment out the non-secure (http://) implementation. -->
+<div class="container-mobile" id="container">
+<div class="content-main" id="main">
+<div style="padding-top: 5px;">
+<div itemscope="" itemtype="https://schema.org/Product">
+<div class="clearfix" id="product-home">
+<div>
+<div id="product-info">
+<div id="product-info-content">
+<div class="product-copy">
+<strong>Decorate hard goods without heat.</strong>
+<div class="container-mobile" id="container">
+<div class="content-main" id="main">
+<div style="padding-top: 5px;">
+<div itemscope="" itemtype="https://schema.org/Product">
+<div class="clearfix" id="product-home">
+<div>
+<div id="product-info">
+<div id="product-info-content">
+<div class="product-copy">
+<ul>
+<li>
+<div style="clear: both;">For glass, ceramic, metal, wood, plastic &amp; other hard substrates</div>
+</li>
+<li>
+<div style="clear: both;">Apply decoration by submerging design in water</div>
+</li>
+<li>
+<div style="clear: both;">Economical and easy to work with</div>
+</li>
+<li>For use with colour inkjet printer/copiers with or without fusion oil</li>
+</ul>
+<p>Each sheet measures 8.3" x 11.7"</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>inktra</s:tag>
+    <s:tag>paper</s:tag>
+    <s:tag>slide</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>water</s:tag>
+    <s:tag>Waterslide</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/12154021190</id>
+      <title>1</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>WaterslidePaper-8x11</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/12154021190</id>
+      <title>Bundle of 5</title>
+      <s:price currency="CAD">9.50</s:price>
+      <s:sku>WaterslidePaper-8x12</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/12154021190</id>
+      <title>Bundle of 10</title>
+      <s:price currency="CAD">18.75</s:price>
+      <s:sku>WaterslidePaper-8x13</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/1483643879504</id>
+    <published>2016-10-13T02:35:00-04:00</published>
+    <updated>2016-10-13T02:35:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/inktra-opaque-stretch"/>
+    <title>InkTra Opaque Stretch</title>
+    <s:type>InkTra Opaque</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Inktra_Opaque_Stretch.JPG?v=1535480474"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>InkTra Opaque<br>
+        <strong>Price: </strong>
+            3.25 - 14.60
+            <a href="https://scriptdesigns.myshopify.com/products/inktra-opaque-stretch">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff9900;"><strong>Stretch, rebound, and soft hand, even for dark garments.</strong></span></p>
+<p>Note that these transfer papers do not offer the same quality of print results and durability as professionally printed HTV decals.  </p>
+<ul>
+<li>Soft, flexible hand makes it great for thinner garments</li>
+<li>Excellent stretch and rebound</li>
+<li>Great washability</li>
+<li>For light or dark-coloured garments</li>
+</ul>
+<p> InkTra Opaque Stretch comes in individual 8 1/2 x11 inches sheets.  </p>
+<p><span style="text-decoration: underline;">Pressing Instructions</span></p>
+<ul>
+<li>Time: 30 seconds</li>
+<li>Temperature: 350°F/177°C</li>
+<li>Pressure: Low-Medium</li>
+<li>Peel: Cold</li>
+<li>Comments: Pre-heat garment</li>
+</ul>
+<p><span style="text-decoration: underline;">Material/Fabric Compatibility</span></p>
+<ul>
+<li>Cotton</li>
+<li>Polyester</li>
+<li>Cotton/Poly Blends</li>
+<li>Lycra®/Spandex</li>
+</ul>
+<p>You should test on garments that contain polyester.  Some polyesters contain excess dye that may result in dye migration.  </p>
+<p><span style="text-decoration: underline;">Recommended Printers</span></p>
+<ul>
+<li>Recommended for use with original equipment manufacturer inks only</li>
+<li>Not recommended for use with generic inks or refilled cartridges only</li>
+</ul>
+<p> </p>
+<h5><span style="font-size: 15px; text-decoration: underline;"><strong><span style="text-align: left; color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; font-style: normal; font-variant: normal; text-decoration: underline; word-spacing: 0px; display: inline !important; white-space: normal; orphans: 2; float: none; -webkit-text-stroke-width: 0px; background-color: transparent;"></span></strong></span></h5>
+<h6><span style="color: #005000;" color="#005000"></span></h6>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1483643879504</id>
+      <title>1</title>
+      <s:price currency="CAD">3.25</s:price>
+      <s:sku>Inktra Opaque Stretch 1</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1483643879504</id>
+      <title>5</title>
+      <s:price currency="CAD">14.60</s:price>
+      <s:sku>Inktra Opaque Stretch Bundle of 5</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/8755269254</id>
+    <published>2016-10-13T02:35:00-04:00</published>
+    <updated>2016-10-13T02:35:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/inktra-opaque"/>
+    <title>InkTra Opaque</title>
+    <s:type>InkTra Opaque</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/TP-InkTraOpaque.jpg?v=1486156959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>InkTra Opaque<br>
+        <strong>Price: </strong>
+            3.25 - 14.60
+            <a href="https://scriptdesigns.myshopify.com/products/inktra-opaque">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="linie100"><img alt="top" src="http://www.stahlsinternational.com/images/top.gif" border="0"></p>
+<p class="linie100">InkTra Opaque comes in individual 8 1/2 x11 inches sheets and is suited for dark coloured fabrics.</p>
+<!--InkTra-Inkjet -->
+<table style="width: 635px;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="width: 632px;" colspan="3"><img alt="Inktra Opaque" src="http://www.stahlsinternational.com/images/HL-InkTraOpaque.gif"></td>
+</tr>
+<tr>
+<td valign="top" style="width: 362px;">
+<p>InkTra™ Opaque transfer paper allows you to <br> use photos, logos, text and more to create personal<br> and memorable attire. Create excellent full color <br> transfers for application on dark colored fabrics <br> with your ink printer. <br><br></p>
+<p><img name="Inktra-Opaque-Inkjet" width="168" height="117" alt="Inktra Opaque" src="http://www.stahlsinternational.com/images/TP-InkTraOpaque.jpg"><br><br> - Designed for smooth, jam-free feeding</p>
+<p>- Your transfers won’t blur or smear, and there’s no yellowing after  application.</p>
+<p>- Specially formulated to provide vibrant <br> printed colors, long wear and great washability.</p>
+</td>
+<td style="width: 10px;"> </td>
+<td align="right" valign="top" style="width: 260px;">
+<div class="tproundbox">
+<div class="tptop">
+<div></div>
+</div>
+<div class="tpcontent">
+<ol class="tabtransferpaper">
+<li>
+<strong>Time:</strong> 35 seconds</li>
+<li>
+<strong>Temperature:</strong><br> 280°F (138°C)</li>
+<li>
+<strong>Pressure:</strong> Firm (#7-8) based <br> on <a href="http://www.stahlsinternational.com/eng/p-heat-presses.php" target="_self">Hotronix® heat press</a><br> or 70-80 PSI on air operated <br> presses, peel away kraft paper hot</li>
+<li>
+<strong>Comments:</strong> Preheat garment</li>
+<li>
+<span class="copyausz">Designed for printing:</span><br> 100% cotton (preshrunk), <br> 100% polyester, <br> poly/cotton blends, fleece</li>
+</ol>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p>You may download the application instructions by following this link:</p>
+<p><a title="InkTra Opaque application instructions" href="http://www.stahlsinternational.com/downloads/Inktra-Opaque-Application-Instructions.pdf">http://www.stahlsinternational.com/downloads/Inktra-Opaque-Application-Instructions.pdf</a></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/8755269254</id>
+      <title>1</title>
+      <s:price currency="CAD">3.25</s:price>
+      <s:sku>InkTra-Opaque-1</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/8755269254</id>
+      <title>5</title>
+      <s:price currency="CAD">14.60</s:price>
+      <s:sku>InkTra-Opaque-2</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/8755249990</id>
+    <published>2016-10-13T02:35:00-04:00</published>
+    <updated>2016-10-13T02:35:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/inktra-transfer-paper-for-inkjet-printers-light-coloured-fabrics"/>
+    <title>InkTra Light</title>
+    <s:type>InTra Light</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/TP-InkTra.jpg?v=1486156958"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>InTra Light<br>
+        <strong>Price: </strong>
+            2.50 - 11.25
+            <a href="https://scriptdesigns.myshopify.com/products/inktra-transfer-paper-for-inkjet-printers-light-coloured-fabrics">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="linie100"><img alt="top" src="http://www.stahlsinternational.com/images/top.gif" border="0"></p>
+<p class="linie100">InkTra Light comes in individual 8 1/2 x11 inches sheets and is suited for light coloured fabrics. </p>
+<!--InkTra-Inkjet --> <a name="InkTra-Inkjet" id="InkTra-Inkjet"></a><br>
+<table width="519" height="521" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="width: 326.86px;"> </td>
+<td style="width: 17.2px;"> </td>
+<td style="width: 283.31px;"> </td>
+</tr>
+<tr>
+<td style="width: 631.37px;" colspan="3"><img alt="Inktra Transfer Paper" src="http://www.stahlsinternational.com/images/HL-InkTra.gif"></td>
+</tr>
+<tr>
+<td valign="top" style="width: 326.86px;">
+<p>Create excellent full color transfers for application  on white or light colored fabrics with your inkjet printer. <br><br></p>
+<p><img name="InkTra-Transfer-Paper" width="168" height="117" alt="Inktra Transfer Paper" src="http://www.stahlsinternational.com/images/TP-InkTra.jpg"></p>
+<p><br> Designed for smooth, jam-free feeding – your <br> transfers won’t blur or smear, and there’s no yellowing<br> after application. Specially formulated to provide <br> a soft hand, long wear and great washability.<br><br></p>
+</td>
+<td style="width: 17.2px;"> </td>
+<td align="right" valign="top" style="width: 283.31px;">
+<div class="tproundbox">
+<div class="tptop">
+<div></div>
+</div>
+<div class="tpcontent">
+<ol class="tabtransferpaper">
+<li>
+<strong>Time:</strong> 12-16 seconds</li>
+<li>
+<strong>Temperature:</strong> <br> 350-360°F; 177-182°C</li>
+<li>
+<strong>Pressure:</strong> Medium (#5) based <br> on <a href="http://www.stahlsinternational.com/eng/p-heat-presses.php" target="_self">Hotronix® heat press</a>
+</li>
+<li>
+<strong>Comments:</strong> Preheat garment</li>
+<li>
+<span class="copyausz">Designed for printing:</span><br> 100% cotton (preshrunk), <br> 100% polyester, <br> poly/cotton blends, fleece</li>
+</ol>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p>You may download the application instructions by following this link:</p>
+<p><a title="InkTra Transfer Paper - For Inkjet printers" href="https://www.stahls.ca/stahls/content/pdf/techsheets/CADColorTrnsfrPprInktra.pdf">https://www.stahls.ca/stahls/content/pdf/techsheets/CADColorTrnsfrPprInktra.pdf</a></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/8755249990</id>
+      <title>1</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>InkTra-Light-1</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/8755249990</id>
+      <title>5</title>
+      <s:price currency="CAD">11.25</s:price>
+      <s:sku>InkTra-Light-2</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+</feed>

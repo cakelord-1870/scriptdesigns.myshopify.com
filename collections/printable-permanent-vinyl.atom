@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://scriptdesigns.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://scriptdesigns.myshopify.com/collections/printable-permanent-vinyl.atom"/>
+  <title>ScriptDesigns</title>
+  <updated>2021-03-26T16:09:52-04:00</updated>
+  <author>
+    <name>ScriptDesigns</name>
+  </author>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/6549619867728</id>
+    <published>2021-03-26T16:09:52-04:00</published>
+    <updated>2021-03-26T16:09:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/printable-adhesive-permanent-vinyl"/>
+    <title>Printable Adhesive Permanent Vinyl</title>
+    <s:type></s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/download.jpg?v=1616788719"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.45 - 20.80
+            <a href="https://scriptdesigns.myshopify.com/products/printable-adhesive-permanent-vinyl">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>For use with Inket printers only.</strong></p>
+<p><strong>Area of use</strong> For use in brilliant and colourful displays. The film has long-term protection against UV-rays and mechanical stress when combined with a laminating films or a Clear Oracal 651 vinyl.</p>
+<p><strong>For indoor</strong> applications, when using dye-inks, lamination is required.</p>
+<p><strong>For outdoor</strong> applications with direct contact to water, sealing of the edges is recommended. Printing Method Water-based inkjet printing, dye, oil-based, mild solvent and pigmented inks.</p>
+<p><strong></strong><strong>Note</strong> After printing, the ink must be allowed to thoroughly dry, in order to avoid any issues when later combined with the laminate. Surfaces to which the material will be applied must be thoroughly cleaned and free from dust, grease or any contamination which could affect the adhesion of the material. Freshly lacquered or painted surfaces should be allowed to dry for at least three weeks and to completely cure. The compatibility of the selected lacquers and paints should be tested by the user, prior to the application of the material. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6549619867728</id>
+      <title>8.5&quot; X 11&quot; / 1 Sheet</title>
+      <s:price currency="CAD">2.45</s:price>
+      <s:sku>PrintableAdhesiveVinyl-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6549619867728</id>
+      <title>8.5&quot; X 11&quot; / 5 sheets</title>
+      <s:price currency="CAD">11.05</s:price>
+      <s:sku>PrintableAdhesiveVinyl-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6549619867728</id>
+      <title>8.5&quot; X 11&quot; / 10 sheets</title>
+      <s:price currency="CAD">20.80</s:price>
+      <s:sku>PrintableAdhesiveVinyl-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

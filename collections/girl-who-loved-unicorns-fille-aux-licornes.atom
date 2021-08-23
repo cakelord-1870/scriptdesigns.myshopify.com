@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://scriptdesigns.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://scriptdesigns.myshopify.com/collections/girl-who-loved-unicorns-fille-aux-licornes.atom"/>
+  <title>ScriptDesigns</title>
+  <updated>2019-05-07T17:25:47-04:00</updated>
+  <author>
+    <name>ScriptDesigns</name>
+  </author>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/3570647466064</id>
+    <published>2019-05-07T17:25:47-04:00</published>
+    <updated>2019-05-07T17:25:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/fille-aux-licornes-lettres-noires-decalque-thermocollant-iron-on"/>
+    <title>Fille aux Licornes - Lettres noires - Décalque thermocollant (Iron On)</title>
+    <s:type>HTV Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Fille-licorne-black-letters-jpg.jpg?v=1557264387"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>HTV Ready Made Decals<br>
+        <strong>Price: </strong>
+            5.95 - 10.20
+            <a href="https://scriptdesigns.myshopify.com/products/fille-aux-licornes-lettres-noires-decalque-thermocollant-iron-on">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform a plain t-shirt or hoodie with these extremely popular designs.</p>
+<p>Our decals are printed professionally in-house on matte finish Siser ColourPrint PU, a vinyl that is CPSIA Certified for use on children's clothing.  They arrive ready to press.</p>
+<p><strong><span>APPLICATION INSTRUCTIONS</span></strong></p>
+<div>May be applied to:</div>
+<ul>
+<li>100% cotton</li>
+<li>100% polyester </li>
+<li>poly/cotton blends </li>
+<li>Lycra°/spandex </li>
+<li>LeatherAdhesive Ready Made Decals</li>
+</ul>
+<div>Preheat the item you are applying the decal to for 2-3 Seconds </div>
+<div>Press for 15-20 seconds at 295° F/146° C  with a medium pressure and peel hot.</div>
+<div></div>
+<div><span><strong></strong></span></div>
+<div><span><strong>CARE INSTRUCTIONS</strong></span></div>
+<ul>
+<li>Do not dry clean</li>
+<li>Machine wash WARM / mild detergent </li>
+<li>Dry on normal setting </li>
+<li>No chlorine bleach</li>
+<li>Wait 24 hours before first wash</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>cover</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>dino</s:tag>
+    <s:tag>Fille</s:tag>
+    <s:tag>Girl</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>iron on</s:tag>
+    <s:tag>letters</s:tag>
+    <s:tag>Licorne</s:tag>
+    <s:tag>love</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>pillow</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>siser</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:tag>Unicorn</s:tag>
+    <s:tag>Unicorns</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3570647466064</id>
+      <title>12&quot; x 12&quot; / 1-5</title>
+      <s:price currency="CAD">10.20</s:price>
+      <s:sku>HTVDecals-FilleLicornesNoir12-1to5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3570647466064</id>
+      <title>12&quot; x 12&quot; / 6 or more</title>
+      <s:price currency="CAD">9.35</s:price>
+      <s:sku>HTVDecals-FilleLicornesNoir12-6+</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3570647466064</id>
+      <title>10&quot; x 10&quot; / 1-5</title>
+      <s:price currency="CAD">8.50</s:price>
+      <s:sku>HTVDecals-FilleLicornesNoir10-1to5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3570647466064</id>
+      <title>10&quot; x 10&quot; / 6 or more</title>
+      <s:price currency="CAD">7.65</s:price>
+      <s:sku>HTVDecals-FilleLicornesNoir10-6+</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3570647466064</id>
+      <title>8&quot; x 8&quot; / 1-5</title>
+      <s:price currency="CAD">7.23</s:price>
+      <s:sku>HTVDecals-FilleLicornesNoir8-1to5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3570647466064</id>
+      <title>8&quot; x 8&quot; / 6 or more</title>
+      <s:price currency="CAD">7.01</s:price>
+      <s:sku>HTVDecals-FilleLicornesNoir8-6+</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3570647466064</id>
+      <title>6&quot; x 6&quot; / 1-5</title>
+      <s:price currency="CAD">6.16</s:price>
+      <s:sku>HTVDecals-FilleLicornesNoir6-1to5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3570647466064</id>
+      <title>6&quot; x 6&quot; / 6 or more</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>HTVDecals-FilleLicornesNoir6-6+</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/3570643796048</id>
+    <published>2019-05-07T17:21:21-04:00</published>
+    <updated>2019-05-07T17:21:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/fille-aux-licornes-lettres-blanches-decalque-thermo-collant-iron-on"/>
+    <title>Fille aux licornes - Lettres blanches - Décalque thermocollant (Iron On)</title>
+    <s:type>HTV Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/fille-licorne-cut-file-white-letters-jpg.jpg?v=1557264119"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>HTV Ready Made Decals<br>
+        <strong>Price: </strong>
+            5.95 - 10.20
+            <a href="https://scriptdesigns.myshopify.com/products/fille-aux-licornes-lettres-blanches-decalque-thermo-collant-iron-on">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform a plain t-shirt or hoodie with these extremely popular designs.</p>
+<p>Our decals are printed professionally in-house on matte finish Siser ColourPrint PU, a vinyl that is CPSIA Certified for use on children's clothing.  They arrive ready to press.</p>
+<p><strong><span>APPLICATION INSTRUCTIONS</span></strong></p>
+<div>May be applied to:</div>
+<ul>
+<li>100% cotton</li>
+<li>100% polyester </li>
+<li>poly/cotton blends </li>
+<li>Lycra°/spandex </li>
+<li>LeatherAdhesive Ready Made Decals</li>
+</ul>
+<div>Preheat the item you are applying the decal to for 2-3 Seconds </div>
+<div>Press for 15-20 seconds at 295° F/146° C  with a medium pressure and peel hot.</div>
+<div></div>
+<div><span><strong></strong></span></div>
+<div><span><strong>CARE INSTRUCTIONS</strong></span></div>
+<ul>
+<li>Do not dry clean</li>
+<li>Machine wash WARM / mild detergent </li>
+<li>Dry on normal setting </li>
+<li>No chlorine bleach</li>
+<li>Wait 24 hours before first wash</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clothing</s:tag>
+    <s:tag>cover</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>dino</s:tag>
+    <s:tag>Fille</s:tag>
+    <s:tag>Girl</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>iron on</s:tag>
+    <s:tag>licorne</s:tag>
+    <s:tag>love</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>pillow</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>siser</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:tag>Unicorn</s:tag>
+    <s:tag>Unicorns</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3570643796048</id>
+      <title>12&quot; x 12&quot; / 1-5</title>
+      <s:price currency="CAD">10.20</s:price>
+      <s:sku>HTVDecals-FilleLicornesBlanc12-1to5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3570643796048</id>
+      <title>12&quot; x 12&quot; / 6 or more</title>
+      <s:price currency="CAD">9.35</s:price>
+      <s:sku>HTVDecals-FilleLicornesBlanc12-6+</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3570643796048</id>
+      <title>10&quot; x 10&quot; / 1-5</title>
+      <s:price currency="CAD">8.50</s:price>
+      <s:sku>HTVDecals-FilleLicornesBlanc10-1to5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3570643796048</id>
+      <title>10&quot; x 10&quot; / 6 or more</title>
+      <s:price currency="CAD">7.65</s:price>
+      <s:sku>HTVDecals-FilleLicornesBlanc10-6+</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3570643796048</id>
+      <title>8&quot; x 8&quot; / 1-5</title>
+      <s:price currency="CAD">7.23</s:price>
+      <s:sku>HTVDecals-FilleLicornesBlanc8-1to5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3570643796048</id>
+      <title>8&quot; x 8&quot; / 6 or more</title>
+      <s:price currency="CAD">7.01</s:price>
+      <s:sku>HTVDecals-FilleLicornesBlanc8-6+</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3570643796048</id>
+      <title>6&quot; x 6&quot; / 1-5</title>
+      <s:price currency="CAD">6.16</s:price>
+      <s:sku>HTVDecals-FilleLicornesBlanc6-1to5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3570643796048</id>
+      <title>6&quot; x 6&quot; / 6 or more</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>HTVDecals-FilleLicornesBlanc6-6+</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/3570641731664</id>
+    <published>2019-05-07T17:17:57-04:00</published>
+    <updated>2019-05-07T17:17:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/copy-of-girl-who-loved-unicorns-black-lettering-htv-decal-iron-on"/>
+    <title>Girl who Loved Unicorns - Black Lettering - HTV Decal (Iron On)</title>
+    <s:type>HTV Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Unicorn-black-letters-for-web.jpg?v=1557263898"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>HTV Ready Made Decals<br>
+        <strong>Price: </strong>
+            7.00 - 12.00
+            <a href="https://scriptdesigns.myshopify.com/products/copy-of-girl-who-loved-unicorns-black-lettering-htv-decal-iron-on">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform a plain t-shirt or hoodie with these extremely popular designs.</p>
+<p>Our decals are printed professionally in-house on matte finish Siser ColourPrint PU, a vinyl that is CPSIA Certified for use on children's clothing.  They arrive ready to press.</p>
+<p><strong><span>APPLICATION INSTRUCTIONS</span></strong></p>
+<div>May be applied to:</div>
+<ul>
+<li>100% cotton</li>
+<li>100% polyester </li>
+<li>poly/cotton blends </li>
+<li>Lycra°/spandex </li>
+<li>LeatherAdhesive Ready Made Decals</li>
+</ul>
+<div>Preheat the item you are applying the decal to for 2-3 Seconds </div>
+<div>Press for 15-20 seconds at 295° F/146° C  with a medium pressure and peel hot.</div>
+<div></div>
+<div><span><strong></strong></span></div>
+<div><span><strong>CARE INSTRUCTIONS</strong></span></div>
+<ul>
+<li>Do not dry clean</li>
+<li>Machine wash WARM / mild detergent </li>
+<li>Dry on normal setting </li>
+<li>No chlorine bleach</li>
+<li>Wait 24 hours before first wash</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>cover</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>dino</s:tag>
+    <s:tag>Girl</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>iron on</s:tag>
+    <s:tag>Jurassic</s:tag>
+    <s:tag>letters</s:tag>
+    <s:tag>love</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>pillow</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>siser</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:tag>Unicorn</s:tag>
+    <s:tag>Unicorns</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3570641731664</id>
+      <title>12&quot; x 12&quot; / 1-5</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>HTVDecals-GirlUnicornsBlack12-1to5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3570641731664</id>
+      <title>12&quot; x 12&quot; / 6 or more</title>
+      <s:price currency="CAD">11.00</s:price>
+      <s:sku>HTVDecals-GirlUnicornsBlack12-6+</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3570641731664</id>
+      <title>10&quot; x 10&quot; / 1-5</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>HTVDecals-GirlUnicornsBlack10-1to5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3570641731664</id>
+      <title>10&quot; x 10&quot; / 6 or more</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>HTVDecals-GirlUnicornsBlack10-6+</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3570641731664</id>
+      <title>8&quot; x 8&quot; / 1-5</title>
+      <s:price currency="CAD">8.50</s:price>
+      <s:sku>HTVDecals-GirlUnicornsBlack8-1to5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3570641731664</id>
+      <title>8&quot; x 8&quot; / 6 or more</title>
+      <s:price currency="CAD">8.25</s:price>
+      <s:sku>HTVDecals-GirlUnicornsBlack8-6+</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3570641731664</id>
+      <title>6&quot; x 6&quot; / 1-5</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku>HTVDecals-GirlUnicornsBlack6-1to5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3570641731664</id>
+      <title>6&quot; x 6&quot; / 6 or more</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>HTVDecals-GirlUnicornsBlack6-6+</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/3570599723088</id>
+    <published>2019-05-07T16:50:24-04:00</published>
+    <updated>2019-05-07T16:50:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/girl-who-loved-unicorns-htv-decal-iron-on"/>
+    <title>Girl who Loved Unicorns - White Lettering - HTV Decal (Iron On)</title>
+    <s:type>HTV Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Unicorn-white-letters-for-web.jpg?v=1557262496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>HTV Ready Made Decals<br>
+        <strong>Price: </strong>
+            7.00 - 12.00
+            <a href="https://scriptdesigns.myshopify.com/products/girl-who-loved-unicorns-htv-decal-iron-on">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform a plain t-shirt or hoodie with these extremely popular designs.</p>
+<p>Our decals are printed professionally in-house on matte finish Siser ColourPrint PU, a vinyl that is CPSIA Certified for use on children's clothing.  They arrive ready to press.</p>
+<p><strong><span>APPLICATION INSTRUCTIONS</span></strong></p>
+<div>May be applied to:</div>
+<ul>
+<li>100% cotton</li>
+<li>100% polyester </li>
+<li>poly/cotton blends </li>
+<li>Lycra°/spandex </li>
+<li>LeatherAdhesive Ready Made Decals</li>
+</ul>
+<div>Preheat the item you are applying the decal to for 2-3 Seconds </div>
+<div>Press for 15-20 seconds at 295° F/146° C  with a medium pressure and peel hot.</div>
+<div></div>
+<div><span><strong></strong></span></div>
+<div><span><strong>CARE INSTRUCTIONS</strong></span></div>
+<ul>
+<li>Do not dry clean</li>
+<li>Machine wash WARM / mild detergent </li>
+<li>Dry on normal setting </li>
+<li>No chlorine bleach</li>
+<li>Wait 24 hours before first wash</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clothing</s:tag>
+    <s:tag>cover</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>dino</s:tag>
+    <s:tag>Girl</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>iron on</s:tag>
+    <s:tag>Jurassic</s:tag>
+    <s:tag>love</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>pillow</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>siser</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:tag>Unicorn</s:tag>
+    <s:tag>Unicorns</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3570599723088</id>
+      <title>12&quot; x 12&quot; / 1-5</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>HTVDecals-GirlUnicornsWhite12-1to5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3570599723088</id>
+      <title>12&quot; x 12&quot; / 6 or more</title>
+      <s:price currency="CAD">11.00</s:price>
+      <s:sku>HTVDecals-GirlUnicornsWhite12-6+</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3570599723088</id>
+      <title>10&quot; x 10&quot; / 1-5</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>HTVDecals-GirlUnicornsWhite10-1to5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3570599723088</id>
+      <title>10&quot; x 10&quot; / 6 or more</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>HTVDecals-GirlUnicornsWhite10-6+</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3570599723088</id>
+      <title>8&quot; x 8&quot; / 1-5</title>
+      <s:price currency="CAD">8.50</s:price>
+      <s:sku>HTVDecals-GirlUnicornsWhite8-1to5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3570599723088</id>
+      <title>8&quot; x 8&quot; / 6 or more</title>
+      <s:price currency="CAD">8.25</s:price>
+      <s:sku>HTVDecals-GirlUnicornsWhite8-6+</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3570599723088</id>
+      <title>6&quot; x 6&quot; / 1-5</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku>HTVDecals-GirlUnicornsWhite6-1to5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3570599723088</id>
+      <title>6&quot; x 6&quot; / 6 or more</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>HTVDecals-GirlUnicornsWhite6-6+</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

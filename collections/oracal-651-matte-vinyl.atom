@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://scriptdesigns.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://scriptdesigns.myshopify.com/collections/oracal-651-matte-vinyl.atom"/>
+  <title>ScriptDesigns</title>
+  <updated>2016-03-10T17:52:00-05:00</updated>
+  <author>
+    <name>ScriptDesigns</name>
+  </author>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/5536472710</id>
+    <published>2016-03-10T17:52:00-05:00</published>
+    <updated>2016-03-10T17:52:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/070-black-oracal-651-matte-vinyl"/>
+    <title>070 Black - Oracal 651 Matte Vinyl</title>
+    <s:type>Oracal 651 B&amp;W&amp;Clear</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/070_2a17f421-b888-4962-ba79-fb2b4eba5427.jpg?v=1485700368"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Oracal 651 B&amp;W&amp;Clear<br>
+        <strong>Price: </strong>
+            0.95 - 132.00
+            <a href="https://scriptdesigns.myshopify.com/products/070-black-oracal-651-matte-vinyl">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>651</s:tag>
+    <s:tag>adhesive</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>exterior</s:tag>
+    <s:tag>finish</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>making</s:tag>
+    <s:tag>matte</s:tag>
+    <s:tag>non</s:tag>
+    <s:tag>non glossy</s:tag>
+    <s:tag>non shiny</s:tag>
+    <s:tag>oracal</s:tag>
+    <s:tag>outdoor</s:tag>
+    <s:tag>Outoor</s:tag>
+    <s:tag>outside</s:tag>
+    <s:tag>permanent</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>satin</s:tag>
+    <s:tag>sign</s:tag>
+    <s:tag>sign making</s:tag>
+    <s:tag>signmaking</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>wood</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5536472710</id>
+      <title>12&quot; x 12&apos;&apos;</title>
+      <s:price currency="CAD">0.95</s:price>
+      <s:sku>5-070-M-12x12</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5536472710</id>
+      <title>12&quot; x 24&apos;&apos;</title>
+      <s:price currency="CAD">1.80</s:price>
+      <s:sku>5-070-M-12x24</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5536472710</id>
+      <title>12&apos;&apos; x 1 yrd</title>
+      <s:price currency="CAD">2.75</s:price>
+      <s:sku>5-070-M-12x1yrd</s:sku>
+      <s:grams>75</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5536472710</id>
+      <title>12&quot; x 5 Feet</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku>5-070-M-12x5feet-300119</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5536472710</id>
+      <title>12&apos;&apos; x 5 yrds</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku>5-070-M-12x5yrds</s:sku>
+      <s:grams>360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5536472710</id>
+      <title>12&quot; x 10 yrds</title>
+      <s:price currency="CAD">27.00</s:price>
+      <s:sku>5-070-M-12x10yrds</s:sku>
+      <s:grams>752</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5536472710</id>
+      <title>12&apos;&apos; x 50 yrds</title>
+      <s:price currency="CAD">132.00</s:price>
+      <s:sku>5-070-M-12x50yrds</s:sku>
+      <s:grams>3756</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/5536434950</id>
+    <published>2016-03-10T17:52:00-05:00</published>
+    <updated>2016-03-10T17:52:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/010-white-oracal-651-matte-vinyl"/>
+    <title>010 White - Oracal 651 Matte Vinyl</title>
+    <s:type>Oracal 651 B&amp;W&amp;Clear</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/010_8f351c6c-ddc2-4c35-bb5b-430b9f98c61b.jpg?v=1485699855"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Oracal 651 B&amp;W&amp;Clear<br>
+        <strong>Price: </strong>
+            0.95 - 132.00
+            <a href="https://scriptdesigns.myshopify.com/products/010-white-oracal-651-matte-vinyl">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>651</s:tag>
+    <s:tag>adhesive</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>exterior</s:tag>
+    <s:tag>finish</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>lowest price</s:tag>
+    <s:tag>making</s:tag>
+    <s:tag>matte</s:tag>
+    <s:tag>Matte finish</s:tag>
+    <s:tag>non glossy</s:tag>
+    <s:tag>oracal</s:tag>
+    <s:tag>permanent</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>roll</s:tag>
+    <s:tag>rolls</s:tag>
+    <s:tag>satin</s:tag>
+    <s:tag>sign</s:tag>
+    <s:tag>sign making</s:tag>
+    <s:tag>signmaking</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>wood</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5536434950</id>
+      <title>12&quot; x 12&apos;&apos;</title>
+      <s:price currency="CAD">0.95</s:price>
+      <s:sku>5-010-M-12x12</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5536434950</id>
+      <title>12&quot; x 24&apos;&apos;</title>
+      <s:price currency="CAD">1.80</s:price>
+      <s:sku>5-010-M-12x24</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5536434950</id>
+      <title>12&apos;&apos; x 1 yard (36&apos;&apos;)</title>
+      <s:price currency="CAD">2.75</s:price>
+      <s:sku>5-010-M-12x1yrd</s:sku>
+      <s:grams>75</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5536434950</id>
+      <title>12&quot; x 5 Feet</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku>5-010-M-12x5feet-300119</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5536434950</id>
+      <title>12&apos;&apos; x 5 yards</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku>5-010-M-12x5yrds</s:sku>
+      <s:grams>360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5536434950</id>
+      <title>12&quot;x10 yards</title>
+      <s:price currency="CAD">27.00</s:price>
+      <s:sku>5-010-M-12x10yrds</s:sku>
+      <s:grams>725</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5536434950</id>
+      <title>12&apos;&apos; x 50 yards</title>
+      <s:price currency="CAD">132.00</s:price>
+      <s:sku>5-010-M-12x50yrds</s:sku>
+      <s:grams>3614</s:grams>
+    </s:variant>
+  </entry>
+</feed>

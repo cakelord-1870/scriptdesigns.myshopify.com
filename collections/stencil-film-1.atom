@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://scriptdesigns.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://scriptdesigns.myshopify.com/collections/stencil-film-1.atom"/>
+  <title>ScriptDesigns</title>
+  <updated>2016-03-14T22:16:00-04:00</updated>
+  <author>
+    <name>ScriptDesigns</name>
+  </author>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/8375410182</id>
+    <published>2016-03-14T22:16:00-04:00</published>
+    <updated>2016-03-14T22:16:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/810-oramask-film-stencil-uneven-surfaces"/>
+    <title>810 Oramask Film (Stencil) - Uneven Surfaces</title>
+    <s:type>Oracal Vinyl - ORAMASK</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/oramask_96d918df-b234-42e9-849d-8d43054fbaa4.jpg?v=1486154842"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Oracal Vinyl - ORAMASK<br>
+        <strong>Price: </strong>
+            1.35 - 130.00
+            <a href="https://scriptdesigns.myshopify.com/products/810-oramask-film-stencil-uneven-surfaces">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Developed for use in stencil applications, especially for paint and spray techniques, e.g. vehicle lettering, promotional lettering and signs in general. Due to its flexibility, this stencil film is suitable for spraying and painting on even and uneven surfaces. The translucency of the grey film ensures the visibility of the surface underneath. Not suitable for wet application. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adhesive</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>french</s:tag>
+    <s:tag>lowest prices</s:tag>
+    <s:tag>making</s:tag>
+    <s:tag>oracal</s:tag>
+    <s:tag>oramask</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>sign</s:tag>
+    <s:tag>sign making</s:tag>
+    <s:tag>signmaking</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>stencil</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>transfer tape</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Wall decal</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/8375410182</id>
+      <title>12&quot; x 12&apos;&apos;</title>
+      <s:price currency="CAD">1.35</s:price>
+      <s:sku>Ora810-12x12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/8375410182</id>
+      <title>12&quot; x 24&apos;&apos;</title>
+      <s:price currency="CAD">2.55</s:price>
+      <s:sku>Ora810-12x24</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/8375410182</id>
+      <title>12&apos;&apos; x 1 yrd (36&quot;)</title>
+      <s:price currency="CAD">3.90</s:price>
+      <s:sku>Ora810-12x1yrd</s:sku>
+      <s:grams>72</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/8375410182</id>
+      <title>12&apos;&apos; x 5 yrds</title>
+      <s:price currency="CAD">18.85</s:price>
+      <s:sku>Ora810-12x5yrds</s:sku>
+      <s:grams>360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/8375410182</id>
+      <title>12&apos;&apos; x 10 yrds</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>Ora810-12x10yrds</s:sku>
+      <s:grams>360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/8375410182</id>
+      <title>12&quot; x 50 yards</title>
+      <s:price currency="CAD">130.00</s:price>
+      <s:sku>Ora810-12x50yrds</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/5379926598</id>
+    <published>2016-03-14T22:16:00-04:00</published>
+    <updated>2016-03-14T22:16:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/813-spraymask-stencil-film"/>
+    <title>813 Oramask Film (Stencil) - Even surfaces</title>
+    <s:type>Oracal Vinyl - ORAMASK</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/oramask_2.jpg?v=1486154837"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Oracal Vinyl - ORAMASK<br>
+        <strong>Price: </strong>
+            1.35 - 130.00
+            <a href="https://scriptdesigns.myshopify.com/products/813-spraymask-stencil-film">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Removable transluscent blue dyed stencil film with a mat finish.  Especially suitable for large formats as it has a higher degree of stiffness.  Perfect for all paint and spray stenciling techniques on even surfaces.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adhesive</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>french</s:tag>
+    <s:tag>lowest prices</s:tag>
+    <s:tag>making</s:tag>
+    <s:tag>oracal</s:tag>
+    <s:tag>oramask</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>sign</s:tag>
+    <s:tag>sign making</s:tag>
+    <s:tag>signmaking</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>stencil</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>transfer tape</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Wall decal</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5379926598</id>
+      <title>12&quot; x 12&apos;&apos;</title>
+      <s:price currency="CAD">1.35</s:price>
+      <s:sku>Ora813-12x12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5379926598</id>
+      <title>12&quot; x 24&apos;&apos;</title>
+      <s:price currency="CAD">2.55</s:price>
+      <s:sku>Ora813-12x24</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5379926598</id>
+      <title>12&apos;&apos; x 1 yrd (36&quot;)</title>
+      <s:price currency="CAD">3.90</s:price>
+      <s:sku>Ora813-12x1yrd</s:sku>
+      <s:grams>72</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5379926598</id>
+      <title>12&apos;&apos; x 5 yrds</title>
+      <s:price currency="CAD">18.85</s:price>
+      <s:sku>Ora813-12x5yrds</s:sku>
+      <s:grams>360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5379926598</id>
+      <title>12&apos;&apos; x 10 yrds</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>Ora813-12x10yrds</s:sku>
+      <s:grams>800</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5379926598</id>
+      <title>12&quot; x 50 yards</title>
+      <s:price currency="CAD">130.00</s:price>
+      <s:sku>Ora813-12x50yrds</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://scriptdesigns.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://scriptdesigns.myshopify.com/collections/christmas-decals.atom"/>
+  <title>ScriptDesigns</title>
+  <updated>2019-10-31T13:35:12-04:00</updated>
+  <author>
+    <name>ScriptDesigns</name>
+  </author>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/4333672792144</id>
+    <published>2019-10-31T13:35:12-04:00</published>
+    <updated>2019-10-31T13:35:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/winter-gnomes-adhesive-decals"/>
+    <title>Winter Gnomes - Adhesive Decals</title>
+    <s:type>HTV Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Cover-page-Christmas-Gnomes_e7591cdd-bb69-4c2d-921c-c3c564eee753.jpg?v=1572543317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>HTV Ready Made Decals<br>
+        <strong>Price: </strong>
+            2.00 - 7.50
+            <a href="https://scriptdesigns.myshopify.com/products/winter-gnomes-adhesive-decals">(20 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform a baby bottle, a gift basket, a cup or anything else that comes to mind into something unique with our ready to apply HTV decals. </p>
+<p><strong>SIZES</strong></p>
+<p><strong>1)  <span style="text-decoration: underline;">I am the cutest</span></strong></p>
+<ul>
+<li>Extra-Small: 4 x 3.5 inches</li>
+<li>Small: 5.5 x 4.9 inches</li>
+<li>Medium: 7 x 6.25</li>
+<li>Large: 8.5 x 7.6 inches</li>
+<li>Extra-Large: 11 x 9.8 inches</li>
+</ul>
+<p><span style="text-decoration: underline;"><strong>2</strong></span><strong>) </strong><strong> </strong><span style="text-decoration: underline;"><strong>Other gnomes</strong></span></p>
+<ul>
+<li>Extra-Small: 4 x 2.4 inches</li>
+<li>Small: 5.5 x 3.3 inches</li>
+<li>Medium: 7 x 4.2 inches</li>
+<li>Large: 8.5 x 5 inches</li>
+<li>Extra-Large: 11 x 6.6 inches</li>
+</ul>
+<p>Sizes may vary slightly than what is listed.  Custom sizes available upon request.</p>
+<p>Our decals are printed professionally in-house on glossy Oracal 651 permanent vinyl equivalent. </p>
+<p><strong>APPLICATION INSTRUCTIONS</strong></p>
+<ul>
+<li>Clean the object with rubbing alcool and dry well.</li>
+<li>Remove backing from the decal</li>
+<li>Apply to the surface</li>
+<li>Squeegee well; if there is no transfer tape (on smaller decals), use a protective cloth over the decal to protect it from scratching when rubbing with your squeegee.    </li>
+</ul>
+<p><b>Do not put in dishwasher or soak in hot water.  Wash manually.</b></p>
+<div>These decals have strong adhesive and are not suited for walls unless you apply a backing of Oracal 631 behind them.  </div>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>christmas</s:tag>
+    <s:tag>cover</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>gnome</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>Peel</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>stick</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333672792144</id>
+      <title>I am the cutest - Mint and Green Gnome / Extra-large</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>AdhDecals-Gnomecutest-xlrg</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333672792144</id>
+      <title>Red Gnome - Santa / Extra-small</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>AdhDecals-Gnomered-Xsmall</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333672792144</id>
+      <title>Red Gnome - Santa / Small</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>AdhDecals-Gnomered-Small</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333672792144</id>
+      <title>Red Gnome - Santa / Medium</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>AdhDecals-Gnomered-Med</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333672792144</id>
+      <title>Red Gnome - Santa / Large</title>
+      <s:price currency="CAD">5.25</s:price>
+      <s:sku>AdhDecals-Gnomered-lrg</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333672792144</id>
+      <title>Red Gnome - Santa / Extra-large</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>AdhDecals-Gnomered-xlrg</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333672792144</id>
+      <title>Blue Grey Gnome / Extra-small</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>AdhDecals-Gnomeblue-Xsmall</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333672792144</id>
+      <title>Blue Grey Gnome / Small</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>AdhDecals-Gnomeblue-Small</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333672792144</id>
+      <title>Blue Grey Gnome / Medium</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>AdhDecals-Gnomeblue-Med</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333672792144</id>
+      <title>Blue Grey Gnome / Large</title>
+      <s:price currency="CAD">5.25</s:price>
+      <s:sku>AdhDecals-Gnomeblue-lrg</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333672792144</id>
+      <title>Blue Grey Gnome / Extra-large</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>AdhDecals-Gnomeblue-xlrg</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333672792144</id>
+      <title>Lilac Gnome / Extra-small</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>AdhDecals-Gnomelilac-Xsmall</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333672792144</id>
+      <title>Lilac Gnome / Small</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>AdhDecals-Gnomelilac-Small</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333672792144</id>
+      <title>Lilac Gnome / Medium</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>AdhDecals-Gnomelilac-Med</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333672792144</id>
+      <title>Lilac Gnome / Large</title>
+      <s:price currency="CAD">5.25</s:price>
+      <s:sku>AdhDecals-Gnomelilac-lrg</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333672792144</id>
+      <title>Lilac Gnome / Extra-large</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>AdhDecals-Gnomelilac-xlrg</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333672792144</id>
+      <title>I am the cutest - Mint and Green Gnome / Extra-small</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>AdhDecals-Gnomecutest-Xsmall</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333672792144</id>
+      <title>I am the cutest - Mint and Green Gnome / Small</title>
+      <s:price currency="CAD">3.25</s:price>
+      <s:sku>AdhDecals-Gnomecutest-Small</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333672792144</id>
+      <title>I am the cutest - Mint and Green Gnome / Medium</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>AdhDecals-Gnomecutest-Med</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333672792144</id>
+      <title>I am the cutest - Mint and Green Gnome / Large</title>
+      <s:price currency="CAD">6.25</s:price>
+      <s:sku>AdhDecals-Gnomecutest-lrg</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/4333522255952</id>
+    <published>2019-10-31T12:16:29-04:00</published>
+    <updated>2019-10-31T12:16:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/gnomes-htv-decal"/>
+    <title>Winter Gnomes - HTV Decals</title>
+    <s:type>HTV Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Cover-page-Christmas-Gnomes.jpg?v=1572543258"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>HTV Ready Made Decals<br>
+        <strong>Price: </strong>
+            2.75 - 12.00
+            <a href="https://scriptdesigns.myshopify.com/products/gnomes-htv-decal">(20 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform a plain onesie, bib, t-shirt or pillow cover into something unique with our ready to apply HTV decals. </p>
+<p>Do you need ideas to decorate a nursery? You could use a decal as the starting point.  These decals are also available in matte adhesive vinyl for wall applications.</p>
+<p><strong>SIZES</strong></p>
+<p><strong>1)  <span style="text-decoration: underline;">I am the cutest</span></strong></p>
+<ul>
+<li>Extra-Small: 4 x 3.5 inches</li>
+<li>Small: 5.5 x 4.9 inches</li>
+<li>Medium: 7 x 6.25</li>
+<li>Large: 8.5 x 7.6 inches</li>
+<li>Extra-Large: 11 x 9.8 inches</li>
+</ul>
+<p><span style="text-decoration: underline;"><strong>2</strong></span><strong>) </strong><strong> </strong><span style="text-decoration: underline;"><strong>Other gnomes (approximate sizes, the lilac is taller but narrower)</strong></span></p>
+<ul>
+<li>Extra-Small: 4 x 2.4 inches</li>
+<li>Small: 5.5 x 3.3 inches</li>
+<li>Medium: 7 x 4.2 inches</li>
+<li>Large: 8.5 x 5 inches</li>
+<li>Extra-Large: 11 x 6.6 inches</li>
+</ul>
+<p>Sizes may vary slightly than what is listed.  Custom sizes available upon request.</p>
+<p>Our decals are printed professionally in-house on matte finish Siser ColourPrint PU, a vinyl that is CPSIA Certified for use on children's clothing.</p>
+<p><strong><span>APPLICATION INSTRUCTIONS</span></strong></p>
+<div>May be applied to:</div>
+<ul>
+<li>100% cotton</li>
+<li>100% polyester </li>
+<li>poly/cotton blends </li>
+<li>Lycra°/spandex </li>
+<li>LeatherAdhesive Ready Made Decals</li>
+</ul>
+<div>Preheat the item you are applying the decal to for 2-3 Seconds </div>
+<div>Press for 15-20 seconds at 295° F/146° C  with a medium pressure and peel hot.</div>
+<div></div>
+<div><span><strong></strong></span></div>
+<div><span><strong>CARE INSTRUCTIONS</strong></span></div>
+<ul>
+<li>Do not dry clean</li>
+<li>Machine wash WARM / mild detergent </li>
+<li>Dry on normal setting </li>
+<li>No chlorine bleach</li>
+<li>Wait 24 hours before first wash</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bib</s:tag>
+    <s:tag>christmas</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>cover</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>gnome</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>iron on</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>pillow</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>siser</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333522255952</id>
+      <title>I am the cutest - Mint and Green Gnome / Extra-large</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>HTVDecals-Gnomecutest-xlrg</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333522255952</id>
+      <title>Red Gnome - Santa / Extra-large</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>HTVDecals-Gnomered-xlrg</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333522255952</id>
+      <title>Blue Grey Gnome / Extra-large</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>HTVDecals-Gnomeblue-xlrg</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333522255952</id>
+      <title>Lilac Gnome / Extra-large</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>HTVDecals-Gnomelilac-xlrg</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333522255952</id>
+      <title>I am the cutest - Mint and Green Gnome / Large</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>HTVDecals-Gnomecutest-lrg</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333522255952</id>
+      <title>I am the cutest - Mint and Green Gnome / Medium</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>HTVDecals-Gnomecutest-Med</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333522255952</id>
+      <title>I am the cutest - Mint and Green Gnome / Small</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>HTVDecals-Gnomecutest-Small</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333522255952</id>
+      <title>I am the cutest - Mint and Green Gnome / Extra-small</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>HTVDecals-Gnomecutest-Xsmall</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333522255952</id>
+      <title>Red Gnome - Santa / Large</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>HTVDecals-Gnomered-lrg</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333522255952</id>
+      <title>Red Gnome - Santa / Medium</title>
+      <s:price currency="CAD">6.25</s:price>
+      <s:sku>HTVDecals-Gnomered-Med</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333522255952</id>
+      <title>Red Gnome - Santa / Extra-small</title>
+      <s:price currency="CAD">2.75</s:price>
+      <s:sku>HTVDecals-Gnomered-Xsmall</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333522255952</id>
+      <title>Blue Grey Gnome / Large</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>HTVDecals-Gnomeblue-lrg</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333522255952</id>
+      <title>Blue Grey Gnome / Medium</title>
+      <s:price currency="CAD">6.25</s:price>
+      <s:sku>HTVDecals-Gnomeblue-Med</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333522255952</id>
+      <title>Blue Grey Gnome / Small</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>HTVDecals-Gnomeblue-Small</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333522255952</id>
+      <title>Blue Grey Gnome / Extra-small</title>
+      <s:price currency="CAD">2.75</s:price>
+      <s:sku>HTVDecals-Gnomeblue-Xsmall</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333522255952</id>
+      <title>Lilac Gnome / Large</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>HTVDecals-Gnomelilac-lrg</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333522255952</id>
+      <title>Lilac Gnome / Medium</title>
+      <s:price currency="CAD">6.25</s:price>
+      <s:sku>HTVDecals-Gnomelilac-Med</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333522255952</id>
+      <title>Lilac Gnome / Extra-small</title>
+      <s:price currency="CAD">2.75</s:price>
+      <s:sku>HTVDecals-Gnomelilac-Xsmall</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333522255952</id>
+      <title>Red Gnome - Santa / Small</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>HTVDecals-Gnomered-Small</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4333522255952</id>
+      <title>Lilac Gnome / Small</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>HTVDecals-Gnomelilac-Small</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/1575876362320</id>
+    <published>2017-02-23T08:39:00-05:00</published>
+    <updated>2017-02-23T08:39:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/christmas-cup-joyeuse-fetes-adhesive-decal"/>
+    <title>Christmas Cup Joyeuse Fetes Adhesive Decal</title>
+    <s:type>Adhesive Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/xmas_cup_joyeux_noel_picture_for_website_24f5c5ee-119f-4315-ab4c-d07824349e5a.jpg?v=1541957829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Adhesive Ready Made Decals<br>
+        <strong>Price: </strong>
+            1.25 - 7.75
+            <a href="https://scriptdesigns.myshopify.com/products/christmas-cup-joyeuse-fetes-adhesive-decal">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Let your imagination flow!  These ready to apply adhesive decals will make a statement on your wood signs, mugs, tumblers or any other decorative elements.  They could become cute car decals or you could even create a beautiful set of frames for your walls by using a few different patterns.</p>
+<p>Custom sizes available upon request.</p>
+<p>These decals are printed professionally in-house on high quality Orajet, a permanent adhesive vinyl very similar to Oracal 651.  </p>
+<p><strong>APPLICATION INSTRUCTIONS</strong></p>
+<p>Clean the surface very well prior to application.</p>
+<p>For smaller sizes, simply peel and stick. </p>
+<p>For larger sizes, apply transfer tape (just like you would do for any other adhesive vinyl), transfer and stick.</p>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bib</s:tag>
+    <s:tag>christmas</s:tag>
+    <s:tag>christmas red truck</s:tag>
+    <s:tag>christmas tree</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>cover</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>elephant</s:tag>
+    <s:tag>friend</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>iron on</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>nursery</s:tag>
+    <s:tag>pillow</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>siser</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1575876362320</id>
+      <title>3&quot; X 2.7&quot; / 1-5</title>
+      <s:price currency="CAD">1.75</s:price>
+      <s:sku>AdhesiveDecals-ChristmasCup</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1575876362320</id>
+      <title>3&quot; X 2.7&quot; / 6-10</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku>AdhesiveDecals-ChristmasCup</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1575876362320</id>
+      <title>3&quot; X 2.7&quot; / 11+</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>AdhesiveDecals-ChristmasCup</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1575876362320</id>
+      <title>5&quot; X 4.4&quot; / 1-5</title>
+      <s:price currency="CAD">4.40</s:price>
+      <s:sku>AdhesiveDecals-ChristmasCup</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1575876362320</id>
+      <title>5&quot; X 4.4&quot; / 6-10</title>
+      <s:price currency="CAD">3.75</s:price>
+      <s:sku>AdhesiveDecals-ChristmasCup</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1575876362320</id>
+      <title>5&quot; X 4.4&quot; / 11+</title>
+      <s:price currency="CAD">3.30</s:price>
+      <s:sku>AdhesiveDecals-ChristmasCup</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1575876362320</id>
+      <title>7&quot; X 6.2&quot; / 1-5</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>AdhesiveDecals-ChristmasCup</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1575876362320</id>
+      <title>7&quot; X 6.2&quot; / 6-10</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku>AdhesiveDecals-ChristmasCup</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1575876362320</id>
+      <title>7&quot; X 6.2&quot; / 11+</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>AdhesiveDecals-ChristmasCup</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1575876362320</id>
+      <title>9&quot; X 7.9&quot; / 1-5</title>
+      <s:price currency="CAD">7.75</s:price>
+      <s:sku>AdhesiveDecals-ChristmasCup</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1575876362320</id>
+      <title>9&quot; X 7.9&quot; / 6-10</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>AdhesiveDecals-ChristmasCup</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1575876362320</id>
+      <title>9&quot; X 7.9&quot; / 11+</title>
+      <s:price currency="CAD">6.50</s:price>
+      <s:sku>AdhesiveDecals-ChristmasCup</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/1575858143312</id>
+    <published>2017-02-23T08:39:00-05:00</published>
+    <updated>2017-02-23T08:39:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/christmas-tree-red-truck-adhesive-decal"/>
+    <title>Christmas Tree Red Truck Adhesive Decal</title>
+    <s:type>Adhesive Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/christmas_red_truck_decals_fba79202-b8fe-4e96-8d9d-3495d4a9e204.jpg?v=1541957110"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Adhesive Ready Made Decals<br>
+        <strong>Price: </strong>
+            1.25 - 7.50
+            <a href="https://scriptdesigns.myshopify.com/products/christmas-tree-red-truck-adhesive-decal">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Let your imagination flow!  These ready to apply adhesive decals will make a statement on your wood signs, mugs, tumblers or any other decorative elements.  They could become cute car decals or you could even create a beautiful set of frames for your walls by using a few different patterns.</p>
+<p>Custom sizes available upon request.</p>
+<p>These decals are printed professionally in-house on high quality Orajet, a permanent adhesive vinyl very similar to Oracal 651.  </p>
+<p><strong>APPLICATION INSTRUCTIONS</strong></p>
+<p>Clean the surface very well prior to application.</p>
+<p>For smaller sizes, simply peel and stick. </p>
+<p>For larger sizes, apply transfer tape (just like you would do for any other adhesive vinyl), transfer and stick.</p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bib</s:tag>
+    <s:tag>christmas</s:tag>
+    <s:tag>christmas red truck</s:tag>
+    <s:tag>christmas tree</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>cover</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>elephant</s:tag>
+    <s:tag>friend</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>iron on</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>nursery</s:tag>
+    <s:tag>pillow</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>siser</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1575858143312</id>
+      <title>3&quot; X 2&quot; / 1-5</title>
+      <s:price currency="CAD">1.75</s:price>
+      <s:sku>AdhesiveDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1575858143312</id>
+      <title>3&quot; X 2&quot; / 6-10</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku>AdhesiveDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1575858143312</id>
+      <title>3&quot; X 2&quot; / 11+</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>AdhesiveDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1575858143312</id>
+      <title>5&quot; X 3.3&quot; / 1-5</title>
+      <s:price currency="CAD">3.30</s:price>
+      <s:sku>AdhesiveDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1575858143312</id>
+      <title>5&quot; X 3.3&quot; / 6-10</title>
+      <s:price currency="CAD">2.90</s:price>
+      <s:sku>AdhesiveDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1575858143312</id>
+      <title>5&quot; X 3.3&quot; / 11+</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>AdhesiveDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1575858143312</id>
+      <title>7&quot; X 4.72&quot; / 1-5</title>
+      <s:price currency="CAD">5.75</s:price>
+      <s:sku>AdhesiveDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1575858143312</id>
+      <title>7&quot; X 4.72&quot; / 6-10</title>
+      <s:price currency="CAD">5.25</s:price>
+      <s:sku>AdhesiveDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1575858143312</id>
+      <title>7&quot; X 4.72&quot; / 11+</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>AdhesiveDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1575858143312</id>
+      <title>9&quot; X 6&quot; / 1-5</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>AdhesiveDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1575858143312</id>
+      <title>9&quot; X 6&quot; / 6-10</title>
+      <s:price currency="CAD">6.75</s:price>
+      <s:sku>AdhesiveDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1575858143312</id>
+      <title>9&quot; X 6&quot; / 11+</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>AdhesiveDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/1569617969232</id>
+    <published>2017-02-23T08:39:00-05:00</published>
+    <updated>2017-02-23T08:39:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/christmas-tree-red-truck-and-tree-santa-and-gifts-adhesive-decal"/>
+    <title>Christmas Tree Red Truck with Santa and Gifts Adhesive Decal</title>
+    <s:type>Adhesive Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/christmas_red_truck_with_santa_and_gifts_for_website_6419aa38-ac6d-4da2-bbee-dacb56bc445b.jpg?v=1541467201"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Adhesive Ready Made Decals<br>
+        <strong>Price: </strong>
+            1.00 - 8.45
+            <a href="https://scriptdesigns.myshopify.com/products/christmas-tree-red-truck-and-tree-santa-and-gifts-adhesive-decal">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Let your imagination flow!  These ready to apply adhesive decals will make a statement on your wood signs, mugs, tumblers or any other decorative elements.  They could become cute car decals or you could even create a beautiful set of frames for your walls by using a few different patterns.</p>
+<p>Custom sizes available upon request.</p>
+<p>These decals are printed professionally in-house on high quality Orajet, a permanent adhesive vinyl very similar to Oracal 651.  </p>
+<p><span><strong>APPLICATION INSTRUCTIONS</strong></span></p>
+<div>Clean the surface very well prior to application.</div>
+<div>For smaller sizes, simply peel and stick. </div>
+<div>For larger sizes, apply transfer tape (just like you would do for any other adhesive vinyl), transfer and stick.</div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adhesive</s:tag>
+    <s:tag>bib</s:tag>
+    <s:tag>christmas</s:tag>
+    <s:tag>christmas red truck</s:tag>
+    <s:tag>christmas tree</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>cover</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>elephant</s:tag>
+    <s:tag>friend</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>iron on</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>nursery</s:tag>
+    <s:tag>oracal</s:tag>
+    <s:tag>pillow</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>siser</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1569617969232</id>
+      <title>3&quot; X 1.7&quot; / 1-5</title>
+      <s:price currency="CAD">1.75</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1569617969232</id>
+      <title>3&quot; X 1.7&quot; / 6-10</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1569617969232</id>
+      <title>3&quot; X 1.7&quot; / 11+</title>
+      <s:price currency="CAD">1.00</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1569617969232</id>
+      <title>5&quot; X 2.9&quot; / 1-5</title>
+      <s:price currency="CAD">2.60</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1569617969232</id>
+      <title>5&quot; X 2.9&quot; / 6-10</title>
+      <s:price currency="CAD">2.20</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1569617969232</id>
+      <title>5&quot; X 2.9&quot; / 11+</title>
+      <s:price currency="CAD">1.85</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1569617969232</id>
+      <title>7&quot; X 4&quot; / 1-5</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1569617969232</id>
+      <title>7&quot; X 4&quot; / 6-10</title>
+      <s:price currency="CAD">4.30</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1569617969232</id>
+      <title>7&quot; X 4&quot; / 11+</title>
+      <s:price currency="CAD">3.75</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1569617969232</id>
+      <title>9&quot; X 5.1&quot; / 1-5</title>
+      <s:price currency="CAD">8.45</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1569617969232</id>
+      <title>9&quot; X 5.1&quot; / 6-10</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1569617969232</id>
+      <title>9&quot; X 5.1&quot; / 11+</title>
+      <s:price currency="CAD">6.50</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/1569615806544</id>
+    <published>2017-02-23T08:39:00-05:00</published>
+    <updated>2017-02-23T08:39:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/christmas-tree-red-truck-and-tree-and-santa-adhesive-decal"/>
+    <title>Christmas Tree Red Truck with Santa Adhesive Decal</title>
+    <s:type>Adhesive Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/christmas_red_truck_image_with_santa_for_website_8850b050-84e7-4524-8d39-ab9902020c92.jpg?v=1541466857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Adhesive Ready Made Decals<br>
+        <strong>Price: </strong>
+            1.00 - 7.00
+            <a href="https://scriptdesigns.myshopify.com/products/christmas-tree-red-truck-and-tree-and-santa-adhesive-decal">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Let your imagination flow!  These ready to apply adhesive decals will make a statement on your wood signs, mugs, tumblers or any other decorative elements.  They could become cute car decals or you could even create a beautiful set of frames for your walls by using a few different patterns.</p>
+<p>Custom sizes available upon request.</p>
+<p>These decals are printed professionally in-house on high quality Orajet, a permanent adhesive vinyl very similar to Oracal 651.  </p>
+<p><span><strong>APPLICATION INSTRUCTIONS</strong></span></p>
+<div>Clean the surface very well prior to application.</div>
+<div>For smaller sizes, simply peel and stick. </div>
+<div>For larger sizes, apply transfer tape (just like you would do for any other adhesive vinyl), transfer and stick.</div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adhesive</s:tag>
+    <s:tag>bib</s:tag>
+    <s:tag>christmas</s:tag>
+    <s:tag>christmas red truck</s:tag>
+    <s:tag>christmas tree</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>cover</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>elephant</s:tag>
+    <s:tag>friend</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>iron on</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>nursery</s:tag>
+    <s:tag>oracal</s:tag>
+    <s:tag>pillow</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>siser</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1569615806544</id>
+      <title>3&quot; X 1.7&quot; / 1-5</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1569615806544</id>
+      <title>3&quot; X 1.7&quot; / 6-10</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1569615806544</id>
+      <title>3&quot; X 1.7&quot; / 11+</title>
+      <s:price currency="CAD">1.00</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1569615806544</id>
+      <title>5&quot; X 2.85&quot; / 1-5</title>
+      <s:price currency="CAD">2.60</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1569615806544</id>
+      <title>5&quot; X 2.85&quot; / 6-10</title>
+      <s:price currency="CAD">2.20</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1569615806544</id>
+      <title>5&quot; X 2.85&quot; / 11+</title>
+      <s:price currency="CAD">1.85</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1569615806544</id>
+      <title>7&quot; X 3.95&quot; / 1-5</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1569615806544</id>
+      <title>7&quot; X 3.95&quot; / 6-10</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1569615806544</id>
+      <title>7&quot; X 3.95&quot; / 11+</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1569615806544</id>
+      <title>9&quot; X 5.2&quot; / 1-5</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1569615806544</id>
+      <title>9&quot; X 5.2&quot; / 6-10</title>
+      <s:price currency="CAD">6.50</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1569615806544</id>
+      <title>9&quot; X 5.2&quot; / 11+</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/1569573797968</id>
+    <published>2017-02-23T08:39:00-05:00</published>
+    <updated>2017-02-23T08:39:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/christmas-tree-red-truck-and-tree-adhesive-decal"/>
+    <title>Christmas Cup Joyeuse Fetes HTV Decal</title>
+    <s:type>HTV Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/xmas_cup_joyeux_noel_picture_for_website.jpg?v=1541770951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>HTV Ready Made Decals<br>
+        <strong>Price: </strong>
+            1.50 - 14.25
+            <a href="https://scriptdesigns.myshopify.com/products/christmas-tree-red-truck-and-tree-adhesive-decal">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform a plain onesie, bib, t-shirt or pillow cover into something unique with our ready to apply HTV decals. </p>
+<p>Do you need ideas to decorate a nursery? You could use a decal as the starting point.  These decals are also available in matte adhesive vinyl for wall applications.</p>
+<p>Custom sizes available upon request.</p>
+<p>Our decals are printed professionally in-house on matte finish Siser ColourPrint PU, a vinyl that is CPSIA Certified for use on children's clothing.</p>
+<p><strong><span>APPLICATION INSTRUCTIONS</span></strong></p>
+<div>May be applied to:</div>
+<ul>
+<li>100% cotton</li>
+<li>100% polyester </li>
+<li>poly/cotton blends </li>
+<li>Lycra°/spandex </li>
+<li>LeatherAdhesive Ready Made Decals</li>
+</ul>
+<div>Preheat the item you are applying the decal to for 2-3 Seconds </div>
+<div>Press for 15-20 seconds at 295° F/146° C  with a medium pressure and peel hot.</div>
+<div></div>
+<div><span><strong></strong></span></div>
+<div><span><strong>CARE INSTRUCTIONS</strong></span></div>
+<ul>
+<li>Do not dry clean</li>
+<li>Machine wash WARM / mild detergent </li>
+<li>Dry on normal setting </li>
+<li>No chlorine bleach</li>
+<li>Wait 24 hours before first wash</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bib</s:tag>
+    <s:tag>christmas</s:tag>
+    <s:tag>christmas red truck</s:tag>
+    <s:tag>christmas tree</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>cover</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>elephant</s:tag>
+    <s:tag>friend</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>iron on</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>nursery</s:tag>
+    <s:tag>pillow</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>siser</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1569573797968</id>
+      <title>3&quot; X 2.7&quot; / 1-5</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>HTVDecals-ChristmasCup</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1569573797968</id>
+      <title>3&quot; X 2.7&quot; / 6-10</title>
+      <s:price currency="CAD">1.75</s:price>
+      <s:sku>HTVDecals-ChristmasCup</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1569573797968</id>
+      <title>3&quot; X 2.7&quot; / 11+</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku>HTVDecals-ChristmasCup</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1569573797968</id>
+      <title>5&quot; X 4.4&quot; / 1-5</title>
+      <s:price currency="CAD">4.40</s:price>
+      <s:sku>HTVDecals-ChristmasCup</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1569573797968</id>
+      <title>5&quot; X 4.4&quot; / 6-10</title>
+      <s:price currency="CAD">3.75</s:price>
+      <s:sku>HTVDecals-ChristmasCup</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1569573797968</id>
+      <title>5&quot; X 4.4&quot; / 11+</title>
+      <s:price currency="CAD">3.30</s:price>
+      <s:sku>HTVDecals-ChristmasCup</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1569573797968</id>
+      <title>7&quot; X 6.2&quot; / 1-5</title>
+      <s:price currency="CAD">8.70</s:price>
+      <s:sku>HTVDecals-ChristmasCup</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1569573797968</id>
+      <title>7&quot; X 6.2&quot; / 6-10</title>
+      <s:price currency="CAD">7.40</s:price>
+      <s:sku>HTVDecals-ChristmasCup</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1569573797968</id>
+      <title>7&quot; X 6.2&quot; / 11+</title>
+      <s:price currency="CAD">6.50</s:price>
+      <s:sku>HTVDecals-ChristmasCup</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1569573797968</id>
+      <title>9&quot; X 7.9&quot; / 1-5</title>
+      <s:price currency="CAD">14.25</s:price>
+      <s:sku>HTVDecals-ChristmasCup</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1569573797968</id>
+      <title>9&quot; X 7.9&quot; / 6-10</title>
+      <s:price currency="CAD">12.80</s:price>
+      <s:sku>HTVDecals-ChristmasCup</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1569573797968</id>
+      <title>9&quot; X 7.9&quot; / 11+</title>
+      <s:price currency="CAD">10.65</s:price>
+      <s:sku>HTVDecals-ChristmasCup</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/1566355456080</id>
+    <published>2017-02-23T08:39:00-05:00</published>
+    <updated>2017-02-23T08:39:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/christmas-tree-red-truck-with-santa-and-gifts-htv-decal"/>
+    <title>Christmas Tree Red Truck with Santa and Gifts HTV Decal</title>
+    <s:type>HTV Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/christmas_red_truck_with_santa_and_gifts_for_website.jpg?v=1541182682"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>HTV Ready Made Decals<br>
+        <strong>Price: </strong>
+            1.25 - 9.35
+            <a href="https://scriptdesigns.myshopify.com/products/christmas-tree-red-truck-with-santa-and-gifts-htv-decal">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform a plain onesie, bib, t-shirt or pillow cover into something unique with our ready to apply HTV decals. </p>
+<p>Do you need ideas to decorate a nursery? You could use a decal as the starting point.  These decals are also available in matte adhesive vinyl for wall applications.</p>
+<p>Custom sizes available upon request.</p>
+<p>Our decals are printed professionally in-house on matte finish Siser ColourPrint PU, a vinyl that is CPSIA Certified for use on children's clothing.</p>
+<p><strong><span style="text-decoration: underline;">APPLICATION INSTRUCTIONS</span></strong></p>
+<div>May be applied to:</div>
+<ul>
+<li>100% cotton</li>
+<li>100% polyester </li>
+<li>poly/cotton blends </li>
+<li>Lycra°/spandex </li>
+<li>Leather</li>
+</ul>
+<div>Preheat the item you are applying the decal to for 2-3 Seconds </div>
+<div>Press for 15-20 seconds at 295° F/146° C  with a medium pressure and peel hot.</div>
+<div></div>
+<div><span style="text-decoration: underline;"><strong></strong></span></div>
+<div><span style="text-decoration: underline;"><strong>CARE INSTRUCTIONS</strong></span></div>
+<ul>
+<li>Do not dry clean</li>
+<li>Machine wash WARM / mild detergent </li>
+<li>Dry on normal setting </li>
+<li>No chlorine bleach</li>
+<li>Wait 24 hours before first wash</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bib</s:tag>
+    <s:tag>christmas</s:tag>
+    <s:tag>christmas red truck</s:tag>
+    <s:tag>christmas tree</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>cover</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>elephant</s:tag>
+    <s:tag>friend</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>iron on</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>nursery</s:tag>
+    <s:tag>pillow</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>siser</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1566355456080</id>
+      <title>3&quot; X 1.7&quot; / 1-5</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1566355456080</id>
+      <title>3&quot; X 1.7&quot; / 6-10</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1566355456080</id>
+      <title>3&quot; X 1.7&quot; / 11+</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1566355456080</id>
+      <title>5&quot; X 2.85&quot; / 1-5</title>
+      <s:price currency="CAD">2.85</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1566355456080</id>
+      <title>5&quot; X 2.85&quot; / 6-10</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1566355456080</id>
+      <title>5&quot; X 2.85&quot; / 11+</title>
+      <s:price currency="CAD">2.15</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1566355456080</id>
+      <title>7&quot; X 3.95&quot; / 1-5</title>
+      <s:price currency="CAD">5.55</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1566355456080</id>
+      <title>7&quot; X 3.95&quot; / 6-10</title>
+      <s:price currency="CAD">4.85</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1566355456080</id>
+      <title>7&quot; X 3.95&quot; / 11+</title>
+      <s:price currency="CAD">4.15</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1566355456080</id>
+      <title>9&quot; X 5.2&quot; / 1-5</title>
+      <s:price currency="CAD">9.35</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1566355456080</id>
+      <title>9&quot; X 5.2&quot; / 6-10</title>
+      <s:price currency="CAD">8.20</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1566355456080</id>
+      <title>9&quot; X 5.2&quot; / 11+</title>
+      <s:price currency="CAD">7.05</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/1566324752464</id>
+    <published>2017-02-23T08:39:00-05:00</published>
+    <updated>2017-02-23T08:39:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/christmas-tree-red-truck-with-santa-htv-decal"/>
+    <title>Christmas Tree Red Truck with Santa HTV Decal</title>
+    <s:type>HTV Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/christmas_red_truck_image_with_santa_for_website.jpg?v=1541179521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>HTV Ready Made Decals<br>
+        <strong>Price: </strong>
+            1.25 - 10.80
+            <a href="https://scriptdesigns.myshopify.com/products/christmas-tree-red-truck-with-santa-htv-decal">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform a plain onesie, bib, t-shirt or pillow cover into something unique with our ready to apply HTV decals. </p>
+<p>Do you need ideas to decorate a nursery? You could use a decal as the starting point.  These decals are also available in matte adhesive vinyl for wall applications.</p>
+<p>Custom sizes available upon request.</p>
+<p>Our decals are printed professionally in-house on matte finish Siser ColourPrint PU, a vinyl that is CPSIA Certified for use on children's clothing.</p>
+<p><strong><span style="text-decoration: underline;">APPLICATION INSTRUCTIONS</span></strong></p>
+<div>May be applied to:</div>
+<ul>
+<li>100% cotton</li>
+<li>100% polyester </li>
+<li>poly/cotton blends </li>
+<li>Lycra°/spandex </li>
+<li>Leather</li>
+</ul>
+<div>Preheat the item you are applying the decal to for 2-3 Seconds </div>
+<div>Press for 15-20 seconds at 295° F/146° C  with a medium pressure and peel hot.</div>
+<div></div>
+<div><span style="text-decoration: underline;"><strong></strong></span></div>
+<div><span style="text-decoration: underline;"><strong>CARE INSTRUCTIONS</strong></span></div>
+<ul>
+<li>Do not dry clean</li>
+<li>Machine wash WARM / mild detergent </li>
+<li>Dry on normal setting </li>
+<li>No chlorine bleach</li>
+<li>Wait 24 hours before first wash</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bib</s:tag>
+    <s:tag>christmas</s:tag>
+    <s:tag>christmas red truck</s:tag>
+    <s:tag>christmas tree</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>cover</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>elephant</s:tag>
+    <s:tag>friend</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>iron on</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>nursery</s:tag>
+    <s:tag>pillow</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>siser</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1566324752464</id>
+      <title>3&quot; X 2&quot; / 1-5</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1566324752464</id>
+      <title>3&quot; X 2&quot; / 6-10</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1566324752464</id>
+      <title>3&quot; X 2&quot; / 11+</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1566324752464</id>
+      <title>5&quot; X 3.3&quot; / 1-5</title>
+      <s:price currency="CAD">3.30</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1566324752464</id>
+      <title>5&quot; X 3.3&quot; / 6-10</title>
+      <s:price currency="CAD">2.90</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1566324752464</id>
+      <title>5&quot; X 3.3&quot; / 11+</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1566324752464</id>
+      <title>7&quot; X 4.72&quot; / 1-5</title>
+      <s:price currency="CAD">6.60</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1566324752464</id>
+      <title>7&quot; X 4.72&quot; / 6-10</title>
+      <s:price currency="CAD">5.80</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1566324752464</id>
+      <title>7&quot; X 4.72&quot; / 11+</title>
+      <s:price currency="CAD">4.95</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1566324752464</id>
+      <title>9&quot; X 6&quot; / 1-5</title>
+      <s:price currency="CAD">10.80</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1566324752464</id>
+      <title>9&quot; X 6&quot; / 6-10</title>
+      <s:price currency="CAD">9.45</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1566324752464</id>
+      <title>9&quot; X 6&quot; / 11+</title>
+      <s:price currency="CAD">8.10</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/1566308401232</id>
+    <published>2017-02-23T08:39:00-05:00</published>
+    <updated>2017-02-23T08:39:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/christmas-tree-red-truck-htv-decal"/>
+    <title>Christmas Tree Red Truck HTV Decal</title>
+    <s:type>HTV Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/christmas_red_truck_decals_9176c2f6-f061-4385-a711-5eff9cc7dd54.jpg?v=1541177326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>HTV Ready Made Decals<br>
+        <strong>Price: </strong>
+            1.25 - 10.80
+            <a href="https://scriptdesigns.myshopify.com/products/christmas-tree-red-truck-htv-decal">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform a plain onesie, bib, t-shirt or pillow cover into something unique with our ready to apply HTV decals. </p>
+<p>Do you need ideas to decorate a nursery? You could use a decal as the starting point.  These decals are also available in matte adhesive vinyl for wall applications.</p>
+<p>Custom sizes available upon request.</p>
+<p>Our decals are printed professionally in-house on matte finish Siser ColourPrint PU, a vinyl that is CPSIA Certified for use on children's clothing.</p>
+<p><strong><span style="text-decoration: underline;">APPLICATION INSTRUCTIONS</span></strong></p>
+<div>May be applied to:</div>
+<ul>
+<li>100% cotton</li>
+<li>100% polyester </li>
+<li>poly/cotton blends </li>
+<li>Lycra°/spandex </li>
+<li>Leather</li>
+</ul>
+<div>Preheat the item you are applying the decal to for 2-3 Seconds </div>
+<div>Press for 15-20 seconds at 295° F/146° C  with a medium pressure and peel hot.</div>
+<div></div>
+<div><span style="text-decoration: underline;"><strong></strong></span></div>
+<div><span style="text-decoration: underline;"><strong>CARE INSTRUCTIONS</strong></span></div>
+<ul>
+<li>Do not dry clean</li>
+<li>Machine wash WARM / mild detergent </li>
+<li>Dry on normal setting </li>
+<li>No chlorine bleach</li>
+<li>Wait 24 hours before first wash</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bib</s:tag>
+    <s:tag>christmas</s:tag>
+    <s:tag>christmas red truck</s:tag>
+    <s:tag>christmas tree</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>cover</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>elephant</s:tag>
+    <s:tag>friend</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>iron on</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>nursery</s:tag>
+    <s:tag>pillow</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>siser</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1566308401232</id>
+      <title>3&quot; X 2&quot; / 1-5</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1566308401232</id>
+      <title>3&quot; X 2&quot; / 6-10</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1566308401232</id>
+      <title>3&quot; X 2&quot; / 11+</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1566308401232</id>
+      <title>5&quot; X 3.3&quot; / 1-5</title>
+      <s:price currency="CAD">3.30</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1566308401232</id>
+      <title>5&quot; X 3.3&quot; / 6-10</title>
+      <s:price currency="CAD">2.90</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1566308401232</id>
+      <title>5&quot; X 3.3&quot; / 11+</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1566308401232</id>
+      <title>7&quot; X 4.72&quot; / 1-5</title>
+      <s:price currency="CAD">6.60</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1566308401232</id>
+      <title>7&quot; X 4.72&quot; / 6-10</title>
+      <s:price currency="CAD">5.80</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1566308401232</id>
+      <title>7&quot; X 4.72&quot; / 11+</title>
+      <s:price currency="CAD">4.95</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1566308401232</id>
+      <title>9&quot; X 6&quot; / 1-5</title>
+      <s:price currency="CAD">10.80</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1566308401232</id>
+      <title>9&quot; X 6&quot; / 6-10</title>
+      <s:price currency="CAD">9.45</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1566308401232</id>
+      <title>9&quot; X 6&quot; / 11+</title>
+      <s:price currency="CAD">8.10</s:price>
+      <s:sku>HTVDecals-ChristmasRedTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+</feed>

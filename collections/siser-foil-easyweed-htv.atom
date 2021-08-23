@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://scriptdesigns.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://scriptdesigns.myshopify.com/collections/siser-foil-easyweed-htv.atom"/>
+  <title>ScriptDesigns</title>
+  <updated>2018-03-26T13:48:15-04:00</updated>
+  <author>
+    <name>ScriptDesigns</name>
+  </author>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/8778048582</id>
+    <published>2018-03-26T13:48:15-04:00</published>
+    <updated>2018-03-26T13:48:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/heat-transfer-foil-and-adhesive"/>
+    <title>Heat Transfer Foil and Adhesive (12&quot;x12&quot;)</title>
+    <s:type>Heat tranfer foil</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/foil_stahls.gif?v=1604336985"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Heat tranfer foil<br>
+        <strong>Price: </strong>
+            0.75 - 2.85
+            <a href="https://scriptdesigns.myshopify.com/products/heat-transfer-foil-and-adhesive">(25 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The look of foil at a reasonable price. </p>
+<p>You will get a metallic finish for a fashionable effect on any garment or promotional piece. </p>
+<p>Available in 20 different colours.  You may purchase a bundle of all 20 colours, the foil and adhesive together,  foil sheets individually as well as the adhesive sheets only.  Each sheet measures approximately 12"x12"</p>
+<p>Note that Foil no matter how it is applied, will not last forever. Foil is a specialty item and does not take the abrasion as well as other materials. Garments on which it has been applied should preferably be washed by hand and hung to dry; this can extend the length of time the foil will look good.</p>
+<p>The following video will provide plenty of information on the application of this product.</p>
+<p><a title="Foil application - HTV" href="https://www.youtube.com/watch?v=7HRzzm2cxic">https://www.youtube.com/watch?v=7HRzzm2cxic</a></p>
+<p>An application instruction sheet has been included in the images.  You may print it by right "clicking" on it.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adhesive</s:tag>
+    <s:tag>amethyst</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>black silver</s:tag>
+    <s:tag>champagne</s:tag>
+    <s:tag>classic</s:tag>
+    <s:tag>copper green</s:tag>
+    <s:tag>cracked ice</s:tag>
+    <s:tag>Foil</s:tag>
+    <s:tag>gold</s:tag>
+    <s:tag>holographic</s:tag>
+    <s:tag>kiwi</s:tag>
+    <s:tag>light rose</s:tag>
+    <s:tag>maroon</s:tag>
+    <s:tag>navy</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>pixie dust</s:tag>
+    <s:tag>rainbow</s:tag>
+    <s:tag>red</s:tag>
+    <s:tag>rose gold</s:tag>
+    <s:tag>sapphire</s:tag>
+    <s:tag>scales</s:tag>
+    <s:tag>silver</s:tag>
+    <s:tag>teal</s:tag>
+    <s:tag>waterfall</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/8778048582</id>
+      <title>Yellow Gold - Foil and Adhesive / 12&quot; X 12&quot; / n/a</title>
+      <s:price currency="CAD">2.85</s:price>
+      <s:sku>Foil&amp;Adh-YellowGold</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/8778048582</id>
+      <title>Bright Silver - Foil and Adhesive / 12&quot; X 12&quot; / n/a</title>
+      <s:price currency="CAD">2.85</s:price>
+      <s:sku>Foil&amp;Adh-BrightSilver</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/8778048582</id>
+      <title>Copper - Foil and Adhesive / 12&quot; X 12&quot; / n/a</title>
+      <s:price currency="CAD">2.85</s:price>
+      <s:sku>Foil&amp;Adh-Copper</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/8778048582</id>
+      <title>Green - Foil and Adhesive / 12&quot; X 12&quot; / n/a</title>
+      <s:price currency="CAD">2.85</s:price>
+      <s:sku>Foil&amp;Adh-Green</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/8778048582</id>
+      <title>Pink- Foil and Adhesive / 12&quot; X 12&quot; / n/a</title>
+      <s:price currency="CAD">2.85</s:price>
+      <s:sku>Foil&amp;Adh-Pink</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/8778048582</id>
+      <title>Sapphire - Foil and Adhesive / 12&quot; X 12&quot; / n/a</title>
+      <s:price currency="CAD">2.85</s:price>
+      <s:sku>Foil&amp;Adh-Sapphire</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/8778048582</id>
+      <title>Orange - Foil and Adhesive / 12&quot; X 12&quot; / n/a</title>
+      <s:price currency="CAD">2.85</s:price>
+      <s:sku>Foil&amp;Adh-Orange</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/8778048582</id>
+      <title>Bright Gold - Foil and Adhesive / 12&quot; X 12&quot; / n/a</title>
+      <s:price currency="CAD">2.85</s:price>
+      <s:sku>Foil&amp;Adh-BrGold</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/8778048582</id>
+      <title>Coral- Foil and Adhesive / 12&quot; X 12&quot; / n/a</title>
+      <s:price currency="CAD">2.85</s:price>
+      <s:sku>Foil&amp;Adh-Coral</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/8778048582</id>
+      <title>Maroon - Foil and Adhesive / 12&quot; X 12&quot; / n/a</title>
+      <s:price currency="CAD">2.85</s:price>
+      <s:sku>Foil&amp;Adh-Maroon</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/8778048582</id>
+      <title>Navy - Foil and Adhesive / 12&quot; X 12&quot; / n/a</title>
+      <s:price currency="CAD">2.85</s:price>
+      <s:sku>Foil&amp;Adh-Navy</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/8778048582</id>
+      <title>Silver Champagne - Foil and Adhesive / 12&quot; X 12&quot; / n/a</title>
+      <s:price currency="CAD">2.85</s:price>
+      <s:sku>Foil&amp;Adh-Silver Champagne</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/8778048582</id>
+      <title>Yellow Gold - Foil only / 12&quot; X 12&quot; / n/a</title>
+      <s:price currency="CAD">0.75</s:price>
+      <s:sku>Foilonly-YellowGold</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/8778048582</id>
+      <title>Bright Silver - Foil only / 12&quot; X 12&quot; / n/a</title>
+      <s:price currency="CAD">0.75</s:price>
+      <s:sku>Foilonly-BrightSilver</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/8778048582</id>
+      <title>Copper - Foil only / 12&quot; X 12&quot; / n/a</title>
+      <s:price currency="CAD">0.75</s:price>
+      <s:sku>Foilonly-Copper</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/8778048582</id>
+      <title>Green - Foil only / 12&quot; X 12&quot; / n/a</title>
+      <s:price currency="CAD">0.75</s:price>
+      <s:sku>Foilonly-Green</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/8778048582</id>
+      <title>Pink - Foil only / 12&quot; X 12&quot; / n/a</title>
+      <s:price currency="CAD">0.75</s:price>
+      <s:sku>Foilonly-Pink</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/8778048582</id>
+      <title>Saphhire Blue - Foil only / 12&quot; X 12&quot; / n/a</title>
+      <s:price currency="CAD">0.75</s:price>
+      <s:sku>Foilonly-Sapphire</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/8778048582</id>
+      <title>Orange - Foil only / 12&quot; X 12&quot; / n/a</title>
+      <s:price currency="CAD">0.75</s:price>
+      <s:sku>Foilonly-Orange</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/8778048582</id>
+      <title>Bright Gold - Foil only / 12&quot; X 12&quot; / n/a</title>
+      <s:price currency="CAD">0.75</s:price>
+      <s:sku>Foilonly-BrGold</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/8778048582</id>
+      <title>Coral - Foil only / 12&quot; X 12&quot; / n/a</title>
+      <s:price currency="CAD">0.75</s:price>
+      <s:sku>Foilonly-Coral</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/8778048582</id>
+      <title>Maroon - Foil only / 12&quot; X 12&quot; / n/a</title>
+      <s:price currency="CAD">0.75</s:price>
+      <s:sku>Foilonly-Maroon</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/8778048582</id>
+      <title>Navy - Foil only / 12&quot; X 12&quot; / n/a</title>
+      <s:price currency="CAD">0.75</s:price>
+      <s:sku>Foilonly-Navy</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/8778048582</id>
+      <title>Silver Champagne - Foil only / 12&quot; X 12&quot; / n/a</title>
+      <s:price currency="CAD">1.05</s:price>
+      <s:sku>Foilonly-SilChampagne</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/8778048582</id>
+      <title>Adhesive only 12&quot;x12&quot; / 12&quot; X 12&quot; / n/a</title>
+      <s:price currency="CAD">2.25</s:price>
+      <s:sku>Adhesive</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+</feed>

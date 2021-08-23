@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://scriptdesigns.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://scriptdesigns.myshopify.com/collections/pride-decals-adhesive.atom"/>
+  <title>ScriptDesigns</title>
+  <updated>2019-05-21T18:03:28-04:00</updated>
+  <author>
+    <name>ScriptDesigns</name>
+  </author>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/3590614450256</id>
+    <published>2019-05-21T18:03:28-04:00</published>
+    <updated>2019-05-21T18:03:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/love-is-love-heart-shape-pride-collection-adhesive-decal"/>
+    <title>Love is Love Heart Shape - Pride Collection (Adhesive Decal)</title>
+    <s:type>Adhesive Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Love-is-love-jpg_2eba62f3-fd99-4014-ba53-4bc7996c8be5.jpg?v=1558476210"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Adhesive Ready Made Decals<br>
+        <strong>Price: </strong>
+            3.00 - 10.00
+            <a href="https://scriptdesigns.myshopify.com/products/love-is-love-heart-shape-pride-collection-adhesive-decal">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em>NOTE:  The grey line shows the decal's cut line.</em></p>
+<p>Ready to peel and stick decal.  </p>
+<p>Printed in-house on permanent adhesive vinyl.</p>
+<ul></ul>
+<ul></ul>
+<div></div>
+<div></div>
+<div><span style="text-decoration: underline;"><strong></strong></span></div>
+<div><span style="text-decoration: underline;"><strong></strong></span></div>
+<div></div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adhesive</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>heart</s:tag>
+    <s:tag>love</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>pride</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>stick</s:tag>
+    <s:tag>sticker</s:tag>
+    <s:tag>stickers</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3590614450256</id>
+      <title>3&quot; x 3&quot;</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>PadhDecals-loveisloveheart-3&quot;</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3590614450256</id>
+      <title>4&quot; x 4&quot;</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>PadhDecals-loveisloveheart-4&quot;</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3590614450256</id>
+      <title>5&quot; x 5&quot;</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>PadhDecals-loveisloveheart-5&quot;</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3590614450256</id>
+      <title>6&quot; x 6&quot;</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>PadhDecals-loveisloveheart-6&quot;</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3590614450256</id>
+      <title>8&quot; x 8&quot;</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>PadhDecals-loveisloveheart-8&quot;</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3590614450256</id>
+      <title>10&quot; x 10&quot;</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>PadhDecals-loveisloveheart-10&quot;</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/3590600491088</id>
+    <published>2019-05-21T17:55:43-04:00</published>
+    <updated>2019-05-21T17:55:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/love-strong-pride-collection-adhesive-decal"/>
+    <title>Love Strong - Pride Collection (Adhesive Decal)</title>
+    <s:type>HTV Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/love-strong_e9ef34de-2a9a-4762-bc3a-934a7083d7fa.jpg?v=1558475745"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>HTV Ready Made Decals<br>
+        <strong>Price: </strong>
+            3.00 - 8.90
+            <a href="https://scriptdesigns.myshopify.com/products/love-strong-pride-collection-adhesive-decal">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All you need to do is peel and stick.  </p>
+<p>Made in-house with permanent printed adhesive vinyl.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adhesive</s:tag>
+    <s:tag>car</s:tag>
+    <s:tag>cover</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>heart</s:tag>
+    <s:tag>love</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>pride</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>strong</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3590600491088</id>
+      <title>3&quot; x  3.6&quot;</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>PadhDecals-lovestrong3&quot;</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3590600491088</id>
+      <title>4&quot; x 5&quot;</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>PadhDecals-lovestrong4&quot;</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3590600491088</id>
+      <title>6&quot; x 7.3</title>
+      <s:price currency="CAD">6.50</s:price>
+      <s:sku>PadhDecals-lovestrong6&quot;</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3590600491088</id>
+      <title>7&quot; x 8.5</title>
+      <s:price currency="CAD">7.75</s:price>
+      <s:sku>PadhDecals-lovestrong7&quot;</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3590600491088</id>
+      <title>8&quot; x 9.8&quot;</title>
+      <s:price currency="CAD">8.90</s:price>
+      <s:sku>PadhDecals-lovestrong8&quot;</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/3590560546896</id>
+    <published>2019-05-21T17:32:35-04:00</published>
+    <updated>2019-05-21T17:32:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/love-is-love-rectangle-pride-collection-htv-iron-on"/>
+    <title>Love is Love Rectangle - Pride Collection (Adhesive Decal)</title>
+    <s:type>Adhesive Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/love-is-love-rectangle-rectrangle.jpg?v=1558474368"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Adhesive Ready Made Decals<br>
+        <strong>Price: </strong>
+            2.75 - 9.00
+            <a href="https://scriptdesigns.myshopify.com/products/love-is-love-rectangle-pride-collection-htv-iron-on">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="color: #000000; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 1.4; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px 0px 1em 0px;"><em>NOTE:  The grey line shows the decal's cut line.</em></p>
+<p style="color: #000000; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 1.4; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px 0px 1em 0px;">Ready to peel and stick decal.  </p>
+<p style="color: #000000; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 1.4; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px 0px 1em 0px;">Printed in-house on permanent adhesive vinyl.</p>
+<ul></ul>
+<ul></ul>
+<div></div>
+<div></div>
+<div><span style="text-decoration: underline;"><strong></strong></span></div>
+<div><span style="text-decoration: underline;"><strong></strong></span></div>
+<div></div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>car</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>heart</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>love</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>pride</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>stick</s:tag>
+    <s:tag>sticker</s:tag>
+    <s:tag>window</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3590560546896</id>
+      <title>3&quot; wide by 2.5&quot; high</title>
+      <s:price currency="CAD">2.75</s:price>
+      <s:sku>PadhDecals-loveisloverect3&quot;</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3590560546896</id>
+      <title>4&quot; wide by 3.25&quot; high</title>
+      <s:price currency="CAD">3.35</s:price>
+      <s:sku>PadhDecals-loveisloverect4&quot;</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3590560546896</id>
+      <title>5&quot; wide by 4&quot; high</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>PadhDecals-loveisloverect5&quot;</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3590560546896</id>
+      <title>6&quot; wide by 5&quot; high</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku>PadhDecals-loveisloverect6&quot;</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3590560546896</id>
+      <title>7&quot; wide by 5.65&quot; high</title>
+      <s:price currency="CAD">6.20</s:price>
+      <s:sku>PadhDecals-loveisloverect7&quot;</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3590560546896</id>
+      <title>8&quot; wide by 6.5&quot; high</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku>PadhDecals-loveisloverect8&quot;</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3590560546896</id>
+      <title>9&quot; wide by 7.25&quot; high</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>PadhDecals-loveisloverect7&quot;</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3590560546896</id>
+      <title>10&quot; wide by 8&quot; high</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>PadhDecals-loveisloverect10&quot;</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/3590504251472</id>
+    <published>2019-05-21T16:52:22-04:00</published>
+    <updated>2019-05-21T16:52:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/copy-of-watercolour-flowers-htv-iron-on-frosted-roses-collection-4-models-available"/>
+    <title>I love 2 hearts - Pride Collection (Adhesive Decal)</title>
+    <s:type>Adhesive Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/I-2-coeurs-jpg.jpg?v=1558472147"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Adhesive Ready Made Decals<br>
+        <strong>Price: </strong>
+            2.25 - 7.75
+            <a href="https://scriptdesigns.myshopify.com/products/copy-of-watercolour-flowers-htv-iron-on-frosted-roses-collection-4-models-available">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Adhesive decal ready to peel and stick.  Printed in-house on adhesive vinyl.</p>
+<p>The decal has a white background.</p>
+<p> </p>
+<ul></ul>
+<ul></ul>
+<div></div>
+<div></div>
+<div><span style="text-decoration: underline;"><strong></strong></span></div>
+<div><span style="text-decoration: underline;"><strong></strong></span></div>
+<div></div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adhesive</s:tag>
+    <s:tag>car</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>heart</s:tag>
+    <s:tag>love</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>peel</s:tag>
+    <s:tag>pillow</s:tag>
+    <s:tag>pride</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>stick</s:tag>
+    <s:tag>sticker</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3590504251472</id>
+      <title>3&quot; wide by 1.10&quot; high</title>
+      <s:price currency="CAD">2.25</s:price>
+      <s:sku>PadhDecals-1love2hearts-3&quot;</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3590504251472</id>
+      <title>4&quot; wide by 1.5&quot; high</title>
+      <s:price currency="CAD">3.25</s:price>
+      <s:sku>PadhDecals-1love2hearts-4&quot;</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3590504251472</id>
+      <title>6&quot; wide by 2.8&quot; high</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>PadhDecals-1love2hearts-6x3</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3590504251472</id>
+      <title>8&quot; wide by 3.8&quot; high</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>PadhDecals-1love2hearts-8x3.8</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3590504251472</id>
+      <title>10&quot; wide by 4.75&quot; high</title>
+      <s:price currency="CAD">7.75</s:price>
+      <s:sku>PadhDecals-1love2hearts-10x4.75</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

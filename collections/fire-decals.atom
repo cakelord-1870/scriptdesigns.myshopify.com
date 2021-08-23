@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://scriptdesigns.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://scriptdesigns.myshopify.com/collections/fire-decals.atom"/>
+  <title>ScriptDesigns</title>
+  <updated>2019-08-27T16:14:59-04:00</updated>
+  <author>
+    <name>ScriptDesigns</name>
+  </author>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/3731613352016</id>
+    <published>2019-08-27T16:14:59-04:00</published>
+    <updated>2019-08-27T16:14:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/flames-1"/>
+    <title>Flames</title>
+    <s:type>HTV Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Flames-16-inches-wide_30b01538-0cca-4b27-99b0-68bb1cda6ec2.jpg?v=1566936920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>HTV Ready Made Decals<br>
+        <strong>Price: </strong>
+            2.35 - 10.65
+            <a href="https://scriptdesigns.myshopify.com/products/flames-1">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform a plain onesie, bib, t-shirt or pillow cover into something unique with our ready to apply HTV decals. </p>
+<p>Do you need ideas to decorate a nursery? You could use a decal as the starting point.  These decals are also available in matte adhesive vinyl for wall applications.</p>
+<p>Custom sizes available upon request.</p>
+<p>Our decals are printed professionally in-house on matte finish Siser ColourPrint PU, a vinyl that is CPSIA Certified for use on children's clothing.</p>
+<p><strong><span>APPLICATION INSTRUCTIONS</span></strong></p>
+<div>May be applied to:</div>
+<ul>
+<li>100% cotton</li>
+<li>100% polyester </li>
+<li>poly/cotton blends </li>
+<li>Lycra°/spandex </li>
+<li>LeatherAdhesive Ready Made Decals</li>
+</ul>
+<div>Preheat the item you are applying the decal to for 2-3 Seconds </div>
+<div>Press for 15-20 seconds at 295° F/146° C  with a medium pressure and peel hot.</div>
+<div></div>
+<div><span><strong></strong></span></div>
+<div><span><strong>CARE INSTRUCTIONS</strong></span></div>
+<ul>
+<li>Do not dry clean</li>
+<li>Machine wash WARM / mild detergent </li>
+<li>Dry on normal setting </li>
+<li>No chlorine bleach</li>
+<li>Wait 24 hours before first wash</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bib</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>Fire</s:tag>
+    <s:tag>Flames</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>iron on</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>pillow</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>siser</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3731613352016</id>
+      <title>Flames / 6.5&quot; W. x 1.8&quot; H.</title>
+      <s:price currency="CAD">2.35</s:price>
+      <s:sku>HTVDecals-Flames</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3731613352016</id>
+      <title>Flames / 10&quot; W x 3.7&quot; H</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>HTVDecal-Flames10</s:sku>
+      <s:grams>75</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3731613352016</id>
+      <title>Flames / 12&quot; W x 3.3 H</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>HTVDecal-Flames12</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3731613352016</id>
+      <title>Flames / 14&quot; W x 3.8&quot; H</title>
+      <s:price currency="CAD">10.65</s:price>
+      <s:sku>HTVDecal-Flames14</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/3731592872016</id>
+    <published>2019-08-27T15:48:32-04:00</published>
+    <updated>2019-08-27T15:48:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/fire-hydrant"/>
+    <title>Fire Hydrant</title>
+    <s:type>HTV Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Hydrant-4-inches-high.jpg?v=1566935324"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>HTV Ready Made Decals<br>
+        <strong>Price: </strong>
+            1.75 - 10.60
+            <a href="https://scriptdesigns.myshopify.com/products/fire-hydrant">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform a plain onesie, bib, t-shirt or pillow cover into something unique with our ready to apply HTV decals. </p>
+<p>Do you need ideas to decorate a nursery? You could use a decal as the starting point.  These decals are also available in matte adhesive vinyl for wall applications.</p>
+<p>Custom sizes available upon request.</p>
+<p>Our decals are printed professionally in-house on matte finish Siser ColourPrint PU, a vinyl that is CPSIA Certified for use on children's clothing.</p>
+<p><strong><span>APPLICATION INSTRUCTIONS</span></strong></p>
+<div>May be applied to:</div>
+<ul>
+<li>100% cotton</li>
+<li>100% polyester </li>
+<li>poly/cotton blends </li>
+<li>Lycra°/spandex </li>
+<li>LeatherAdhesive Ready Made Decals</li>
+</ul>
+<div>Preheat the item you are applying the decal to for 2-3 Seconds </div>
+<div>Press for 15-20 seconds at 295° F/146° C  with a medium pressure and peel hot.</div>
+<div></div>
+<div><span><strong></strong></span></div>
+<div><span><strong>CARE INSTRUCTIONS</strong></span></div>
+<ul>
+<li>Do not dry clean</li>
+<li>Machine wash WARM / mild detergent </li>
+<li>Dry on normal setting </li>
+<li>No chlorine bleach</li>
+<li>Wait 24 hours before first wash</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bib</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>Fire</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>iron on</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>pillow</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>siser</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:tag>Truck</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3731592872016</id>
+      <title>Fire Hydrant / 2.1&quot; W. x 4&quot; H.</title>
+      <s:price currency="CAD">1.75</s:price>
+      <s:sku>HTVDecals-Firehydrant4</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3731592872016</id>
+      <title>Fire Hydrant / 6&quot; W x 3.2&quot; H</title>
+      <s:price currency="CAD">3.85</s:price>
+      <s:sku>HTVDecal-Firehydrant6</s:sku>
+      <s:grams>75</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3731592872016</id>
+      <title>Fire Hydrant / 4.2&quot; W. x 8&quot; H.</title>
+      <s:price currency="CAD">6.75</s:price>
+      <s:sku>HTVDecals-Firehydrant8</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3731592872016</id>
+      <title>Fire Hydrant / 5.3&quot; W. x 10&quot; H.</title>
+      <s:price currency="CAD">10.60</s:price>
+      <s:sku>HTVDecals-Firehydrant10</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/3731570753616</id>
+    <published>2019-08-27T15:26:47-04:00</published>
+    <updated>2019-08-27T15:26:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/fire-hose"/>
+    <title>Fire Hose</title>
+    <s:type>HTV Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Fire-hose-4-inches-wide.jpg?v=1566934029"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>HTV Ready Made Decals<br>
+        <strong>Price: </strong>
+            3.40 - 12.75
+            <a href="https://scriptdesigns.myshopify.com/products/fire-hose">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform a plain onesie, bib, t-shirt or pillow cover into something unique with our ready to apply HTV decals. </p>
+<p>Do you need ideas to decorate a nursery? You could use a decal as the starting point.  These decals are also available in matte adhesive vinyl for wall applications.</p>
+<p>Custom sizes available upon request.</p>
+<p>Our decals are printed professionally in-house on matte finish Siser ColourPrint PU, a vinyl that is CPSIA Certified for use on children's clothing.</p>
+<p><strong><span>APPLICATION INSTRUCTIONS</span></strong></p>
+<div>May be applied to:</div>
+<ul>
+<li>100% cotton</li>
+<li>100% polyester </li>
+<li>poly/cotton blends </li>
+<li>Lycra°/spandex </li>
+<li>LeatherAdhesive Ready Made Decals</li>
+</ul>
+<div>Preheat the item you are applying the decal to for 2-3 Seconds </div>
+<div>Press for 15-20 seconds at 295° F/146° C  with a medium pressure and peel hot.</div>
+<div></div>
+<div><span><strong></strong></span></div>
+<div><span><strong>CARE INSTRUCTIONS</strong></span></div>
+<ul>
+<li>Do not dry clean</li>
+<li>Machine wash WARM / mild detergent </li>
+<li>Dry on normal setting </li>
+<li>No chlorine bleach</li>
+<li>Wait 24 hours before first wash</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bib</s:tag>
+    <s:tag>Cross</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>Fire</s:tag>
+    <s:tag>firefighter</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>iron on</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>pillow</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>siser</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3731570753616</id>
+      <title>Fire Hose / 6.6 W. x 3&quot; H.</title>
+      <s:price currency="CAD">3.40</s:price>
+      <s:sku>HTVDecals-Firehose3</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3731570753616</id>
+      <title>Fire Hose / 8.85&quot; W x 4&quot; H</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>HTVDecal-Firehose4</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3731570753616</id>
+      <title>Fire Hose / 11&quot; W x 5&quot; H</title>
+      <s:price currency="CAD">9.35</s:price>
+      <s:sku>HTVDecal-Firecross11</s:sku>
+      <s:grams>75</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3731570753616</id>
+      <title>Fire Cross / 10&quot; W x 6.6&quot; H</title>
+      <s:price currency="CAD">9.35</s:price>
+      <s:sku>HTVDecal-Firecross10</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3731570753616</id>
+      <title>Firefighter Boots / 12&quot; W x 7.9&quot; H</title>
+      <s:price currency="CAD">12.75</s:price>
+      <s:sku>HTVDecal-Firecross12</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/3731564986448</id>
+    <published>2019-08-27T15:20:58-04:00</published>
+    <updated>2019-08-27T15:20:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/fire-cross"/>
+    <title>Fire Cross</title>
+    <s:type>HTV Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Fire-cross-4-inches.jpg?v=1566933670"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>HTV Ready Made Decals<br>
+        <strong>Price: </strong>
+            2.25 - 15.00
+            <a href="https://scriptdesigns.myshopify.com/products/fire-cross">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform a plain onesie, bib, t-shirt or pillow cover into something unique with our ready to apply HTV decals. </p>
+<p>Do you need ideas to decorate a nursery? You could use a decal as the starting point.  These decals are also available in matte adhesive vinyl for wall applications.</p>
+<p>Custom sizes available upon request.</p>
+<p>Our decals are printed professionally in-house on matte finish Siser ColourPrint PU, a vinyl that is CPSIA Certified for use on children's clothing.</p>
+<p><strong><span>APPLICATION INSTRUCTIONS</span></strong></p>
+<div>May be applied to:</div>
+<ul>
+<li>100% cotton</li>
+<li>100% polyester </li>
+<li>poly/cotton blends </li>
+<li>Lycra°/spandex </li>
+<li>LeatherAdhesive Ready Made Decals</li>
+</ul>
+<div>Preheat the item you are applying the decal to for 2-3 Seconds </div>
+<div>Press for 15-20 seconds at 295° F/146° C  with a medium pressure and peel hot.</div>
+<div></div>
+<div><span><strong></strong></span></div>
+<div><span><strong>CARE INSTRUCTIONS</strong></span></div>
+<ul>
+<li>Do not dry clean</li>
+<li>Machine wash WARM / mild detergent </li>
+<li>Dry on normal setting </li>
+<li>No chlorine bleach</li>
+<li>Wait 24 hours before first wash</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bib</s:tag>
+    <s:tag>Cross</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>Fire</s:tag>
+    <s:tag>firefighter</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>iron on</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>pillow</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>siser</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3731564986448</id>
+      <title>Fire Cross / 4&quot; W. x 2.65&quot; H.</title>
+      <s:price currency="CAD">2.25</s:price>
+      <s:sku>HTVDecals-FireCross4</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3731564986448</id>
+      <title>Fire Cross / 6&quot; W x 4&quot; H</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>HTVDecal-Firecross6</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3731564986448</id>
+      <title>Firefighter Boots / 8&quot; W x 5.3&quot; H</title>
+      <s:price currency="CAD">7.80</s:price>
+      <s:sku>HTVDecal-Firecross8</s:sku>
+      <s:grams>75</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3731564986448</id>
+      <title>Fire Cross / 10&quot; W x 6.6&quot; H</title>
+      <s:price currency="CAD">11.00</s:price>
+      <s:sku>HTVDecal-Firecross10</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3731564986448</id>
+      <title>Firefighter Boots / 12&quot; W x 7.9&quot; H</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>HTVDecal-Firecross12</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/3731557711952</id>
+    <published>2019-08-27T15:15:04-04:00</published>
+    <updated>2019-08-27T15:15:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/firefighter-boots"/>
+    <title>Firefighter Boots</title>
+    <s:type>HTV Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Boots-4-inches-high.jpg?v=1566933318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>HTV Ready Made Decals<br>
+        <strong>Price: </strong>
+            2.21 - 12.75
+            <a href="https://scriptdesigns.myshopify.com/products/firefighter-boots">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform a plain onesie, bib, t-shirt or pillow cover into something unique with our ready to apply HTV decals. </p>
+<p>Do you need ideas to decorate a nursery? You could use a decal as the starting point.  These decals are also available in matte adhesive vinyl for wall applications.</p>
+<p>Custom sizes available upon request.</p>
+<p>Our decals are printed professionally in-house on matte finish Siser ColourPrint PU, a vinyl that is CPSIA Certified for use on children's clothing.</p>
+<p><strong><span>APPLICATION INSTRUCTIONS</span></strong></p>
+<div>May be applied to:</div>
+<ul>
+<li>100% cotton</li>
+<li>100% polyester </li>
+<li>poly/cotton blends </li>
+<li>Lycra°/spandex </li>
+<li>LeatherAdhesive Ready Made Decals</li>
+</ul>
+<div>Preheat the item you are applying the decal to for 2-3 Seconds </div>
+<div>Press for 15-20 seconds at 295° F/146° C  with a medium pressure and peel hot.</div>
+<div></div>
+<div><span><strong></strong></span></div>
+<div><span><strong>CARE INSTRUCTIONS</strong></span></div>
+<ul>
+<li>Do not dry clean</li>
+<li>Machine wash WARM / mild detergent </li>
+<li>Dry on normal setting </li>
+<li>No chlorine bleach</li>
+<li>Wait 24 hours before first wash</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bib</s:tag>
+    <s:tag>boots</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>Fire</s:tag>
+    <s:tag>firefighter</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>iron on</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>pillow</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>siser</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3731557711952</id>
+      <title>Firefighter Boots / 3.25&quot; W. x4&quot; H.</title>
+      <s:price currency="CAD">2.21</s:price>
+      <s:sku>HTVDecals-Fireboots</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3731557711952</id>
+      <title>Firefighter Boots / 4.95&quot; W x 6&quot; H</title>
+      <s:price currency="CAD">5.06</s:price>
+      <s:sku>HTVDecal-Fireboots6</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3731557711952</id>
+      <title>Firefighter Boots / 6.5&quot; W x 8&quot; H</title>
+      <s:price currency="CAD">7.01</s:price>
+      <s:sku>HTVDecal-Fireboots8</s:sku>
+      <s:grams>75</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3731557711952</id>
+      <title>Firefighter Boots / 8.2&quot; W x 10&quot; H</title>
+      <s:price currency="CAD">10.20</s:price>
+      <s:sku>HTVDecal-Firehat12</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3731557711952</id>
+      <title>Firefighter Boots / 9.8&quot; W x 12&quot; H</title>
+      <s:price currency="CAD">12.75</s:price>
+      <s:sku>HTVDecal-Fireboots12</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/3731552796752</id>
+    <published>2019-08-27T15:10:14-04:00</published>
+    <updated>2019-08-27T15:10:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/fire-hat"/>
+    <title>Fire Hat</title>
+    <s:type>HTV Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Fire-hat-4-inches-red.jpg?v=1566933032"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>HTV Ready Made Decals<br>
+        <strong>Price: </strong>
+            2.40 - 15.00
+            <a href="https://scriptdesigns.myshopify.com/products/fire-hat">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform a plain onesie, bib, t-shirt or pillow cover into something unique with our ready to apply HTV decals. </p>
+<p>Do you need ideas to decorate a nursery? You could use a decal as the starting point.  These decals are also available in matte adhesive vinyl for wall applications.</p>
+<p>Custom sizes available upon request.</p>
+<p>Our decals are printed professionally in-house on matte finish Siser ColourPrint PU, a vinyl that is CPSIA Certified for use on children's clothing.</p>
+<p><strong><span>APPLICATION INSTRUCTIONS</span></strong></p>
+<div>May be applied to:</div>
+<ul>
+<li>100% cotton</li>
+<li>100% polyester </li>
+<li>poly/cotton blends </li>
+<li>Lycra°/spandex </li>
+<li>LeatherAdhesive Ready Made Decals</li>
+</ul>
+<div>Preheat the item you are applying the decal to for 2-3 Seconds </div>
+<div>Press for 15-20 seconds at 295° F/146° C  with a medium pressure and peel hot.</div>
+<div></div>
+<div><span><strong></strong></span></div>
+<div><span><strong>CARE INSTRUCTIONS</strong></span></div>
+<ul>
+<li>Do not dry clean</li>
+<li>Machine wash WARM / mild detergent </li>
+<li>Dry on normal setting </li>
+<li>No chlorine bleach</li>
+<li>Wait 24 hours before first wash</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bib</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>Fire</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>iron on</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>pillow</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>siser</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:tag>Truck</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3731552796752</id>
+      <title>Fire Hat (HTV Decal) / 4&quot; W. x 3&quot; H.</title>
+      <s:price currency="CAD">2.40</s:price>
+      <s:sku>HTVDecals-FireHat</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3731552796752</id>
+      <title>Fire Hat (HTV Decal) / 6&quot; W x 4.7&quot; H</title>
+      <s:price currency="CAD">5.60</s:price>
+      <s:sku>HTVDecal-Firehat6</s:sku>
+      <s:grams>75</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3731552796752</id>
+      <title>Fire Hat (HTV Decal) / 8&quot; W x 6.2&quot; H</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>HTVDecal-Firehat8</s:sku>
+      <s:grams>75</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3731552796752</id>
+      <title>Fire Hat (HTV Decal) / 10&quot; W x 7.75&quot; H</title>
+      <s:price currency="CAD">11.55</s:price>
+      <s:sku>HTVDecal-Firehat10</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3731552796752</id>
+      <title>Fire Hat (HTV Decal) / 12&quot; W x 9.3&quot; H</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>HTVDecal-Firehat12</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/3731500105808</id>
+    <published>2019-08-27T14:17:50-04:00</published>
+    <updated>2019-08-27T14:17:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/fire-series-htv-decal"/>
+    <title>Fire Truck</title>
+    <s:type>HTV Ready Made Decals</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Fire-truck-6-inches.jpg?v=1566932606"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>HTV Ready Made Decals<br>
+        <strong>Price: </strong>
+            2.65 - 7.40
+            <a href="https://scriptdesigns.myshopify.com/products/fire-series-htv-decal">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform a plain onesie, bib, t-shirt or pillow cover into something unique with our ready to apply HTV decals. </p>
+<p>Do you need ideas to decorate a nursery? You could use a decal as the starting point.  These decals are also available in matte adhesive vinyl for wall applications.</p>
+<p>Custom sizes available upon request.</p>
+<p>Our decals are printed professionally in-house on matte finish Siser ColourPrint PU, a vinyl that is CPSIA Certified for use on children's clothing.</p>
+<p><strong><span>APPLICATION INSTRUCTIONS</span></strong></p>
+<div>May be applied to:</div>
+<ul>
+<li>100% cotton</li>
+<li>100% polyester </li>
+<li>poly/cotton blends </li>
+<li>Lycra°/spandex </li>
+<li>LeatherAdhesive Ready Made Decals</li>
+</ul>
+<div>Preheat the item you are applying the decal to for 2-3 Seconds </div>
+<div>Press for 15-20 seconds at 295° F/146° C  with a medium pressure and peel hot.</div>
+<div></div>
+<div><span><strong></strong></span></div>
+<div><span><strong>CARE INSTRUCTIONS</strong></span></div>
+<ul>
+<li>Do not dry clean</li>
+<li>Machine wash WARM / mild detergent </li>
+<li>Dry on normal setting </li>
+<li>No chlorine bleach</li>
+<li>Wait 24 hours before first wash</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bib</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>Decal</s:tag>
+    <s:tag>decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>Fire</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>iron on</s:tag>
+    <s:tag>made</s:tag>
+    <s:tag>pillow</s:tag>
+    <s:tag>press</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>siser</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:tag>Truck</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3731500105808</id>
+      <title>Fire Truck / 6&quot; W. x 2.2&quot; H.</title>
+      <s:price currency="CAD">2.65</s:price>
+      <s:sku>HTVDecals-FireTruck</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/3731500105808</id>
+      <title>Fire Truck / 10&quot; W x 3.7&quot; H</title>
+      <s:price currency="CAD">7.40</s:price>
+      <s:sku>HTVDecal-FireTruck10in</s:sku>
+      <s:grams>75</s:grams>
+    </s:variant>
+  </entry>
+</feed>

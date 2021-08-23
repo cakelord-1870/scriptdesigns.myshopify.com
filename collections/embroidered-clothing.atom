@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://scriptdesigns.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://scriptdesigns.myshopify.com/collections/embroidered-clothing.atom"/>
+  <title>ScriptDesigns</title>
+  <updated>2021-04-02T15:14:05-04:00</updated>
+  <author>
+    <name>ScriptDesigns</name>
+  </author>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/6552162631760</id>
+    <published>2021-04-02T15:14:05-04:00</published>
+    <updated>2021-04-02T15:14:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/t-shirt-brode-embroidered-t-shirt"/>
+    <title>T-Shirt Brodé  Embroidered T-Shirt</title>
+    <s:type></s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/for-web.jpg?v=1617390846"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>(Prévoir au moins une semaine avant la mise à la poste)</p>
+<p>T-shirt avec broderie de superbe qualité pour femme.</p>
+<p>Tissu:</p>
+<ul>
+<li>6 oz, 100 % coton prérétréci</li>
+</ul>
+<p>Caractéristiques: </p>
+<ul>
+<li>Manches et ourlet surpiqués à double aiguille</li>
+<li>Ruban de renforcement d'épaule à épaule</li>
+<li>Ruban à l'encolure et aux épaules</li>
+</ul>
+<p>******</p>
+<p>(Plan at least a week before item is shipped)</p>
+<p>Ladies t-shirt with exceptional embroidery quality</p>
+<p>Fabric:</p>
+<ul>
+<li>6 oz, 100 % pre-shrunk cotton</li>
+</ul>
+<p>Features:<br></p>
+<ul>
+<li>Double-needle sleeve and bottom hem</li>
+<li>Seamless double-needle 7/8" collar</li>
+<li>Taped neck and shoulders</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>baril</s:tag>
+    <s:tag>barrel racer</s:tag>
+    <s:tag>broderie</s:tag>
+    <s:tag>cheval</s:tag>
+    <s:tag>course de baril</s:tag>
+    <s:tag>embroidery</s:tag>
+    <s:tag>femme</s:tag>
+    <s:tag>horse</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:tag>western</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6552162631760</id>
+      <title>X-Petit / X-Small / Blanc / White</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6552162631760</id>
+      <title>X-Petit / X-Small / Gris cendre / Ash Grey</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6552162631760</id>
+      <title>Petit / Small / Blanc / White</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6552162631760</id>
+      <title>Petit / Small / Gris cendre / Ash Grey</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6552162631760</id>
+      <title>Moyen / Medium / Blanc / White</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6552162631760</id>
+      <title>Moyen / Medium / Gris cendre / Ash Grey</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6552162631760</id>
+      <title>Large / Blanc / White</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6552162631760</id>
+      <title>Large / Gris cendre / Ash Grey</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6552162631760</id>
+      <title>X-Large / Blanc / White</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6552162631760</id>
+      <title>X-Large / Gris cendre / Ash Grey</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/6548873085008</id>
+    <published>2021-03-25T12:31:00-04:00</published>
+    <updated>2021-03-25T12:31:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/spring-jacket-ladies-gypsy-embroidery-manteau-de-printemps-broderie-gypsy"/>
+    <title>Spring Jacket Ladies - Gypsy Embroidery / Manteau de printemps - Broderie Gypsy</title>
+    <s:type>Embroidered Clothing</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/FacebookAd_bb5658c9-296c-4dfe-8856-a42b4557ded1.png?v=1616689691"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Embroidered Clothing<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>broderie</s:tag>
+    <s:tag>cream</s:tag>
+    <s:tag>Embroidered</s:tag>
+    <s:tag>gypsy</s:tag>
+    <s:tag>horse</s:tag>
+    <s:tag>jacket</s:tag>
+    <s:tag>jacquet</s:tag>
+    <s:tag>manteau</s:tag>
+    <s:tag>spring</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6548873085008</id>
+      <title>Small</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6548873085008</id>
+      <title>Medium</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6548873085008</id>
+      <title>Large</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6548873085008</id>
+      <title>X-Large</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/6546800312400</id>
+    <published>2021-03-21T10:10:43-04:00</published>
+    <updated>2021-03-21T10:10:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/long-sleeve-jacquet-ladies-stallion-embroidery"/>
+    <title>Long Sleeve Jacquet Ladies - Stallion Embroidery</title>
+    <s:type>Embroidered Clothing</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/163534649_475593130465957_6200698842938097850_n.jpg?v=1616335855"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Embroidered Clothing<br>
+        <strong>Price: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cream</s:tag>
+    <s:tag>Embroidered</s:tag>
+    <s:tag>grey</s:tag>
+    <s:tag>horse</s:tag>
+    <s:tag>jacquet</s:tag>
+    <s:tag>stallion</s:tag>
+    <s:tag>vest</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6546800312400</id>
+      <title>Small</title>
+      <s:price currency="CAD">70.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6546800312400</id>
+      <title>Medium</title>
+      <s:price currency="CAD">70.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6546800312400</id>
+      <title>Large</title>
+      <s:price currency="CAD">70.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6546800312400</id>
+      <title>X-Large</title>
+      <s:price currency="CAD">70.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+</feed>

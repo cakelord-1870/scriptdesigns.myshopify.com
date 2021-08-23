@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://scriptdesigns.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://scriptdesigns.myshopify.com/collections/covid-19-decals.atom"/>
+  <title>ScriptDesigns</title>
+  <updated>2020-03-31T15:33:02-04:00</updated>
+  <author>
+    <name>ScriptDesigns</name>
+  </author>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/4506285375568</id>
+    <published>2020-03-31T15:33:02-04:00</published>
+    <updated>2020-03-31T15:33:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/ca-va-bien-aller-its-going-to-be-ok-adhesive-decals"/>
+    <title>Ca Va Bien Aller / It&apos;s Going to Be OK - Adhesive Decals</title>
+    <s:type></s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/cavabienaller_e2e777fe-db4e-4757-a9b5-378887f60e69.jpg?v=1585683186"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.00 - 2.75
+            <a href="https://scriptdesigns.myshopify.com/products/ca-va-bien-aller-its-going-to-be-ok-adhesive-decals">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Suggested Sizes: decals can be put on windows, car decals, laptop, mug, glass...</strong></p>
+<p>Car Decal / Window - 11" X 6.3"</p>
+<p>Car Window, fridge - 8.5" X 4.9"<br></p>
+<p> Mugs (15oz), laptop - 5.5" X 3.2"</p>
+<p>Mugs (11oz) - 4"x2.3"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>COVID-19</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>fruit of the loom</s:tag>
+    <s:tag>gift</s:tag>
+    <s:tag>gildan</s:tag>
+    <s:tag>hoodie</s:tag>
+    <s:tag>hoodies</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>ITS GOING TO BE OK</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4506285375568</id>
+      <title>11&quot;X6.3&quot; / Ca Va Bien Aller</title>
+      <s:price currency="CAD">2.75</s:price>
+      <s:sku>CAVABIENALLERHTV-7</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4506285375568</id>
+      <title>8.5&quot;X4.9&quot; / Ca Va Bien Aller</title>
+      <s:price currency="CAD">1.65</s:price>
+      <s:sku>CAVABIENALLERHTV-8</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4506285375568</id>
+      <title>5.5X3.2&quot; / Ca Va Bien Aller</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>CAVABIENALLERHTV-9</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4506285375568</id>
+      <title>4&quot;X2.3&quot; / Ca Va Bien Aller</title>
+      <s:price currency="CAD">1.00</s:price>
+      <s:sku>CAVABIENALLERHTV-10</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4506285375568</id>
+      <title>11&quot;x6.3&quot; / It&apos;s going to be OK</title>
+      <s:price currency="CAD">2.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4506285375568</id>
+      <title>8.5&quot;X4.9&quot; / It&apos;s going to be OK</title>
+      <s:price currency="CAD">1.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4506285375568</id>
+      <title>5.5&quot;x3.2&quot; / It&apos;s going to be OK</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4506285375568</id>
+      <title>4&quot;x2.3&quot; / It&apos;s going to be OK</title>
+      <s:price currency="CAD">1.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4506285375568</id>
+      <title>11&quot;X6.3&quot; / Rainbow Only/Arc-en-ciel</title>
+      <s:price currency="CAD">2.75</s:price>
+      <s:sku>CAVABIENALLERHTV-7</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4506285375568</id>
+      <title>8.5&quot;X4.9&quot; / Rainbow Only/Arc-en-ciel</title>
+      <s:price currency="CAD">1.65</s:price>
+      <s:sku>CAVABIENALLERHTV-8</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4506285375568</id>
+      <title>5.5X3.2&quot; / Rainbow Only/Arc-en-ciel</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>CAVABIENALLERHTV-9</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4506285375568</id>
+      <title>4&quot;X2.3&quot; / Rainbow Only/Arc-en-ciel</title>
+      <s:price currency="CAD">1.00</s:price>
+      <s:sku>CAVABIENALLERHTV-10</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/4506274791504</id>
+    <published>2020-03-31T15:09:22-04:00</published>
+    <updated>2020-03-31T15:09:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/ca-va-bien-aller-htv-decal"/>
+    <title>Ca Va Bien Aller / It&apos;s Going to Be OK - HTV Decal</title>
+    <s:type></s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/cavabienaller.jpg?v=1585682140"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.40 - 5.55
+            <a href="https://scriptdesigns.myshopify.com/products/ca-va-bien-aller-htv-decal">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Suggested Sizes:</strong></p>
+<p>Adult TShirt - 11" X 6.3"</p>
+<p>Youth TShirt (Med/Large) - 10.5" X 6"</p>
+<p>Youth TShirt (Small) - 8.5" X 4.9"</p>
+<p>Toddler / Onesie - 5.5" X 3.2"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>COVID-19</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>French</s:tag>
+    <s:tag>fruit of the loom</s:tag>
+    <s:tag>gift</s:tag>
+    <s:tag>gildan</s:tag>
+    <s:tag>hoodie</s:tag>
+    <s:tag>hoodies</s:tag>
+    <s:tag>HTV</s:tag>
+    <s:tag>ITS GOING TO BE OK</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4506274791504</id>
+      <title>11&quot;x6.3&quot; / Ca Vas Bien Aller</title>
+      <s:price currency="CAD">5.55</s:price>
+      <s:sku>ITSGOINGTOBEOKHTV-1</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4506274791504</id>
+      <title>10.5&quot;x6&quot; / Ca Vas Bien Aller</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>CAVABIENALLERHTV-3</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4506274791504</id>
+      <title>8.5&quot;x4.9&quot; / Ca Vas Bien Aller</title>
+      <s:price currency="CAD">3.35</s:price>
+      <s:sku>CAVABIENALLERHTV-5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4506274791504</id>
+      <title>5.5x3.2&quot; / Ca Vas Bien Aller</title>
+      <s:price currency="CAD">1.40</s:price>
+      <s:sku>CAVABIENALLERHTV-7</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4506274791504</id>
+      <title>11&quot;x6.3&quot; / It&apos;s going to be ok</title>
+      <s:price currency="CAD">5.55</s:price>
+      <s:sku>ITSGOINGTOBEOKHTV-1</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4506274791504</id>
+      <title>10.5&quot;x6&quot; / It&apos;s going to be ok</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>CAVABIENALLERHTV-3</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4506274791504</id>
+      <title>8.5&quot;x4.9&quot; / It&apos;s going to be ok</title>
+      <s:price currency="CAD">3.35</s:price>
+      <s:sku>CAVABIENALLERHTV-5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4506274791504</id>
+      <title>5.5x3.2&quot; / It&apos;s going to be ok</title>
+      <s:price currency="CAD">1.40</s:price>
+      <s:sku>CAVABIENALLERHTV-7</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4506274791504</id>
+      <title>11&quot;x6.3&quot; / Rainbow Only/Arc-en-ciel</title>
+      <s:price currency="CAD">5.55</s:price>
+      <s:sku>ITSGOINGTOBEOKHTV-1</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4506274791504</id>
+      <title>10.5&quot;x6&quot; / Rainbow Only/Arc-en-ciel</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>CAVABIENALLERHTV-3</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4506274791504</id>
+      <title>8.5&quot;x4.9&quot; / Rainbow Only/Arc-en-ciel</title>
+      <s:price currency="CAD">3.35</s:price>
+      <s:sku>CAVABIENALLERHTV-5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/4506274791504</id>
+      <title>5.5x3.2&quot; / Rainbow Only/Arc-en-ciel</title>
+      <s:price currency="CAD">1.40</s:price>
+      <s:sku>CAVABIENALLERHTV-7</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,875 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://scriptdesigns.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://scriptdesigns.myshopify.com/collections/oracal-751.atom"/>
+  <title>ScriptDesigns</title>
+  <updated>2018-07-17T17:18:04-04:00</updated>
+  <author>
+    <name>ScriptDesigns</name>
+  </author>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/1429860057168</id>
+    <published>2018-07-17T17:18:04-04:00</published>
+    <updated>2018-07-17T17:18:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/751-oracal-marine-grade-rolls-from-5-to-50-yards"/>
+    <title>751 Oracal Marine grade - Rolls from 5 to 50 yards</title>
+    <s:type>Oracal 751</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/751-010-WHITE_fafdc0b2-34fc-4332-a5ec-267437ee1557.gif?v=1531853642"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Oracal 751<br>
+        <strong>Price: </strong>
+            33.75 - 67.50
+            <a href="https://scriptdesigns.myshopify.com/products/751-oracal-marine-grade-rolls-from-5-to-50-yards">(44 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="display: inline !important; float: none; background-color: transparent; color: #000000; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 21px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">Oracal 751 is an ideal choice for permanent and longer-term outdoor graphics, especially on boats and products that come in contact with water. It's is available in 22 colours.</span></p>
+<p>Although it may be used on glassware and other washable objects, we can't guarantee the adherence of the product in high heat water temperatures. We recommend hand wash using mild dish soap and avoid soaking.</p>
+<p>For more information on this line of products, please follow this link:</p>
+<p><a href="https://www.orafol.com/gp/americas/en/products/plotter-films-product-details-10187/items/oracal-751c-high-performance-cast">https://www.orafol.com/gp/americas/en/products/plotter-films-product-details-10187/items/oracal-751c-high-performance-cast</a></p>
+<p>Please note the colour samples shown here were created using the exact RBG formula, but your screen may not reflect the exact color of vinyl.</p>
+<p><span style="display: inline !important; float: none; background-color: transparent; color: #000000; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 21px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">Per the Oracal spec sheets (or the Oracal USA app available for iPhone and Android), the temperature resistance of Oracal 651 film is -40° F through +176° F.   Oracal 751 is rated up to 230° F - ditto for Oracal 951.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>751</s:tag>
+    <s:tag>adhesive</s:tag>
+    <s:tag>bateau</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>high cast</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>marine grade</s:tag>
+    <s:tag>oracal</s:tag>
+    <s:tag>sign making</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1429860057168</id>
+      <title>12&quot;x5 yards / 010 White</title>
+      <s:price currency="CAD">33.75</s:price>
+      <s:sku>751-010-12x5yards-17juillet2018</s:sku>
+      <s:grams>360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1429860057168</id>
+      <title>12&quot;x5 yards / 010 White Matte</title>
+      <s:price currency="CAD">33.75</s:price>
+      <s:sku>751-010-M-12x5 yards-17 juillet 2018</s:sku>
+      <s:grams>360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1429860057168</id>
+      <title>12&quot;x5 yards / 070 Black</title>
+      <s:price currency="CAD">33.75</s:price>
+      <s:sku>751-070-12x5 yards-17 juillet 2018</s:sku>
+      <s:grams>360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1429860057168</id>
+      <title>12&quot;x5 yards / 070 Black Matte</title>
+      <s:price currency="CAD">33.75</s:price>
+      <s:sku>751-070-M-12x5 yards - 17 juillet 2018</s:sku>
+      <s:grams>360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1429860057168</id>
+      <title>12&quot;x5 yards / 090 Silver</title>
+      <s:price currency="CAD">33.75</s:price>
+      <s:sku>751-090-12x5 yards - 17 juillet 2018</s:sku>
+      <s:grams>360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1429860057168</id>
+      <title>12&quot;x5 yards / 930 Gold</title>
+      <s:price currency="CAD">33.75</s:price>
+      <s:sku>751-930-12x5 yards - 17 juillet 2018</s:sku>
+      <s:grams>360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1429860057168</id>
+      <title>12&quot;x5 yards / 071 Grey</title>
+      <s:price currency="CAD">33.75</s:price>
+      <s:sku>751-071-12x5 yards - 17 juillet 2018</s:sku>
+      <s:grams>360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1429860057168</id>
+      <title>12&quot;x5 yards / 093 Anthracite</title>
+      <s:price currency="CAD">33.75</s:price>
+      <s:sku>751-093-12x5 yards - 17 juillet 2018</s:sku>
+      <s:grams>360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1429860057168</id>
+      <title>12&quot;x5 yards / 021 Yellow</title>
+      <s:price currency="CAD">33.75</s:price>
+      <s:sku>751-021-12x5 yards - 17 juillet 2018</s:sku>
+      <s:grams>360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1429860057168</id>
+      <title>12&quot;x5 yards / 034 Orange</title>
+      <s:price currency="CAD">33.75</s:price>
+      <s:sku>751-034-12x5 yards - 17 juillet 2018</s:sku>
+      <s:grams>360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1429860057168</id>
+      <title>12&quot;x5 yards / 031 Red</title>
+      <s:price currency="CAD">33.75</s:price>
+      <s:sku>751-031-12x5 yards - 17 juillet 2018</s:sku>
+      <s:grams>360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1429860057168</id>
+      <title>12&quot;x5 yards / 044 Magenta</title>
+      <s:price currency="CAD">33.75</s:price>
+      <s:sku>751-044-12x5 yards - 17 juillet 2018</s:sku>
+      <s:grams>360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1429860057168</id>
+      <title>12&quot;x5 yards / 043 Lavender</title>
+      <s:price currency="CAD">33.75</s:price>
+      <s:sku>751-043-12x5 yards - 17 juillet 2018</s:sku>
+      <s:grams>360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1429860057168</id>
+      <title>12&quot;x5 yards / 055 Mint</title>
+      <s:price currency="CAD">33.75</s:price>
+      <s:sku>751-055-12x5 yards - 17 juillet 2018</s:sku>
+      <s:grams>360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1429860057168</id>
+      <title>12&quot;x5 yards / 054 Turquoise</title>
+      <s:price currency="CAD">33.75</s:price>
+      <s:sku>751-054-12x5 yards - 17 juillet 2018</s:sku>
+      <s:grams>360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1429860057168</id>
+      <title>12&quot;x5 yards / 607 Turquoise Green</title>
+      <s:price currency="CAD">33.75</s:price>
+      <s:sku>751-607-12x5 yards - 17 juillet 2018</s:sku>
+      <s:grams>360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1429860057168</id>
+      <title>12&quot;x5 yards / 608 Petrol</title>
+      <s:price currency="CAD">33.75</s:price>
+      <s:sku>751-608-12x5 yards - 17 juillet 2018</s:sku>
+      <s:grams>360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1429860057168</id>
+      <title>12&quot;x5 yards / 617 Emerald</title>
+      <s:price currency="CAD">33.75</s:price>
+      <s:sku>751-617-12x5 yards - 17 juillet 2018</s:sku>
+      <s:grams>360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1429860057168</id>
+      <title>12&quot;x5 yards / 062 Light Green</title>
+      <s:price currency="CAD">33.75</s:price>
+      <s:sku>751-062-12x5 yards - 17 juillet 2018</s:sku>
+      <s:grams>360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1429860057168</id>
+      <title>12&quot;x5 yards / 053 Light Blue</title>
+      <s:price currency="CAD">33.75</s:price>
+      <s:sku>751-053-12x5 yards - 17 juillet 2018</s:sku>
+      <s:grams>360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1429860057168</id>
+      <title>12&quot;x5 yards / 067 Blue</title>
+      <s:price currency="CAD">33.75</s:price>
+      <s:sku>751-067-12x5 yards - 17 juillet 2018</s:sku>
+      <s:grams>360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1429860057168</id>
+      <title>12&quot;x5 yards / 080 Brown</title>
+      <s:price currency="CAD">33.75</s:price>
+      <s:sku>751-080-12x5 yards - 17 juillet 2018</s:sku>
+      <s:grams>360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1429860057168</id>
+      <title>12&apos;&apos;x10 yards / 010 White</title>
+      <s:price currency="CAD">67.50</s:price>
+      <s:sku>751-010-12x10 yards - 17 juillet 2018</s:sku>
+      <s:grams>720</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1429860057168</id>
+      <title>12&apos;&apos;x10 yards / 010 White Matte</title>
+      <s:price currency="CAD">67.50</s:price>
+      <s:sku>751-010-M-12x10 yards - 17 juillet 2018</s:sku>
+      <s:grams>720</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1429860057168</id>
+      <title>12&apos;&apos;x10 yards / 070 Black</title>
+      <s:price currency="CAD">67.50</s:price>
+      <s:sku>751-070-12x10 yards - 17 juillet 2018</s:sku>
+      <s:grams>720</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1429860057168</id>
+      <title>12&apos;&apos;x10 yards / 070 Black Matte</title>
+      <s:price currency="CAD">67.50</s:price>
+      <s:sku>751-070-M-12x10 yards - 17 juillet 2018</s:sku>
+      <s:grams>720</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1429860057168</id>
+      <title>12&apos;&apos;x10 yards / 090 Silver</title>
+      <s:price currency="CAD">67.50</s:price>
+      <s:sku>751-090-12x10 yards - 17 juillet 2018</s:sku>
+      <s:grams>720</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1429860057168</id>
+      <title>12&apos;&apos;x10 yards / 930 Gold</title>
+      <s:price currency="CAD">67.50</s:price>
+      <s:sku>751-930-12x10 yards - 17 juillet 2018</s:sku>
+      <s:grams>720</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1429860057168</id>
+      <title>12&apos;&apos;x10 yards / 071 Grey</title>
+      <s:price currency="CAD">67.50</s:price>
+      <s:sku>751-071-12x10 yards - 17 juillet 2018</s:sku>
+      <s:grams>720</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1429860057168</id>
+      <title>12&apos;&apos;x10 yards / 093 Anthracite</title>
+      <s:price currency="CAD">67.50</s:price>
+      <s:sku>751-093-12x10 yards - 17 juillet 2018</s:sku>
+      <s:grams>720</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1429860057168</id>
+      <title>12&apos;&apos;x10 yards / 021 Yellow</title>
+      <s:price currency="CAD">67.50</s:price>
+      <s:sku>751-021-12x10 yards - 17 juillet 2018</s:sku>
+      <s:grams>720</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1429860057168</id>
+      <title>12&apos;&apos;x10 yards / 034 Orange</title>
+      <s:price currency="CAD">67.50</s:price>
+      <s:sku>751-034-12x10 yards - 17 juillet 2018</s:sku>
+      <s:grams>720</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1429860057168</id>
+      <title>12&apos;&apos;x10 yards / 031 Red</title>
+      <s:price currency="CAD">67.50</s:price>
+      <s:sku>751-031-12x10 yards - 17 juillet 2018</s:sku>
+      <s:grams>720</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1429860057168</id>
+      <title>12&apos;&apos;x10 yards / 044 Magenta</title>
+      <s:price currency="CAD">67.50</s:price>
+      <s:sku>751-044-12x10 yards - 17 juillet 2018</s:sku>
+      <s:grams>720</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1429860057168</id>
+      <title>12&apos;&apos;x10 yards / 043 Lavender</title>
+      <s:price currency="CAD">67.50</s:price>
+      <s:sku>751-043-12x10 yards - 17 juillet 2018</s:sku>
+      <s:grams>720</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1429860057168</id>
+      <title>12&apos;&apos;x10 yards / 055 Mint</title>
+      <s:price currency="CAD">67.50</s:price>
+      <s:sku>751-055-12x10 yards - 17 juillet 2018</s:sku>
+      <s:grams>720</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1429860057168</id>
+      <title>12&apos;&apos;x10 yards / 054 Turquoise</title>
+      <s:price currency="CAD">67.50</s:price>
+      <s:sku>751-054-12x10 yards - 17 juillet 2018</s:sku>
+      <s:grams>720</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1429860057168</id>
+      <title>12&apos;&apos;x10 yards / 607 Turquoise Green</title>
+      <s:price currency="CAD">67.50</s:price>
+      <s:sku>751-607-12x10 yards - 17 juillet 2018</s:sku>
+      <s:grams>720</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1429860057168</id>
+      <title>12&apos;&apos;x10 yards / 608 Petrol</title>
+      <s:price currency="CAD">67.50</s:price>
+      <s:sku>751-608-12x10 yards - 17 juillet 2018</s:sku>
+      <s:grams>720</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1429860057168</id>
+      <title>12&apos;&apos;x10 yards / 617 Emerald</title>
+      <s:price currency="CAD">67.50</s:price>
+      <s:sku>751-607-12x10 yards - 17 juillet 2018</s:sku>
+      <s:grams>720</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1429860057168</id>
+      <title>12&apos;&apos;x10 yards / 062 Light Green</title>
+      <s:price currency="CAD">67.50</s:price>
+      <s:sku>751-062-12x10 yards - 17 juillet 2018</s:sku>
+      <s:grams>720</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1429860057168</id>
+      <title>12&apos;&apos;x10 yards / 053 Light Blue</title>
+      <s:price currency="CAD">67.50</s:price>
+      <s:sku>751-053-12x10 yards - 17 juillet 2018</s:sku>
+      <s:grams>720</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1429860057168</id>
+      <title>12&apos;&apos;x10 yards / 067 Blue</title>
+      <s:price currency="CAD">67.50</s:price>
+      <s:sku>751-067-12x10 yards - 17 juillet 2018</s:sku>
+      <s:grams>720</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1429860057168</id>
+      <title>12&apos;&apos;x10 yards / 080 Brown</title>
+      <s:price currency="CAD">67.50</s:price>
+      <s:sku>751-080-12x10 yards - 17 juillet 2018</s:sku>
+      <s:grams>720</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+    <published>2018-06-21T12:31:48-04:00</published>
+    <updated>2018-06-21T12:31:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/751-oracal-marine-grade-the-white-black-and-metallic-tones"/>
+    <title>751 Oracal Marine grade - Sheets from 12&apos;&apos; to 36&apos;&apos; (1 yard)</title>
+    <s:type>Oracal 751</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/751-010-WHITE.gif?v=1529596236"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>Oracal 751<br>
+        <strong>Price: </strong>
+            2.50 - 7.25
+            <a href="https://scriptdesigns.myshopify.com/products/751-oracal-marine-grade-the-white-black-and-metallic-tones">(66 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="display: inline !important; float: none; background-color: transparent; color: #000000; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 21px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">Oracal 751 is an ideal choice for permanent and longer-term outdoor graphics, especially on boats and products that come in contact with water. It's is available in 22 colours.</span></p>
+<p>Although it may be used on glassware and other washable objects, we can't guarantee the adherence of the product in high heat water temperatures. We recommend hand wash using mild dish soap and avoid soaking.</p>
+<p>For more information on this line of products, please follow this link:</p>
+<p><a href="https://www.orafol.com/gp/americas/en/products/plotter-films-product-details-10187/items/oracal-751c-high-performance-cast">https://www.orafol.com/gp/americas/en/products/plotter-films-product-details-10187/items/oracal-751c-high-performance-cast</a></p>
+<p>Please note the colour samples shown here were created using the exact RBG formula, but your screen may not reflect the exact color of vinyl.</p>
+<p><span style="display: inline !important; float: none; background-color: transparent; color: #000000; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 21px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">Per the Oracal spec sheets (or the Oracal USA app available for iPhone and Android), the temperature resistance of Oracal 651 film is -40° F through +176° F.   Oracal 751 is rated up to 230° F - ditto for Oracal 951.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>751</s:tag>
+    <s:tag>adhesive</s:tag>
+    <s:tag>bateau</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>high cast</s:tag>
+    <s:tag>marine</s:tag>
+    <s:tag>marine grade</s:tag>
+    <s:tag>oracal</s:tag>
+    <s:tag>sign making</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&quot;x12&quot; / 010 White</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>751-010-12x12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&quot;x12&quot; / 010 White Matte</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>751-010-M-12x12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&quot;x12&quot; / 070 Black</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>751-070-12x12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&quot;x12&quot; / 070 Black Matte</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>751-070-M-12x12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&quot;x12&quot; / 090 Silver</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>751-090-12x12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&quot;x12&quot; / 930 Gold</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>751-930-12x12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&quot;x12&quot; / 071 Grey</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>751-071-12x12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&quot;x12&quot; / 093 Anthracite</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>751-093-12x12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&quot;x12&quot; / 021 Yellow</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>751-021-12x12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&quot;x12&quot; / 034 Orange</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>751-034-12x12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&quot;x12&quot; / 031 Red</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>751-031-12x12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&quot;x12&quot; / 044 Magenta</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>751-044-12x12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&quot;x12&quot; / 043 Lavender</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>751-043-12x12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&quot;x12&quot; / 055 Mint</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>751-055-12x12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&quot;x12&quot; / 054 Turquoise</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>751-054-12x12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&quot;x12&quot; / 607 Turquoise Green</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>751-607-12x12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&quot;x12&quot; / 608 Petrol</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>751-608-12x12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&quot;x12&quot; / 617 Emerald</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>751-617-12x12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&quot;x12&quot; / 062 Light Green</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>751-062-12x12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&quot;x12&quot; / 053 Light Blue</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>751-053-12x12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&quot;x12&quot; / 067 Blue</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>751-067-12x12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&quot;x12&quot; / 080 Brown</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>751-080-12x12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&apos;&apos;x24&apos;&apos; / 010 White</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku>751-010-12x24</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&apos;&apos;x24&apos;&apos; / 010 White Matte</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku>751-010-M-12x24</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&apos;&apos;x24&apos;&apos; / 070 Black</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku>751-070-12x24</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&apos;&apos;x24&apos;&apos; / 070 Black Matte</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku>751-070-M-12x24</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&apos;&apos;x24&apos;&apos; / 090 Silver</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku>751-090-12x24</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&apos;&apos;x24&apos;&apos; / 930 Gold</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku>751-930-12x24</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&apos;&apos;x24&apos;&apos; / 071 Grey</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku>751-071-12x24</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&apos;&apos;x24&apos;&apos; / 093 Anthracite</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku>751-093-12x24</s:sku>
+      <s:grams>72</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&apos;&apos;x24&apos;&apos; / 021 Yellow</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku>751-021-12x24</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&apos;&apos;x24&apos;&apos; / 034 Orange</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku>751-034-12x24</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&apos;&apos;x24&apos;&apos; / 031 Red</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku>751-031-12x24</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&apos;&apos;x24&apos;&apos; / 044 Magenta</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku>751-044-12x24</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&apos;&apos;x24&apos;&apos; / 043 Lavender</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku>751-043-12x24</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&apos;&apos;x24&apos;&apos; / 055 Mint</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku>751-055-12x24</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&apos;&apos;x24&apos;&apos; / 054 Turquoise</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku>751-054-12x24</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&apos;&apos;x24&apos;&apos; / 607 Turquoise Green</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku>751-607-12x24</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&apos;&apos;x24&apos;&apos; / 608 Petrol</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku>751-608-12x24</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&apos;&apos;x24&apos;&apos; / 617 Emerald</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku>751-607-12x24</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&apos;&apos;x24&apos;&apos; / 062 Light Green</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku>751-062-12x24</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&apos;&apos;x24&apos;&apos; / 053 Light Blue</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku>751-053-12x24</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&apos;&apos;x24&apos;&apos; / 067 Blue</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku>751-067-12x24</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&apos;&apos;x24&apos;&apos; / 080 Brown</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku>751-080-12x24</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&quot; x 1 yard (36&quot;) / 010 White</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku>751-010-12x1yard</s:sku>
+      <s:grams>72</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&quot; x 1 yard (36&quot;) / 010 White Matte</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku>751-010-M-12x1yrd</s:sku>
+      <s:grams>72</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&quot; x 1 yard (36&quot;) / 070 Black</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku>751-070-12x1yard</s:sku>
+      <s:grams>72</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&quot; x 1 yard (36&quot;) / 070 Black Matte</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku>751-070-M-12x1yard</s:sku>
+      <s:grams>72</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&quot; x 1 yard (36&quot;) / 090 Silver</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku>751-090-12x1yrd</s:sku>
+      <s:grams>72</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&quot; x 1 yard (36&quot;) / 930 Gold</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku>751-930-12x1yrd</s:sku>
+      <s:grams>72</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&quot; x 1 yard (36&quot;) / 071 Grey</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku>751-071-12x1 yrd</s:sku>
+      <s:grams>72</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&quot; x 1 yard (36&quot;) / 093 Anthracite</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku>751-093-12x1 yrd</s:sku>
+      <s:grams>72</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&quot; x 1 yard (36&quot;) / 021 Yellow</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku>751-021-12x1 yrd</s:sku>
+      <s:grams>72</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&quot; x 1 yard (36&quot;) / 034 Orange</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku>751-034-12x1 yrd</s:sku>
+      <s:grams>72</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&quot; x 1 yard (36&quot;) / 031 Red</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku>751-031-12x1 yrd</s:sku>
+      <s:grams>72</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&quot; x 1 yard (36&quot;) / 044 Magenta</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku>751-044-12x36</s:sku>
+      <s:grams>72</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&quot; x 1 yard (36&quot;) / 043 Lavender</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku>751-043-12x1 yrd</s:sku>
+      <s:grams>72</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&quot; x 1 yard (36&quot;) / 055 Mint</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku>751-055-12x1 yrd</s:sku>
+      <s:grams>72</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&quot; x 1 yard (36&quot;) / 054 Turquoise</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku>751-054-12x1 yrd</s:sku>
+      <s:grams>72</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&quot; x 1 yard (36&quot;) / 607 Turquoise Green</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku>751-607-12x1 yrd</s:sku>
+      <s:grams>72</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&quot; x 1 yard (36&quot;) / 608 Petrol</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku>751-608-12x1 yrd</s:sku>
+      <s:grams>72</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&quot; x 1 yard (36&quot;) / 617 Emerald</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku>751-607-12x1 yrd</s:sku>
+      <s:grams>72</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&quot; x 1 yard (36&quot;) / 062 Light Green</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku>751-062-12x1 yrd</s:sku>
+      <s:grams>72</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&quot; x 1 yard (36&quot;) / 053 Light Blue</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku>751-053-12x1 yrd</s:sku>
+      <s:grams>72</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&quot; x 1 yard (36&quot;) / 067 Blue</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku>751-067-12x1 yrd</s:sku>
+      <s:grams>72</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1362591449168</id>
+      <title>12&quot; x 1 yard (36&quot;) / 080 Brown</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku>751-080-12x1 yrd</s:sku>
+      <s:grams>72</s:grams>
+    </s:variant>
+  </entry>
+</feed>

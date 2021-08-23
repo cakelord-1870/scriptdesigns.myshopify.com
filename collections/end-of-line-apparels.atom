@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://scriptdesigns.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://scriptdesigns.myshopify.com/collections/end-of-line-apparels.atom"/>
+  <title>ScriptDesigns</title>
+  <updated>2021-03-02T11:21:32-05:00</updated>
+  <author>
+    <name>ScriptDesigns</name>
+  </author>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/6538494738512</id>
+    <published>2021-03-02T11:21:32-05:00</published>
+    <updated>2021-03-02T11:21:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/fruit-of-the-loom-best-tshirts"/>
+    <title>Fruit of the Loom Best - TShirts</title>
+    <s:type>sweatshirt</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/fruit-of-the-loom_3931_ash.jpg?v=1614702334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>sweatshirt<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Discontinued bulk warehouse items at discounted price and limited quantities.</strong></p>
+<p>50% cotton / 50% polyester</p>
+<p>If the item shows out of stock, it is no longer available at this price.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>50% cotton</s:tag>
+    <s:tag>50% polyester</s:tag>
+    <s:tag>fruit of the loom</s:tag>
+    <s:tag>sweatshirt</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6538494738512</id>
+      <title>XXL / Ash Grey</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/1477943197776</id>
+    <published>2021-03-02T10:45:16-05:00</published>
+    <updated>2021-03-02T10:45:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/fruit-of-the-loom-best-sweatshirt"/>
+    <title>Fruit of the Loom Best - Sweatshirt</title>
+    <s:type>sweatshirt</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/Fruit_of_the_Loom_Ash_Gray.jpg?v=1614700049"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>sweatshirt<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Discontinued bulk warehouse items at discounted price and limited quantities.</strong></p>
+<p>50% cotton / 50% polyester</p>
+<p>If the item shows out of stock, it is no longer available at this price.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>50% cotton</s:tag>
+    <s:tag>50% polyester</s:tag>
+    <s:tag>fruit of the loom</s:tag>
+    <s:tag>sweatshirt</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1477943197776</id>
+      <title>Small / Dark Red</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>FOTL-LGREY-S</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1477943197776</id>
+      <title>Small / Dark Green</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>FOTL-LGREY-S</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1477943197776</id>
+      <title>Small / Teal</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>FOTL-LGREY-S</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/1386675798096</id>
+    <published>2021-03-02T10:05:18-05:00</published>
+    <updated>2021-03-02T10:05:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/black-t-shirt-fruit-of-the-loom"/>
+    <title>Fruit of the Loom Adult Heavy Cotton T-Shirt</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/3931_51_z.jpg?v=1614715548"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><span color="#333333" face="Arial, Helvetica, sans-serif" style="color: #333333; font-family: Arial, Helvetica, sans-serif;"><strong>Discontinued bulk warehouse items at discounted price and limited quantities.</strong></span></div>
+<div><span color="#333333" face="Arial, Helvetica, sans-serif" style="color: #333333; font-family: Arial, Helvetica, sans-serif;"><strong></strong></span></div>
+<div><span color="#333333" face="Arial, Helvetica, sans-serif" style="color: #333333; font-family: Arial, Helvetica, sans-serif;"><strong></strong></span></div>
+<ul class="bullet" style="background-color: transparent; color: #333333; font-family: Arial,Helvetica,sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; list-style-image: none; list-style-position: outside; list-style-type: square; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; padding: 0px; margin: 0px 0px 0px 15px;">
+<li style="font-size: 12px; list-style-image: none; list-style-position: outside; list-style-type: square; padding: 0px; margin: 0px;">100% cotton preshrunk jersey</li>
+</ul>
+<ul class="bullet" style="background-color: transparent; color: #333333; font-family: Arial,Helvetica,sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; list-style-image: none; list-style-position: outside; list-style-type: square; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; padding: 0px; margin: 0px 0px 0px 15px;">
+<li style="font-size: 12px; list-style-image: none; list-style-position: outside; list-style-type: square; padding: 0px; margin: 0px;">shoulder-to-shoulder tape; double-needle coverstitched front neck</li>
+<li style="font-size: 12px; list-style-image: none; list-style-position: outside; list-style-type: square; padding: 0px; margin: 0px;">double-needle stitched sleeves and bottom hem</li>
+<li style="font-size: 12px; list-style-image: none; list-style-position: outside; list-style-type: square; padding: 0px; margin: 0px;">high-density fabric for exceptional printing clarity</li>
+<li style="font-size: 12px; list-style-image: none; list-style-position: outside; list-style-type: square; padding: 0px; margin: 0px;">seamless 1x1 ribbed collar</li>
+</ul>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>100%cotton</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>double-needle</s:tag>
+    <s:tag>high-density</s:tag>
+    <s:tag>jersey</s:tag>
+    <s:tag>preshrunk</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1386675798096</id>
+      <title>XXL / Navy Blue</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku>FRUITOFTHELOOM-BLACK-2</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1386675798096</id>
+      <title>XL / Light Blue</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku>FRUITOFTHELOOM-LIGHT BLUE-3</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1386675798096</id>
+      <title>Large / Light Grey</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku>FRUITOFTHELOOM-BLACK-1</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1386675798096</id>
+      <title>XX Large / White</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku>FRUITOFTHELOOM-BLACK-1</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1386675798096</id>
+      <title>XX Large / Athletic Grey</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku>FRUITOFTHELOOM-BLACK-1</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1386675798096</id>
+      <title>L / Light Blue</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku>FRUITOFTHELOOM-LIGHT BLUE-3</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1386675798096</id>
+      <title>XXXLarge / Light Grey</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku>FRUITOFTHELOOM-BLACK-1</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1386675798096</id>
+      <title>XXL / Indigo Blue</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku>FRUITOFTHELOOM-WHITE-3</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1386675798096</id>
+      <title>XXX Large / White</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku>FRUITOFTHELOOM-BLACK-1</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1386675798096</id>
+      <title>M / Burgundy</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku>FRUITOFTHELOOM-BLACK-2</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/1386675798096</id>
+      <title>XXLarge / Bright Red</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku>FRUITOFTHELOOM-BLACK-1</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+</feed>

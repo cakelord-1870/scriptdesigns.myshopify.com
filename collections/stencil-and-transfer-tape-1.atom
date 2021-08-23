@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://scriptdesigns.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://scriptdesigns.myshopify.com/collections/stencil-and-transfer-tape-1.atom"/>
+  <title>ScriptDesigns</title>
+  <updated>2017-08-16T19:32:02-04:00</updated>
+  <author>
+    <name>ScriptDesigns</name>
+  </author>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/11590021830</id>
+    <published>2017-08-16T19:32:02-04:00</published>
+    <updated>2017-08-16T19:32:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/styletech-transfer-tape"/>
+    <title>Styletech - Transfer Tape</title>
+    <s:type>Styletech Transfer Tape</s:type>
+    <s:vendor>Tape Technologies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/36676467_10155415887787161_5660420880677732352_n.jpg?v=1530799693"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tape Technologies<br>
+        <strong>Type: </strong>Styletech Transfer Tape<br>
+        <strong>Price: </strong>
+            0.95 - 19.50
+            <a href="https://scriptdesigns.myshopify.com/products/styletech-transfer-tape">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>You don't want to invest in a huge roll of transfer tape?  We have a few options for you.</p>
+<p>The Styletech transfer tape is a mid to high tack tape that works beautifully.  No more overly sticky tape that won't come off or tape that just won't stick.  These rolls come are 12" wide by 30 feet long.  Note that you can reuse your tape many times.  </p>
+<p>We have 3 different options available: </p>
+<p>- Clear with a grid printed right onto the tape (not recommended for wet applications).</p>
+<p>- Clear with a paper protective sheet.  The grids are not on the tape but on the paper sheet (not recommended for wet applications).</p>
+<p>- A paper tape that is good for both wet and dry applications.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12</s:tag>
+    <s:tag>inches</s:tag>
+    <s:tag>roll</s:tag>
+    <s:tag>small</s:tag>
+    <s:tag>tape</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/11590021830</id>
+      <title>Clear with grid on Tape - 12&quot;x30 feet roll</title>
+      <s:price currency="CAD">19.50</s:price>
+      <s:sku>TransferTapeStylClearWgrid-30feetRoll</s:sku>
+      <s:grams>275</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/11590021830</id>
+      <title>Clear tape with grid and liner - 12&quot;x 30 feet roll</title>
+      <s:price currency="CAD">19.50</s:price>
+      <s:sku>TransferTapeStylPaperback-30feetRoll</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/11590021830</id>
+      <title>Paper - 12&quot;x 30 feet roll</title>
+      <s:price currency="CAD">15.50</s:price>
+      <s:sku>TransferTapeStylPaperback-30feetRoll</s:sku>
+      <s:grams>275</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/11590021830</id>
+      <title>Clear no grid, no backing - 12&quot;x 30 feet roll</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>TransferTapeStylClearNogrid-30feetRoll</s:sku>
+      <s:grams>275</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/11590021830</id>
+      <title>Clear tape with grid and liner - 1 yard x 12&quot;</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>TransferTapeStylClearWgrid-1yard</s:sku>
+      <s:grams>275</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/11590021830</id>
+      <title>Clear tape with grid and liner - 12&quot;x12&quot; sheet</title>
+      <s:price currency="CAD">0.95</s:price>
+      <s:sku>TransferTapeStylClearWgrid-12x12</s:sku>
+      <s:grams>275</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/6018321414</id>
+    <published>2016-03-10T10:17:00-05:00</published>
+    <updated>2016-03-10T10:17:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/protac-high-tack-transfer-tape"/>
+    <title>PROTAC High Tack - Transfer Tape</title>
+    <s:type>PROTAC Transfer tape</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/App-Tape-header-248x300.jpg?v=1486156639"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>PROTAC Transfer tape<br>
+        <strong>Price: </strong>
+            20.00 - 58.00
+            <a href="https://scriptdesigns.myshopify.com/products/protac-high-tack-transfer-tape">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PROTAC is an easy to handle paper based application tape.  It tears easily and leaves no stringy adhesive. It works great in dry or wet applications making your vinyl installation process smooth and trouble-free.  It can even be re-used!  Try it and you will love it.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adhesive</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>base</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>french</s:tag>
+    <s:tag>lowest prices</s:tag>
+    <s:tag>making</s:tag>
+    <s:tag>oracal</s:tag>
+    <s:tag>paper</s:tag>
+    <s:tag>protac</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>sign</s:tag>
+    <s:tag>sign making</s:tag>
+    <s:tag>signmaking</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>transfer tape</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Wall decal</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6018321414</id>
+      <title>3&quot; x 100 Yards</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>PRO-TAC - 3X100yards</s:sku>
+      <s:grams>420</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6018321414</id>
+      <title>6&apos;&apos; x 100 Yards</title>
+      <s:price currency="CAD">33.00</s:price>
+      <s:sku>PRO-TAC - 6X100yards</s:sku>
+      <s:grams>825</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6018321414</id>
+      <title>12&apos;&apos; x 100 Yards</title>
+      <s:price currency="CAD">58.00</s:price>
+      <s:sku>PRO-TAC - 12X100yards</s:sku>
+      <s:grams>1651</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/6006738822</id>
+    <published>2016-03-10T10:17:00-05:00</published>
+    <updated>2016-03-10T10:17:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/at65-clear-application-transfer-tape-high-tack"/>
+    <title>AT65 - Clear Application / Transfer Tape (high tack)</title>
+    <s:type>AT 65 - Transfer tape</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/AT_Tape.jpg?v=1486155051"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>AT 65 - Transfer tape<br>
+        <strong>Price: </strong>
+            21.00 - 78.00
+            <a href="https://scriptdesigns.myshopify.com/products/at65-clear-application-transfer-tape-high-tack">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Clear Choice® AT65 is an ultra-clear, high tack film application tape that provides exceptional performance and versatility for the widest range of sign applications. AT65 is the tape you will want to keep on hand. It's high tack adhesive system is especially well suited for transferring small, high detail cut graphics.  AT65's exceptionally clear film allows for precise registration of multiple color overlays, while the rigid polypropylene film minimizes stretching for precise alignment of graphics.</p>
+<p>For more details, please follow the links below:</p>
+<p><span style="color: #0b5394;"><a title="AT-65 instructions" style="color: #0b5394;" href="http://www.rtape.com/library/sell-sheets/ClearChoiceAT65_SellSheet_4.17.14.pdf" target="_blank" rel="noopener noreferrer">http://www.rtape.com/library/sell-sheets/ClearChoiceAT65_SellSheet_4.17.14.pdf</a></span></p>
+<p><a title="at-65 Application video" href="http://www.rtape.com/blog-post/introducing-at65-clear-application-tape?A=WebApp&amp;Page=4"> http://www.rtape.com/blog-post/introducing-at65-clear-application-tape?A=WebApp&amp;Page=4</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adhesive</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>AT-65</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>clear</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>french</s:tag>
+    <s:tag>lowest prices</s:tag>
+    <s:tag>making</s:tag>
+    <s:tag>oracal</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>RTape</s:tag>
+    <s:tag>sign</s:tag>
+    <s:tag>sign making</s:tag>
+    <s:tag>signmaking</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>tape</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>transfer tape</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Wall decal</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6006738822</id>
+      <title>3&quot; x 100 yards</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku>AT-65 - 3X100yards</s:sku>
+      <s:grams>675</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6006738822</id>
+      <title>6&apos;&apos; x 100 Yards</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AT-65 - 6X100yards</s:sku>
+      <s:grams>1380</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/6006738822</id>
+      <title>12&apos;&apos; x 100 Yards</title>
+      <s:price currency="CAD">78.00</s:price>
+      <s:sku>AT-65 - 12X100yards</s:sku>
+      <s:grams>2700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://scriptdesigns.myshopify.com/products/5372776838</id>
+    <published>2016-03-10T10:17:00-05:00</published>
+    <updated>2016-03-10T10:17:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://scriptdesigns.myshopify.com/products/at60n-clear-application-transfer-tape-medium-tack"/>
+    <title>AT60n - Clear Application / Transfer Tape (low tack)</title>
+    <s:type>AT 60 - Transfer tape</s:type>
+    <s:vendor>ScriptDesigns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1200/0308/products/AT_Tape_4396e08e-173f-4663-97e9-6c16bb7dc4e8.jpg?v=1486155047"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ScriptDesigns<br>
+        <strong>Type: </strong>AT 60 - Transfer tape<br>
+        <strong>Price: </strong>
+            21.00 - 76.00
+            <a href="https://scriptdesigns.myshopify.com/products/at60n-clear-application-transfer-tape-medium-tack">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Clear Choice® AT60n is an ultra-clear, low tack film application tape designed to transfer larger format graphics, fleet graphics, wall murals and window graphics.  For more detailed cut files, we recommend the AT-65 tape or the PROTAC paper based transfer tape.</p>
+<p>For more information, please follow the link below:</p>
+<div style="left: 115.2px; top: 567.598px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.882888);" data-canvas-width="201.2985"><a title="AT-60 information sheet" href="http://www.rtape.com/library/sell-sheets/ClearChoiceAT60n_SellSheet_4.17.14.pdf">http://www.rtape.com/library/sell-sheets/ClearChoiceAT60n_SellSheet_4.17.14.pdf</a></div>
+<div style="left: 115.2px; top: 567.598px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.882888);" data-canvas-width="201.2985"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adhesive</s:tag>
+    <s:tag>application</s:tag>
+    <s:tag>cameo</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>cricut</s:tag>
+    <s:tag>cutter</s:tag>
+    <s:tag>cutter/plotter</s:tag>
+    <s:tag>cutting</s:tag>
+    <s:tag>distributor</s:tag>
+    <s:tag>french</s:tag>
+    <s:tag>lowest prices</s:tag>
+    <s:tag>making</s:tag>
+    <s:tag>oracal</s:tag>
+    <s:tag>Québec</s:tag>
+    <s:tag>sign</s:tag>
+    <s:tag>sign making</s:tag>
+    <s:tag>signmaking</s:tag>
+    <s:tag>silhouette</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:tag>transfer tape</s:tag>
+    <s:tag>vinyl</s:tag>
+    <s:tag>Wall decal</s:tag>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5372776838</id>
+      <title>3&quot;x100 Yards</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku>AT-60 - 3x100yards</s:sku>
+      <s:grams>675</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5372776838</id>
+      <title>6&apos;&apos; x 100 Yards</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AT-60 - 6X100yards</s:sku>
+      <s:grams>1380</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://scriptdesigns.myshopify.com/products/5372776838</id>
+      <title>12&apos;&apos; x 100 Yards</title>
+      <s:price currency="CAD">76.00</s:price>
+      <s:sku>AT-60 - 12X100yards</s:sku>
+      <s:grams>2700</s:grams>
+    </s:variant>
+  </entry>
+</feed>
